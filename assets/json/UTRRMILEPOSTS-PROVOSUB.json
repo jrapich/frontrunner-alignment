@@ -1,0 +1,5342 @@
+{
+  "objectIdFieldName": "OBJECTID",
+  "uniqueIdField": { "name": "OBJECTID", "isSystemMaintained": true },
+  "globalIdFieldName": "",
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": { "wkid": 4326, "latestWkid": 4326 },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DIVISION",
+      "type": "esriFieldTypeString",
+      "alias": "DIVISION",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "RR_Milepos",
+      "type": "esriFieldTypeString",
+      "alias": "RR_Milepos",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LAT",
+      "type": "esriFieldTypeDouble",
+      "alias": "LAT",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LON",
+      "type": "esriFieldTypeDouble",
+      "alias": "LON",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LABEL",
+      "type": "esriFieldTypeString",
+      "alias": "LABEL",
+      "sqlType": "sqlTypeOther",
+      "length": 30,
+      "domain": null,
+      "defaultValue": null
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 1914,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "706.5",
+        "LAT": 40.28321399,
+        "LON": -111.72759695,
+        "LABEL": "PROVO 706.5"
+      },
+      "geometry": { "x": -111.72759694883126, "y": 40.283213987272283 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1915,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "706.75",
+        "LAT": 40.28636607,
+        "LON": -111.72998223,
+        "LABEL": "PROVO 706.75"
+      },
+      "geometry": { "x": -111.72998222743887, "y": 40.286366072751413 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2019,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "642.5",
+        "LAT": 39.84091322,
+        "LON": -110.98564983,
+        "LABEL": "PROVO 642.5"
+      },
+      "geometry": { "x": -110.98564982698015, "y": 39.84091321908533 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2020,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "642.75",
+        "LAT": 39.84294126,
+        "LON": -110.99019093,
+        "LABEL": "PROVO 642.75"
+      },
+      "geometry": { "x": -110.99019092662404, "y": 39.842941261211138 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2021,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "643",
+        "LAT": 39.84453429,
+        "LON": -110.99499388,
+        "LABEL": "PROVO 643"
+      },
+      "geometry": { "x": -110.99499387708842, "y": 39.844534294128785 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2022,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "643.25",
+        "LAT": 39.84292682,
+        "LON": -110.99831115,
+        "LABEL": "PROVO 643.25"
+      },
+      "geometry": { "x": -110.99831115331173, "y": 39.842926821718805 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2023,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "650.5",
+        "LAT": 39.92012904,
+        "LON": -111.06762319,
+        "LABEL": "PROVO 650.5"
+      },
+      "geometry": { "x": -111.06762318523909, "y": 39.920129043827764 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2024,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "650.75",
+        "LAT": 39.92229247,
+        "LON": -111.07140124,
+        "LABEL": "PROVO 650.75"
+      },
+      "geometry": { "x": -111.07140123971097, "y": 39.922292466196375 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2025,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "651",
+        "LAT": 39.92397005,
+        "LON": -111.07562992,
+        "LABEL": "PROVO 651"
+      },
+      "geometry": { "x": -111.07562992146873, "y": 39.923970054151361 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2026,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "651.25",
+        "LAT": 39.92540086,
+        "LON": -111.07922427,
+        "LABEL": "PROVO 651.25"
+      },
+      "geometry": { "x": -111.07922427226163, "y": 39.925400859276849 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2027,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "654.5",
+        "LAT": 39.93066679,
+        "LON": -111.13668581,
+        "LABEL": "PROVO 654.5"
+      },
+      "geometry": { "x": -111.136685806216, "y": 39.930666794544244 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2028,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "654.75",
+        "LAT": 39.93038228,
+        "LON": -111.14205705,
+        "LABEL": "PROVO 654.75"
+      },
+      "geometry": { "x": -111.14205705338699, "y": 39.930382284712039 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2029,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "655",
+        "LAT": 39.92976281,
+        "LON": -111.14759999,
+        "LABEL": "PROVO 655"
+      },
+      "geometry": { "x": -111.147599991965, "y": 39.929762808271605 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2030,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "655.25",
+        "LAT": 39.92722999,
+        "LON": -111.15021563,
+        "LABEL": "PROVO 655.25"
+      },
+      "geometry": { "x": -111.15021562556092, "y": 39.927229992154842 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2031,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "655.5",
+        "LAT": 39.9237396,
+        "LON": -111.14951964,
+        "LABEL": "PROVO 655.5"
+      },
+      "geometry": { "x": -111.14951963782823, "y": 39.923739602033159 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2032,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "655.75",
+        "LAT": 39.9207362,
+        "LON": -111.15159829,
+        "LABEL": "PROVO 655.75"
+      },
+      "geometry": { "x": -111.15159829358161, "y": 39.920736199497696 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2033,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "656",
+        "LAT": 39.92272978,
+        "LON": -111.15497759,
+        "LABEL": "PROVO 656"
+      },
+      "geometry": { "x": -111.15497759308539, "y": 39.922729774678736 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2034,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "656.25",
+        "LAT": 39.9238933,
+        "LON": -111.15829422,
+        "LABEL": "PROVO 656.25"
+      },
+      "geometry": { "x": -111.1582942162335, "y": 39.923893300704357 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2035,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "660.75",
+        "LAT": 39.93157517,
+        "LON": -111.1700079,
+        "LABEL": "PROVO 660.75"
+      },
+      "geometry": { "x": -111.17000790348366, "y": 39.931575174689925 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2036,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "661",
+        "LAT": 39.93071,
+        "LON": -111.17530995,
+        "LABEL": "PROVO 661"
+      },
+      "geometry": { "x": -111.17530994624181, "y": 39.9307099983674 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2037,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "661.25",
+        "LAT": 39.93007376,
+        "LON": -111.17922629,
+        "LABEL": "PROVO 661.25"
+      },
+      "geometry": { "x": -111.17922629365673, "y": 39.93007376164158 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2038,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "664.75",
+        "LAT": 39.95222078,
+        "LON": -111.22345411,
+        "LABEL": "PROVO 664.75"
+      },
+      "geometry": { "x": -111.22345411184847, "y": 39.952220778702561 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2039,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "665",
+        "LAT": 39.95452004,
+        "LON": -111.22777992,
+        "LABEL": "PROVO 665"
+      },
+      "geometry": { "x": -111.22777992035304, "y": 39.954520037368376 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2040,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "665.25",
+        "LAT": 39.95515191,
+        "LON": -111.23242625,
+        "LABEL": "PROVO 665.25"
+      },
+      "geometry": { "x": -111.23242625224258, "y": 39.955151911076562 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2041,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "665.5",
+        "LAT": 39.95556738,
+        "LON": -111.23714085,
+        "LABEL": "PROVO 665.5"
+      },
+      "geometry": { "x": -111.2371408542971, "y": 39.955567379413814 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2042,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "665.75",
+        "LAT": 39.95597708,
+        "LON": -111.24185634,
+        "LABEL": "PROVO 665.75"
+      },
+      "geometry": { "x": -111.24185633670055, "y": 39.955977076196149 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2043,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "666",
+        "LAT": 39.95638978,
+        "LON": -111.24657138,
+        "LABEL": "PROVO 666"
+      },
+      "geometry": { "x": -111.24657137803125, "y": 39.956389781722734 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2044,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "666.25",
+        "LAT": 39.9561335,
+        "LON": -111.25051004,
+        "LABEL": "PROVO 666.25"
+      },
+      "geometry": { "x": -111.25051003959784, "y": 39.956133502287024 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2045,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "666.5",
+        "LAT": 39.9550444,
+        "LON": -111.25422719,
+        "LABEL": "PROVO 666.5"
+      },
+      "geometry": { "x": -111.25422719009008, "y": 39.955044398309646 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2046,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "671.5",
+        "LAT": 39.97262415,
+        "LON": -111.33656088,
+        "LABEL": "PROVO 671.5"
+      },
+      "geometry": { "x": -111.33656087698255, "y": 39.972624149368819 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2047,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "671.75",
+        "LAT": 39.97460908,
+        "LON": -111.34134464,
+        "LABEL": "PROVO 671.75"
+      },
+      "geometry": { "x": -111.34134464302572, "y": 39.974609075645972 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2048,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "672",
+        "LAT": 39.9765967,
+        "LON": -111.34612667,
+        "LABEL": "PROVO 672"
+      },
+      "geometry": { "x": -111.34612667172712, "y": 39.9765967026359 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2049,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "672.25",
+        "LAT": 39.97803899,
+        "LON": -111.34958916,
+        "LABEL": "PROVO 672.25"
+      },
+      "geometry": { "x": -111.34958915612454, "y": 39.978038990089253 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2050,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "674.75",
+        "LAT": 39.99162929,
+        "LON": -111.39074902,
+        "LABEL": "PROVO 674.75"
+      },
+      "geometry": { "x": -111.39074901472027, "y": 39.991629293527254 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2051,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "675",
+        "LAT": 39.99191946,
+        "LON": -111.39613556,
+        "LABEL": "PROVO 675"
+      },
+      "geometry": { "x": -111.39613555570898, "y": 39.991919463974249 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2052,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "675.25",
+        "LAT": 39.99334022,
+        "LON": -111.39961866,
+        "LABEL": "PROVO 675.25"
+      },
+      "geometry": { "x": -111.39961866452701, "y": 39.993340215779455 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2053,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "679.75",
+        "LAT": 39.99801655,
+        "LON": -111.48081262,
+        "LABEL": "PROVO 679.75"
+      },
+      "geometry": { "x": -111.48081261659766, "y": 39.998016546967314 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2054,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "680",
+        "LAT": 39.9986289,
+        "LON": -111.48606085,
+        "LABEL": "PROVO 680"
+      },
+      "geometry": { "x": -111.48606085386353, "y": 39.998628901457842 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2055,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "680.25",
+        "LAT": 39.99741636,
+        "LON": -111.49025445,
+        "LABEL": "PROVO 680.25"
+      },
+      "geometry": { "x": -111.49025445281619, "y": 39.997416355305248 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2056,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "680.5",
+        "LAT": 39.99932515,
+        "LON": -111.49357462,
+        "LABEL": "PROVO 680.5"
+      },
+      "geometry": { "x": -111.49357461532651, "y": 39.999325151204765 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2057,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "680.75",
+        "LAT": 40.00254832,
+        "LON": -111.49518511,
+        "LABEL": "PROVO 680.75"
+      },
+      "geometry": { "x": -111.49518511317125, "y": 40.002548316345177 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2058,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "681",
+        "LAT": 40.00585001,
+        "LON": -111.4941399,
+        "LABEL": "PROVO 681"
+      },
+      "geometry": { "x": -111.49413990357525, "y": 40.005850012525407 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2059,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "681.25",
+        "LAT": 40.00884114,
+        "LON": -111.49445621,
+        "LABEL": "PROVO 681.25"
+      },
+      "geometry": { "x": -111.49445620667498, "y": 40.008841138203543 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2060,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "681.5",
+        "LAT": 40.01180648,
+        "LON": -111.49388839,
+        "LABEL": "PROVO 681.5"
+      },
+      "geometry": { "x": -111.49388838787212, "y": 40.011806480297743 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2061,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "687.5",
+        "LAT": 40.06075777,
+        "LON": -111.5686653,
+        "LABEL": "PROVO 687.5"
+      },
+      "geometry": { "x": -111.56866529837252, "y": 40.060757772477743 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2062,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "687.75",
+        "LAT": 40.06400941,
+        "LON": -111.57208249,
+        "LABEL": "PROVO 687.75"
+      },
+      "geometry": { "x": -111.57208249061163, "y": 40.064009414282005 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2063,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "688",
+        "LAT": 40.06749433,
+        "LON": -111.57497062,
+        "LABEL": "PROVO 688"
+      },
+      "geometry": { "x": -111.57497062186079, "y": 40.067494333373 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2064,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "688.25",
+        "LAT": 40.07083086,
+        "LON": -111.57666588,
+        "LABEL": "PROVO 688.25"
+      },
+      "geometry": { "x": -111.57666588114247, "y": 40.070830855785552 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2065,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "688.5",
+        "LAT": 40.07358414,
+        "LON": -111.57964955,
+        "LABEL": "PROVO 688.5"
+      },
+      "geometry": { "x": -111.57964955091704, "y": 40.07358414190162 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2066,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "688.75",
+        "LAT": 40.07638373,
+        "LON": -111.58257767,
+        "LABEL": "PROVO 688.75"
+      },
+      "geometry": { "x": -111.58257766528116, "y": 40.076383727874536 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2067,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "689",
+        "LAT": 40.07918743,
+        "LON": -111.58549955,
+        "LABEL": "PROVO 689"
+      },
+      "geometry": { "x": -111.58549954713386, "y": 40.079187425964918 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2068,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "689.25",
+        "LAT": 40.08155712,
+        "LON": -111.58795134,
+        "LABEL": "PROVO 689.25"
+      },
+      "geometry": { "x": -111.58795134149669, "y": 40.081557117083292 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2069,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "689.5",
+        "LAT": 40.084222,
+        "LON": -111.58976827,
+        "LABEL": "PROVO 689.5"
+      },
+      "geometry": { "x": -111.58976827399034, "y": 40.084221995216822 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2070,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "697.75",
+        "LAT": 40.19323621,
+        "LON": -111.62407597,
+        "LABEL": "PROVO 697.75"
+      },
+      "geometry": { "x": -111.62407596955008, "y": 40.193236209917266 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2071,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "698",
+        "LAT": 40.19717642,
+        "LON": -111.6261728,
+        "LABEL": "PROVO 698"
+      },
+      "geometry": { "x": -111.62617279732333, "y": 40.197176422603938 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2072,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "698.25",
+        "LAT": 40.20050541,
+        "LON": -111.62790298,
+        "LABEL": "PROVO 698.25"
+      },
+      "geometry": { "x": -111.6279029786117, "y": 40.200505409710338 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2076,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "699.5",
+        "LAT": 40.21462548,
+        "LON": -111.64032603,
+        "LABEL": "PROVO 699.5"
+      },
+      "geometry": { "x": -111.64032603400071, "y": 40.214625476937563 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2077,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "698.5",
+        "LAT": 40.20382202,
+        "LON": -111.62967627,
+        "LABEL": "PROVO 698.5"
+      },
+      "geometry": { "x": -111.62967627094886, "y": 40.203822019578872 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2078,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "698.75",
+        "LAT": 40.20679039,
+        "LON": -111.63226889,
+        "LABEL": "PROVO 698.75"
+      },
+      "geometry": { "x": -111.63226888791057, "y": 40.206790393705823 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2079,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "699",
+        "LAT": 40.20960436,
+        "LON": -111.63516517,
+        "LABEL": "PROVO 699"
+      },
+      "geometry": { "x": -111.63516516777766, "y": 40.20960436030439 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2080,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "699.25",
+        "LAT": 40.21211365,
+        "LON": -111.63774765,
+        "LABEL": "PROVO 699.25"
+      },
+      "geometry": { "x": -111.63774765174298, "y": 40.212113645587721 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2081,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "712.5",
+        "LAT": 40.35736936,
+        "LON": -111.78899843,
+        "LABEL": "PROVO 712.5"
+      },
+      "geometry": { "x": -111.78899843073968, "y": 40.357369360994277 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2082,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "712.75",
+        "LAT": 40.36070768,
+        "LON": -111.79232265,
+        "LABEL": "PROVO 712.75"
+      },
+      "geometry": { "x": -111.79232264465195, "y": 40.360707681942657 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2083,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "713",
+        "LAT": 40.36404648,
+        "LON": -111.79564613,
+        "LABEL": "PROVO 713"
+      },
+      "geometry": { "x": -111.79564612823387, "y": 40.364046476883239 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2084,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "713.25",
+        "LAT": 40.36651487,
+        "LON": -111.79810275,
+        "LABEL": "PROVO 713.25"
+      },
+      "geometry": { "x": -111.79810275104134, "y": 40.366514871215514 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2085,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "715.75",
+        "LAT": 40.37925484,
+        "LON": -111.84138035,
+        "LABEL": "PROVO 715.75"
+      },
+      "geometry": { "x": -111.84138035468173, "y": 40.379254837020071 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2086,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "716",
+        "LAT": 40.38037445,
+        "LON": -111.84675767,
+        "LABEL": "PROVO 716"
+      },
+      "geometry": { "x": -111.84675767087077, "y": 40.380374452219044 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2087,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "716.25",
+        "LAT": 40.38118387,
+        "LON": -111.85062533,
+        "LABEL": "PROVO 716.25"
+      },
+      "geometry": { "x": -111.85062532780067, "y": 40.381183865818564 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2088,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "720.5",
+        "LAT": 40.42798067,
+        "LON": -111.89912302,
+        "LABEL": "PROVO 720.5"
+      },
+      "geometry": { "x": -111.8991230182009, "y": 40.427980667548859 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2089,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "720.75",
+        "LAT": 40.4312187,
+        "LON": -111.90263162,
+        "LABEL": "PROVO 720.75"
+      },
+      "geometry": { "x": -111.90263161941004, "y": 40.431218698074908 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2090,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "721",
+        "LAT": 40.43445666,
+        "LON": -111.90614037,
+        "LABEL": "PROVO 721"
+      },
+      "geometry": { "x": -111.90614036884122, "y": 40.434456665001896 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2091,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "721.25",
+        "LAT": 40.4368019,
+        "LON": -111.90867793,
+        "LABEL": "PROVO 721.25"
+      },
+      "geometry": { "x": -111.90867792716084, "y": 40.436801896335027 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2092,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "724.75",
+        "LAT": 40.47711226,
+        "LON": -111.92787605,
+        "LABEL": "PROVO 724.75"
+      },
+      "geometry": { "x": -111.92787605216817, "y": 40.47711225807889 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2093,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "725",
+        "LAT": 40.48086388,
+        "LON": -111.92549188,
+        "LABEL": "PROVO 725"
+      },
+      "geometry": { "x": -111.92549188477655, "y": 40.480863882968272 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2094,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "725.25",
+        "LAT": 40.48343889,
+        "LON": -111.92365217,
+        "LABEL": "PROVO 725.25"
+      },
+      "geometry": { "x": -111.92365217370225, "y": 40.4834388857144 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2095,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "726.5",
+        "LAT": 40.49883857,
+        "LON": -111.91273419,
+        "LABEL": "PROVO 726.5"
+      },
+      "geometry": { "x": -111.91273418807961, "y": 40.49883856776006 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2096,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "726.75",
+        "LAT": 40.50266069,
+        "LON": -111.90999798,
+        "LABEL": "PROVO 726.75"
+      },
+      "geometry": { "x": -111.90999798440288, "y": 40.502660690466108 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2097,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "727",
+        "LAT": 40.50649055,
+        "LON": -111.90728018,
+        "LABEL": "PROVO 727"
+      },
+      "geometry": { "x": -111.90728018361305, "y": 40.506490549147905 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2098,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "727.25",
+        "LAT": 40.50964356,
+        "LON": -111.90504856,
+        "LABEL": "PROVO 727.25"
+      },
+      "geometry": { "x": -111.90504856093648, "y": 40.509643563014315 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2099,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "727.5",
+        "LAT": 40.51312653,
+        "LON": -111.90411629,
+        "LABEL": "PROVO 727.5"
+      },
+      "geometry": { "x": -111.90411628933462, "y": 40.513126534323391 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2100,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "727.75",
+        "LAT": 40.51670897,
+        "LON": -111.9042555,
+        "LABEL": "PROVO 727.75"
+      },
+      "geometry": { "x": -111.90425549676263, "y": 40.51670896675224 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2101,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "728",
+        "LAT": 40.52029116,
+        "LON": -111.90440744,
+        "LABEL": "PROVO 728"
+      },
+      "geometry": { "x": -111.90440743691147, "y": 40.52029116474943 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2102,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "728.25",
+        "LAT": 40.52374577,
+        "LON": -111.9045565,
+        "LABEL": "PROVO 728.25"
+      },
+      "geometry": { "x": -111.90455649975645, "y": 40.523745765347492 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2103,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "728.5",
+        "LAT": 40.52720063,
+        "LON": -111.90469819,
+        "LABEL": "PROVO 728.5"
+      },
+      "geometry": { "x": -111.90469819102621, "y": 40.52720063173178 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2104,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "728.75",
+        "LAT": 40.53065056,
+        "LON": -111.904538,
+        "LABEL": "PROVO 728.75"
+      },
+      "geometry": { "x": -111.90453799985148, "y": 40.530650558375861 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2105,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "729",
+        "LAT": 40.53409206,
+        "LON": -111.90411431,
+        "LABEL": "PROVO 729"
+      },
+      "geometry": { "x": -111.90411431214268, "y": 40.534092063370267 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2106,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "729.25",
+        "LAT": 40.53729574,
+        "LON": -111.90372086,
+        "LABEL": "PROVO 729.25"
+      },
+      "geometry": { "x": -111.90372086352295, "y": 40.537295737851089 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2107,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "733.75",
+        "LAT": 40.60216272,
+        "LON": -111.90490076,
+        "LABEL": "PROVO 733.75"
+      },
+      "geometry": { "x": -111.90490076291941, "y": 40.6021627182216 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2108,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "734",
+        "LAT": 40.60634742,
+        "LON": -111.90568332,
+        "LABEL": "PROVO 734"
+      },
+      "geometry": { "x": -111.90568332219434, "y": 40.606347417265248 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2109,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "734.25",
+        "LAT": 40.60994117,
+        "LON": -111.90640008,
+        "LABEL": "PROVO 734.25"
+      },
+      "geometry": { "x": -111.90640008256965, "y": 40.609941165977958 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2110,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "734.5",
+        "LAT": 40.61354714,
+        "LON": -111.90695862,
+        "LABEL": "PROVO 734.5"
+      },
+      "geometry": { "x": -111.90695862447058, "y": 40.613547143412966 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2111,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "734.75",
+        "LAT": 40.61714591,
+        "LON": -111.90636599,
+        "LABEL": "PROVO 734.75"
+      },
+      "geometry": { "x": -111.9063659906063, "y": 40.617145907554843 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2112,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "735",
+        "LAT": 40.62072106,
+        "LON": -111.90550597,
+        "LABEL": "PROVO 735"
+      },
+      "geometry": { "x": -111.90550596960443, "y": 40.620721062321827 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2113,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "735.25",
+        "LAT": 40.62370062,
+        "LON": -111.90475601,
+        "LABEL": "PROVO 735.25"
+      },
+      "geometry": { "x": -111.90475601468273, "y": 40.623700616123394 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2114,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "631.5",
+        "LAT": 39.74631275,
+        "LON": -110.88154906,
+        "LABEL": "PROVO 631.5"
+      },
+      "geometry": { "x": -110.88154906423482, "y": 39.746312749324311 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2115,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "631.75",
+        "LAT": 39.74866832,
+        "LON": -110.88438216,
+        "LABEL": "PROVO 631.75"
+      },
+      "geometry": { "x": -110.88438215660483, "y": 39.748668323248033 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2116,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "632",
+        "LAT": 39.75180004,
+        "LON": -110.88540992,
+        "LABEL": "PROVO 632"
+      },
+      "geometry": { "x": -110.88540992001973, "y": 39.751800036161406 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2117,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "632.25",
+        "LAT": 39.75506098,
+        "LON": -110.88762377,
+        "LABEL": "PROVO 632.25"
+      },
+      "geometry": { "x": -110.88762377312166, "y": 39.755060974961033 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2118,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "647.5",
+        "LAT": 39.88003868,
+        "LON": -111.04345664,
+        "LABEL": "PROVO 647.5"
+      },
+      "geometry": { "x": -111.04345664188868, "y": 39.8800386758624 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2119,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "647.75",
+        "LAT": 39.88233416,
+        "LON": -111.04650175,
+        "LABEL": "PROVO 647.75"
+      },
+      "geometry": { "x": -111.04650175463205, "y": 39.882334164865135 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2120,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "648",
+        "LAT": 39.88481321,
+        "LON": -111.04926826,
+        "LABEL": "PROVO 648"
+      },
+      "geometry": { "x": -111.04926825938163, "y": 39.884813211914661 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2121,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "648.25",
+        "LAT": 39.8884839,
+        "LON": -111.05099194,
+        "LABEL": "PROVO 648.25"
+      },
+      "geometry": { "x": -111.05099193776564, "y": 39.8884838978658 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2122,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "648.5",
+        "LAT": 39.89223819,
+        "LON": -111.05243906,
+        "LABEL": "PROVO 648.5"
+      },
+      "geometry": { "x": -111.05243905811135, "y": 39.892238191321567 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2165,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "716.5",
+        "LAT": 40.38263549,
+        "LON": -111.85406978,
+        "LABEL": "PROVO 716.5"
+      },
+      "geometry": { "x": -111.8540697803154, "y": 40.382635492901223 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2166,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "716.75",
+        "LAT": 40.3854925,
+        "LON": -111.85526541,
+        "LABEL": "PROVO 716.75"
+      },
+      "geometry": { "x": -111.85526541370405, "y": 40.38549250475765 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2167,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "717",
+        "LAT": 40.38855699,
+        "LON": -111.85540137,
+        "LABEL": "PROVO 717"
+      },
+      "geometry": { "x": -111.85540136833241, "y": 40.388556990847448 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2168,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "717.25",
+        "LAT": 40.39179392,
+        "LON": -111.85728189,
+        "LABEL": "PROVO 717.25"
+      },
+      "geometry": { "x": -111.85728188807346, "y": 40.391793923363089 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2169,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "717.5",
+        "LAT": 40.3944869,
+        "LON": -111.8604678,
+        "LABEL": "PROVO 717.5"
+      },
+      "geometry": { "x": -111.86046780185616, "y": 40.394486902623974 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2170,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "710.75",
+        "LAT": 40.33636004,
+        "LON": -111.76808845,
+        "LABEL": "PROVO 710.75"
+      },
+      "geometry": { "x": -111.76808845277077, "y": 40.336360035180881 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2171,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "711",
+        "LAT": 40.33923717,
+        "LON": -111.77095724,
+        "LABEL": "PROVO 711"
+      },
+      "geometry": { "x": -111.77095724508848, "y": 40.339237168894762 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2172,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "711.25",
+        "LAT": 40.34210046,
+        "LON": -111.77380642,
+        "LABEL": "PROVO 711.25"
+      },
+      "geometry": { "x": -111.77380641640374, "y": 40.342100458057679 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2173,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "709.75",
+        "LAT": 40.32420064,
+        "LON": -111.75793794,
+        "LABEL": "PROVO 709.75"
+      },
+      "geometry": { "x": -111.75793793652291, "y": 40.324200640013473 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2174,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "710",
+        "LAT": 40.32741206,
+        "LON": -111.76011697,
+        "LABEL": "PROVO 710"
+      },
+      "geometry": { "x": -111.76011696643288, "y": 40.327412058647496 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2175,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "710.25",
+        "LAT": 40.33057916,
+        "LON": -111.76239927,
+        "LABEL": "PROVO 710.25"
+      },
+      "geometry": { "x": -111.76239926666788, "y": 40.330579161338143 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2176,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "710.5",
+        "LAT": 40.33348165,
+        "LON": -111.76522192,
+        "LABEL": "PROVO 710.5"
+      },
+      "geometry": { "x": -111.76522191702102, "y": 40.3334816530057 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2177,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "708.75",
+        "LAT": 40.31143366,
+        "LON": -111.74901533,
+        "LABEL": "PROVO 708.75"
+      },
+      "geometry": { "x": -111.74901533103018, "y": 40.31143366288871 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2178,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "709",
+        "LAT": 40.31457256,
+        "LON": -111.75138609,
+        "LABEL": "PROVO 709"
+      },
+      "geometry": { "x": -111.75138608567627, "y": 40.314572557503375 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2179,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "709.25",
+        "LAT": 40.31777678,
+        "LON": -111.75358265,
+        "LABEL": "PROVO 709.25"
+      },
+      "geometry": { "x": -111.75358265339553, "y": 40.3177767827345 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2180,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "709.5",
+        "LAT": 40.32098893,
+        "LON": -111.75575971,
+        "LABEL": "PROVO 709.5"
+      },
+      "geometry": { "x": -111.75575970611355, "y": 40.320988926130845 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2181,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "707.75",
+        "LAT": 40.29889176,
+        "LON": -111.73952034,
+        "LABEL": "PROVO 707.75"
+      },
+      "geometry": { "x": -111.73952033610639, "y": 40.29889175514046 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2182,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "708",
+        "LAT": 40.30202295,
+        "LON": -111.74189004,
+        "LABEL": "PROVO 708"
+      },
+      "geometry": { "x": -111.7418900442152, "y": 40.302022951878584 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2183,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "708.25",
+        "LAT": 40.30516082,
+        "LON": -111.74426295,
+        "LABEL": "PROVO 708.25"
+      },
+      "geometry": { "x": -111.7442629503264, "y": 40.30516081919852 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2184,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "708.5",
+        "LAT": 40.30830024,
+        "LON": -111.74663223,
+        "LABEL": "PROVO 708.5"
+      },
+      "geometry": { "x": -111.74663223083711, "y": 40.308300242380788 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2185,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "707",
+        "LAT": 40.2895139,
+        "LON": -111.73237705,
+        "LABEL": "PROVO 707"
+      },
+      "geometry": { "x": -111.73237704525648, "y": 40.289513900593917 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2186,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "707.25",
+        "LAT": 40.29264604,
+        "LON": -111.73474399,
+        "LABEL": "PROVO 707.25"
+      },
+      "geometry": { "x": -111.73474398565588, "y": 40.292646036901942 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2187,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "707.5",
+        "LAT": 40.29577448,
+        "LON": -111.73711968,
+        "LABEL": "PROVO 707.5"
+      },
+      "geometry": { "x": -111.73711967923943, "y": 40.295774480977492 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2188,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "705.5",
+        "LAT": 40.27109937,
+        "LON": -111.71765073,
+        "LABEL": "PROVO 705.5"
+      },
+      "geometry": { "x": -111.71765073463183, "y": 40.271099374165814 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2189,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "705.75",
+        "LAT": 40.2739934,
+        "LON": -111.72025565,
+        "LABEL": "PROVO 705.75"
+      },
+      "geometry": { "x": -111.72025564952979, "y": 40.273993404258363 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2190,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "706",
+        "LAT": 40.2769535,
+        "LON": -111.72273283,
+        "LABEL": "PROVO 706"
+      },
+      "geometry": { "x": -111.72273282758759, "y": 40.276953498921905 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2191,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "706.25",
+        "LAT": 40.28006175,
+        "LON": -111.72521216,
+        "LABEL": "PROVO 706.25"
+      },
+      "geometry": { "x": -111.72521215531388, "y": 40.28006175412618 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2192,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "703.75",
+        "LAT": 40.25079822,
+        "LON": -111.69749096,
+        "LABEL": "PROVO 703.75"
+      },
+      "geometry": { "x": -111.69749095772298, "y": 40.250798218887951 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2193,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "704",
+        "LAT": 40.2536978,
+        "LON": -111.70037093,
+        "LABEL": "PROVO 704"
+      },
+      "geometry": { "x": -111.70037093406599, "y": 40.253697795307012 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2194,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "704.25",
+        "LAT": 40.256651,
+        "LON": -111.70329735,
+        "LABEL": "PROVO 704.25"
+      },
+      "geometry": { "x": -111.70329734612265, "y": 40.256650999217086 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2195,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "704.5",
+        "LAT": 40.25960134,
+        "LON": -111.7062288,
+        "LABEL": "PROVO 704.5"
+      },
+      "geometry": { "x": -111.70622880401626, "y": 40.259601336249688 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2196,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "702.75",
+        "LAT": 40.2391617,
+        "LON": -111.68608847,
+        "LABEL": "PROVO 702.75"
+      },
+      "geometry": { "x": -111.68608847114172, "y": 40.239161704410627 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2197,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "703",
+        "LAT": 40.24208787,
+        "LON": -111.68887182,
+        "LABEL": "PROVO 703"
+      },
+      "geometry": { "x": -111.68887181750625, "y": 40.242087871727861 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2198,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "703.25",
+        "LAT": 40.24500232,
+        "LON": -111.69172575,
+        "LABEL": "PROVO 703.25"
+      },
+      "geometry": { "x": -111.69172574719761, "y": 40.245002320569149 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2199,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "703.5",
+        "LAT": 40.24790053,
+        "LON": -111.69460784,
+        "LABEL": "PROVO 703.5"
+      },
+      "geometry": { "x": -111.69460784356467, "y": 40.247900530603225 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2200,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "701.5",
+        "LAT": 40.22589636,
+        "LON": -111.67046985,
+        "LABEL": "PROVO 701.5"
+      },
+      "geometry": { "x": -111.67046985047064, "y": 40.22589636369549 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2201,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "701.75",
+        "LAT": 40.22751188,
+        "LON": -111.67472598,
+        "LABEL": "PROVO 701.75"
+      },
+      "geometry": { "x": -111.67472598294684, "y": 40.227511878599515 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2202,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "702",
+        "LAT": 40.230387639999996,
+        "LON": -111.67773121,
+        "LABEL": "PROVO 702"
+      },
+      "geometry": { "x": -111.67773121228824, "y": 40.230387644237425 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2203,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "702.25",
+        "LAT": 40.23330868,
+        "LON": -111.68052334,
+        "LABEL": "PROVO 702.25"
+      },
+      "geometry": { "x": -111.68052333698969, "y": 40.233308682448076 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2204,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "702.5",
+        "LAT": 40.23623405,
+        "LON": -111.68330789,
+        "LABEL": "PROVO 702.5"
+      },
+      "geometry": { "x": -111.6833078924866, "y": 40.236234051441706 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2205,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "700.75",
+        "LAT": 40.22524303,
+        "LON": -111.65643404,
+        "LABEL": "PROVO 700.75"
+      },
+      "geometry": { "x": -111.65643404336386, "y": 40.225243032647924 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2206,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "701",
+        "LAT": 40.22562603,
+        "LON": -111.66085799,
+        "LABEL": "PROVO 701"
+      },
+      "geometry": { "x": -111.66085799191491, "y": 40.225626027105612 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2207,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "701.25",
+        "LAT": 40.22579195,
+        "LON": -111.66566183,
+        "LABEL": "PROVO 701.25"
+      },
+      "geometry": { "x": -111.6656618299148, "y": 40.225791951260653 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2208,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "693.75",
+        "LAT": 40.13897617,
+        "LON": -111.60947545,
+        "LABEL": "PROVO 693.75"
+      },
+      "geometry": { "x": -111.6094754527096, "y": 40.1389761680295 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2209,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "694",
+        "LAT": 40.14210033,
+        "LON": -111.60703329,
+        "LABEL": "PROVO 694"
+      },
+      "geometry": { "x": -111.60703328918495, "y": 40.14210033268936 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2210,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "694.25",
+        "LAT": 40.1453439,
+        "LON": -111.60516266,
+        "LABEL": "PROVO 694.25"
+      },
+      "geometry": { "x": -111.60516266079348, "y": 40.145343900404896 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2211,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "694.5",
+        "LAT": 40.14888246,
+        "LON": -111.6050798,
+        "LABEL": "PROVO 694.5"
+      },
+      "geometry": { "x": -111.60507980019169, "y": 40.1488824627904 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2212,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "691.75",
+        "LAT": 40.11316087,
+        "LON": -111.60496362,
+        "LABEL": "PROVO 691.75"
+      },
+      "geometry": { "x": -111.60496362017767, "y": 40.1131608727743 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2213,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "692",
+        "LAT": 40.11635908,
+        "LON": -111.60720133,
+        "LABEL": "PROVO 692"
+      },
+      "geometry": { "x": -111.60720132983863, "y": 40.116359084771517 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2214,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "692.25",
+        "LAT": 40.11953231,
+        "LON": -111.60942407,
+        "LABEL": "PROVO 692.25"
+      },
+      "geometry": { "x": -111.60942407266862, "y": 40.119532307181238 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2215,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "690.75",
+        "LAT": 40.10033418,
+        "LON": -111.59598995,
+        "LABEL": "PROVO 690.75"
+      },
+      "geometry": { "x": -111.59598994815599, "y": 40.100334180642335 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2216,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "691",
+        "LAT": 40.10356451,
+        "LON": -111.59825526,
+        "LABEL": "PROVO 691"
+      },
+      "geometry": { "x": -111.59825525765571, "y": 40.103564513264111 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2217,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "691.25",
+        "LAT": 40.10676342,
+        "LON": -111.60049099,
+        "LABEL": "PROVO 691.25"
+      },
+      "geometry": { "x": -111.60049099012474, "y": 40.106763419047859 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2218,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "691.5",
+        "LAT": 40.10996228,
+        "LON": -111.60272693,
+        "LABEL": "PROVO 691.5"
+      },
+      "geometry": { "x": -111.60272693190119, "y": 40.109962278837948 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2219,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "686.75",
+        "LAT": 40.05503965,
+        "LON": -111.55529748,
+        "LABEL": "PROVO 686.75"
+      },
+      "geometry": { "x": -111.55529747491774, "y": 40.055039649167618 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2220,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "687",
+        "LAT": 40.05582802,
+        "LON": -111.55994388,
+        "LABEL": "PROVO 687"
+      },
+      "geometry": { "x": -111.55994388406239, "y": 40.055828024561023 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2221,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "687.25",
+        "LAT": 40.05827401,
+        "LON": -111.56436264,
+        "LABEL": "PROVO 687.25"
+      },
+      "geometry": { "x": -111.56436264035111, "y": 40.058274007651022 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2222,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "677.5",
+        "LAT": 39.99536716,
+        "LON": -111.43850497,
+        "LABEL": "PROVO 677.5"
+      },
+      "geometry": { "x": -111.43850497158026, "y": 39.995367164424152 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2223,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "677.75",
+        "LAT": 39.99568079,
+        "LON": -111.4431415,
+        "LABEL": "PROVO 677.75"
+      },
+      "geometry": { "x": -111.44314150195173, "y": 39.995680787751176 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2224,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "678",
+        "LAT": 39.995079,
+        "LON": -111.44766997,
+        "LABEL": "PROVO 678"
+      },
+      "geometry": { "x": -111.44766996858779, "y": 39.995079003713684 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2225,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "678.25",
+        "LAT": 39.99413439,
+        "LON": -111.45210736,
+        "LABEL": "PROVO 678.25"
+      },
+      "geometry": { "x": -111.45210735683382, "y": 39.994134394472063 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2226,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "678.5",
+        "LAT": 39.9940721,
+        "LON": -111.45675227,
+        "LABEL": "PROVO 678.5"
+      },
+      "geometry": { "x": -111.45675227118184, "y": 39.994072102623967 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2227,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "676.75",
+        "LAT": 39.99636354,
+        "LON": -111.42449761,
+        "LABEL": "PROVO 676.75"
+      },
+      "geometry": { "x": -111.4244976132202, "y": 39.99636353988425 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2228,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "677",
+        "LAT": 39.99570808,
+        "LON": -111.42930588,
+        "LABEL": "PROVO 677"
+      },
+      "geometry": { "x": -111.42930587721951, "y": 39.995708075972914 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2229,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "677.25",
+        "LAT": 39.99570761,
+        "LON": -111.43390344,
+        "LABEL": "PROVO 677.25"
+      },
+      "geometry": { "x": -111.4339034368773, "y": 39.9957076141956 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2230,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "675.5",
+        "LAT": 39.9951741,
+        "LON": -111.40269423,
+        "LABEL": "PROVO 675.5"
+      },
+      "geometry": { "x": -111.40269423015849, "y": 39.995174097612043 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2231,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "675.75",
+        "LAT": 39.99653767,
+        "LON": -111.4060437,
+        "LABEL": "PROVO 675.75"
+      },
+      "geometry": { "x": -111.40604369751003, "y": 39.996537665880162 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2232,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "676",
+        "LAT": 39.996796,
+        "LON": -111.40997294,
+        "LABEL": "PROVO 676"
+      },
+      "geometry": { "x": -111.40997293934254, "y": 39.996795996711178 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2233,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "676.25",
+        "LAT": 39.99712709,
+        "LON": -111.4148372,
+        "LABEL": "PROVO 676.25"
+      },
+      "geometry": { "x": -111.41483719982507, "y": 39.997127094586006 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2234,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "676.5",
+        "LAT": 39.99701217,
+        "LON": -111.41968775,
+        "LABEL": "PROVO 676.5"
+      },
+      "geometry": { "x": -111.4196877547113, "y": 39.997012174204613 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2235,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "673.5",
+        "LAT": 39.98720744,
+        "LON": -111.36669302,
+        "LABEL": "PROVO 673.5"
+      },
+      "geometry": { "x": -111.36669301894705, "y": 39.987207435541158 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2236,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "673.75",
+        "LAT": 39.98909519,
+        "LON": -111.37062426,
+        "LABEL": "PROVO 673.75"
+      },
+      "geometry": { "x": -111.37062426042939, "y": 39.989095187621352 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2237,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "674",
+        "LAT": 39.98920401,
+        "LON": -111.37517496,
+        "LABEL": "PROVO 674"
+      },
+      "geometry": { "x": -111.37517495587716, "y": 39.98920401165666 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2238,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "674.25",
+        "LAT": 39.99093659,
+        "LON": -111.37997666,
+        "LABEL": "PROVO 674.25"
+      },
+      "geometry": { "x": -111.37997665678498, "y": 39.990936587528658 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2239,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "674.5",
+        "LAT": 39.99116711,
+        "LON": -111.38541275,
+        "LABEL": "PROVO 674.5"
+      },
+      "geometry": { "x": -111.3854127452515, "y": 39.991167107877637 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2240,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "668.75",
+        "LAT": 39.95313276,
+        "LON": -111.29311623,
+        "LABEL": "PROVO 668.75"
+      },
+      "geometry": { "x": -111.29311623251341, "y": 39.953132762081168 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2241,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "669",
+        "LAT": 39.95457104,
+        "LON": -111.29745492,
+        "LABEL": "PROVO 669"
+      },
+      "geometry": { "x": -111.2974549201642, "y": 39.954571037691153 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2242,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "669.25",
+        "LAT": 39.95671865,
+        "LON": -111.30101699,
+        "LABEL": "PROVO 669.25"
+      },
+      "geometry": { "x": -111.30101698909908, "y": 39.956718646780452 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2243,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "669.5",
+        "LAT": 39.9593603,
+        "LON": -111.30397952,
+        "LABEL": "PROVO 669.5"
+      },
+      "geometry": { "x": -111.30397951522681, "y": 39.959360300026887 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2244,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "667.75",
+        "LAT": 39.9514966,
+        "LON": -111.27462161,
+        "LABEL": "PROVO 667.75"
+      },
+      "geometry": { "x": -111.27462161234105, "y": 39.951496604616132 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2245,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "668",
+        "LAT": 39.95144523,
+        "LON": -111.27931985,
+        "LABEL": "PROVO 668"
+      },
+      "geometry": { "x": -111.27931984798938, "y": 39.951445226692833 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2246,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "668.25",
+        "LAT": 39.95141603,
+        "LON": -111.28404364,
+        "LABEL": "PROVO 668.25"
+      },
+      "geometry": { "x": -111.28404363980925, "y": 39.95141603461115 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2247,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "668.5",
+        "LAT": 39.95181368,
+        "LON": -111.28872086,
+        "LABEL": "PROVO 668.5"
+      },
+      "geometry": { "x": -111.28872085937151, "y": 39.95181367898531 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2248,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "666.75",
+        "LAT": 39.95391667,
+        "LON": -111.25792652,
+        "LABEL": "PROVO 666.75"
+      },
+      "geometry": { "x": -111.25792652249869, "y": 39.953916669187215 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2249,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "667",
+        "LAT": 39.95302017,
+        "LON": -111.26170123,
+        "LABEL": "PROVO 667"
+      },
+      "geometry": { "x": -111.26170123074613, "y": 39.953020175123058 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2250,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "667.25",
+        "LAT": 39.95402957,
+        "LON": -111.26620072,
+        "LABEL": "PROVO 667.25"
+      },
+      "geometry": { "x": -111.26620071503618, "y": 39.954029567299685 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2251,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "667.5",
+        "LAT": 39.9524732,
+        "LON": -111.27022988,
+        "LABEL": "PROVO 667.5"
+      },
+      "geometry": { "x": -111.2702298845626, "y": 39.952473204775828 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2252,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "663.75",
+        "LAT": 39.94716228,
+        "LON": -111.20458367,
+        "LABEL": "PROVO 663.75"
+      },
+      "geometry": { "x": -111.20458367518881, "y": 39.947162276127216 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2253,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "664",
+        "LAT": 39.94827714,
+        "LON": -111.20905532,
+        "LABEL": "PROVO 664"
+      },
+      "geometry": { "x": -111.2090553215865, "y": 39.948277137244169 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2254,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "664.25",
+        "LAT": 39.94941427,
+        "LON": -111.21404195,
+        "LABEL": "PROVO 664.25"
+      },
+      "geometry": { "x": -111.21404194698377, "y": 39.949414274152538 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2255,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "664.5",
+        "LAT": 39.95160188,
+        "LON": -111.21825681,
+        "LABEL": "PROVO 664.5"
+      },
+      "geometry": { "x": -111.2182568090592, "y": 39.951601881446834 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2256,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "661.5",
+        "LAT": 39.92954866,
+        "LON": -111.18316311,
+        "LABEL": "PROVO 661.5"
+      },
+      "geometry": { "x": -111.18316311098205, "y": 39.929548655457083 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2257,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "661.75",
+        "LAT": 39.92974208,
+        "LON": -111.18714771,
+        "LABEL": "PROVO 661.75"
+      },
+      "geometry": { "x": -111.1871477141889, "y": 39.92974208263503 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2258,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "662",
+        "LAT": 39.930141,
+        "LON": -111.19111683,
+        "LABEL": "PROVO 662"
+      },
+      "geometry": { "x": -111.19111683133858, "y": 39.930141004056033 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2259,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "662.25",
+        "LAT": 39.9306128,
+        "LON": -111.19567947,
+        "LABEL": "PROVO 662.25"
+      },
+      "geometry": { "x": -111.19567947078636, "y": 39.930612799198606 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2260,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "662.5",
+        "LAT": 39.93308231,
+        "LON": -111.19792281,
+        "LABEL": "PROVO 662.5"
+      },
+      "geometry": { "x": -111.19792281288413, "y": 39.933082313369027 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2261,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "657.75",
+        "LAT": 39.92180796,
+        "LON": -111.18396212,
+        "LABEL": "PROVO 657.75"
+      },
+      "geometry": { "x": -111.18396211661319, "y": 39.921807958632229 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2262,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "658",
+        "LAT": 39.91875907,
+        "LON": -111.18645851,
+        "LABEL": "PROVO 658"
+      },
+      "geometry": { "x": -111.18645850693999, "y": 39.91875906704712 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2263,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "658.25",
+        "LAT": 39.91556948,
+        "LON": -111.18769744,
+        "LABEL": "PROVO 658.25"
+      },
+      "geometry": { "x": -111.18769743643038, "y": 39.915569479119256 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2264,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "659.5",
+        "LAT": 39.92457995,
+        "LON": -111.18260912,
+        "LABEL": "PROVO 659.5"
+      },
+      "geometry": { "x": -111.18260912174297, "y": 39.924579945865489 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2265,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "656.5",
+        "LAT": 39.92412128,
+        "LON": -111.16214781,
+        "LABEL": "PROVO 656.5"
+      },
+      "geometry": { "x": -111.16214780464774, "y": 39.924121281861353 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2266,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "656.75",
+        "LAT": 39.9232814,
+        "LON": -111.16573672,
+        "LABEL": "PROVO 656.75"
+      },
+      "geometry": { "x": -111.16573671973487, "y": 39.923281400177437 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2267,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "657",
+        "LAT": 39.92300577,
+        "LON": -111.16933188,
+        "LABEL": "PROVO 657"
+      },
+      "geometry": { "x": -111.16933187721493, "y": 39.923005768137408 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2268,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "653.5",
+        "LAT": 39.93221413,
+        "LON": -111.11740628,
+        "LABEL": "PROVO 653.5"
+      },
+      "geometry": { "x": -111.11740627677597, "y": 39.932214129368454 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2269,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "653.75",
+        "LAT": 39.93148904,
+        "LON": -111.12152552,
+        "LABEL": "PROVO 653.75"
+      },
+      "geometry": { "x": -111.12152552127422, "y": 39.931489036067013 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2270,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "654",
+        "LAT": 39.93077505,
+        "LON": -111.12567893,
+        "LABEL": "PROVO 654"
+      },
+      "geometry": { "x": -111.12567892870274, "y": 39.930775045491743 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2271,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "654.25",
+        "LAT": 39.93013107,
+        "LON": -111.13124407,
+        "LABEL": "PROVO 654.25"
+      },
+      "geometry": { "x": -111.13124406644803, "y": 39.930131072862252 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2272,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "648.75",
+        "LAT": 39.89583172,
+        "LON": -111.05444153,
+        "LABEL": "PROVO 648.75"
+      },
+      "geometry": { "x": -111.05444152864378, "y": 39.895831717553811 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2273,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "649",
+        "LAT": 39.89935815,
+        "LON": -111.05665191,
+        "LABEL": "PROVO 649"
+      },
+      "geometry": { "x": -111.05665190616388, "y": 39.899358151499285 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2274,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "649.25",
+        "LAT": 39.90282459,
+        "LON": -111.05861564,
+        "LABEL": "PROVO 649.25"
+      },
+      "geometry": { "x": -111.05861563864634, "y": 39.90282459391829 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2275,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "645.5",
+        "LAT": 39.85706855,
+        "LON": -111.02260465,
+        "LABEL": "PROVO 645.5"
+      },
+      "geometry": { "x": -111.02260465376459, "y": 39.857068548965707 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2276,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "645.75",
+        "LAT": 39.85980704,
+        "LON": -111.02560589,
+        "LABEL": "PROVO 645.75"
+      },
+      "geometry": { "x": -111.02560589009457, "y": 39.859807039675815 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2277,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "646",
+        "LAT": 39.86282614,
+        "LON": -111.02810528,
+        "LABEL": "PROVO 646"
+      },
+      "geometry": { "x": -111.02810527720112, "y": 39.86282613826473 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2278,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "646.25",
+        "LAT": 39.86594275,
+        "LON": -111.03047483,
+        "LABEL": "PROVO 646.25"
+      },
+      "geometry": { "x": -111.03047483259634, "y": 39.865942748117718 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2279,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "643.5",
+        "LAT": 39.84065368,
+        "LON": -111.00097799,
+        "LABEL": "PROVO 643.5"
+      },
+      "geometry": { "x": -111.00097799087885, "y": 39.840653682204739 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2280,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "643.75",
+        "LAT": 39.83852653,
+        "LON": -111.00360985,
+        "LABEL": "PROVO 643.75"
+      },
+      "geometry": { "x": -111.00360984715049, "y": 39.838526527935848 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2281,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "644",
+        "LAT": 39.83944404,
+        "LON": -111.00720964,
+        "LABEL": "PROVO 644"
+      },
+      "geometry": { "x": -111.00720963814076, "y": 39.839444040588987 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2282,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "641.75",
+        "LAT": 39.83558665,
+        "LON": -110.97223355,
+        "LABEL": "PROVO 641.75"
+      },
+      "geometry": { "x": -110.97223354570399, "y": 39.83558664674419 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2283,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "642",
+        "LAT": 39.83787506,
+        "LON": -110.97576088,
+        "LABEL": "PROVO 642"
+      },
+      "geometry": { "x": -110.9757608812784, "y": 39.837875062940881 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2284,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "642.25",
+        "LAT": 39.8391954,
+        "LON": -110.98077463,
+        "LABEL": "PROVO 642.25"
+      },
+      "geometry": { "x": -110.98077462681408, "y": 39.839195399238996 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2285,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "639.5",
+        "LAT": 39.8224982,
+        "LON": -110.94316535,
+        "LABEL": "PROVO 639.5"
+      },
+      "geometry": { "x": -110.94316535488726, "y": 39.822498196533864 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2286,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "639.75",
+        "LAT": 39.82605668,
+        "LON": -110.9441125,
+        "LABEL": "PROVO 639.75"
+      },
+      "geometry": { "x": -110.94411250079361, "y": 39.826056682797933 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2287,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "640",
+        "LAT": 39.82640802,
+        "LON": -110.94879888,
+        "LABEL": "PROVO 640"
+      },
+      "geometry": { "x": -110.94879888317176, "y": 39.826408016545031 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2288,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "640.25",
+        "LAT": 39.82831543,
+        "LON": -110.95227538,
+        "LABEL": "PROVO 640.25"
+      },
+      "geometry": { "x": -110.95227538488088, "y": 39.828315427572576 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2289,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "640.5",
+        "LAT": 39.83166988,
+        "LON": -110.95347647,
+        "LABEL": "PROVO 640.5"
+      },
+      "geometry": { "x": -110.95347646834836, "y": 39.831669878102055 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2290,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "637.5",
+        "LAT": 39.80273591,
+        "LON": -110.93301884,
+        "LABEL": "PROVO 637.5"
+      },
+      "geometry": { "x": -110.93301883704073, "y": 39.8027359108216 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2291,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "637.75",
+        "LAT": 39.80179396,
+        "LON": -110.93678931,
+        "LABEL": "PROVO 637.75"
+      },
+      "geometry": { "x": -110.93678931332489, "y": 39.801793959272068 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2292,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "638",
+        "LAT": 39.80389307,
+        "LON": -110.94033228,
+        "LABEL": "PROVO 638"
+      },
+      "geometry": { "x": -110.94033227778863, "y": 39.803893069106131 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2293,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "638.25",
+        "LAT": 39.80696555,
+        "LON": -110.94243413,
+        "LABEL": "PROVO 638.25"
+      },
+      "geometry": { "x": -110.9424341325342, "y": 39.806965550201205 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2294,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "638.5",
+        "LAT": 39.81023365,
+        "LON": -110.94028421,
+        "LABEL": "PROVO 638.5"
+      },
+      "geometry": { "x": -110.94028421163269, "y": 39.8102336506495 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2295,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "636.5",
+        "LAT": 39.79898116,
+        "LON": -110.92521483,
+        "LABEL": "PROVO 636.5"
+      },
+      "geometry": { "x": -110.92521482631619, "y": 39.798981157019249 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2296,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "636.75",
+        "LAT": 39.80180512,
+        "LON": -110.92233369,
+        "LABEL": "PROVO 636.75"
+      },
+      "geometry": { "x": -110.92233369024817, "y": 39.80180511542995 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2297,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "637",
+        "LAT": 39.80434551,
+        "LON": -110.92475658,
+        "LABEL": "PROVO 637"
+      },
+      "geometry": { "x": -110.92475658311336, "y": 39.804345512133075 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2298,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "637.25",
+        "LAT": 39.80323653,
+        "LON": -110.92894086,
+        "LABEL": "PROVO 637.25"
+      },
+      "geometry": { "x": -110.92894086294326, "y": 39.803236531748254 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2299,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "633.75",
+        "LAT": 39.76928878,
+        "LON": -110.9067996,
+        "LABEL": "PROVO 633.75"
+      },
+      "geometry": { "x": -110.90679959924869, "y": 39.769288784921009 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2300,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "634",
+        "LAT": 39.77258634,
+        "LON": -110.90836119,
+        "LABEL": "PROVO 634"
+      },
+      "geometry": { "x": -110.90836118921609, "y": 39.772586343529319 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2301,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "634.25",
+        "LAT": 39.77489483,
+        "LON": -110.9115656,
+        "LABEL": "PROVO 634.25"
+      },
+      "geometry": { "x": -110.91156559661553, "y": 39.774894829643934 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2302,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "634.5",
+        "LAT": 39.77713791,
+        "LON": -110.91473755,
+        "LABEL": "PROVO 634.5"
+      },
+      "geometry": { "x": -110.91473755417195, "y": 39.7771379101931 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2303,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "630.5",
+        "LAT": 39.73485412,
+        "LON": -110.87212275,
+        "LABEL": "PROVO 630.5"
+      },
+      "geometry": { "x": -110.87212275449767, "y": 39.734854119719756 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2304,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "630.75",
+        "LAT": 39.73807773,
+        "LON": -110.87425422,
+        "LABEL": "PROVO 630.75"
+      },
+      "geometry": { "x": -110.87425422130828, "y": 39.738077731513073 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2305,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "631",
+        "LAT": 39.74130074,
+        "LON": -110.8759658,
+        "LABEL": "PROVO 631"
+      },
+      "geometry": { "x": -110.87596580028372, "y": 39.741300744237904 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2306,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "631.25",
+        "LAT": 39.74358455,
+        "LON": -110.87912465,
+        "LABEL": "PROVO 631.25"
+      },
+      "geometry": { "x": -110.87912465142016, "y": 39.743584549672356 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2307,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "629.5",
+        "LAT": 39.7227615,
+        "LON": -110.86501775,
+        "LABEL": "PROVO 629.5"
+      },
+      "geometry": { "x": -110.8650177525401, "y": 39.72276149663108 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2308,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "629.75",
+        "LAT": 39.72605104,
+        "LON": -110.86657376,
+        "LABEL": "PROVO 629.75"
+      },
+      "geometry": { "x": -110.86657375857973, "y": 39.726051040227254 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2309,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "630",
+        "LAT": 39.72935975,
+        "LON": -110.86596745,
+        "LABEL": "PROVO 630"
+      },
+      "geometry": { "x": -110.86596745415342, "y": 39.729359749812886 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2310,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "630.25",
+        "LAT": 39.7318866,
+        "LON": -110.86935427,
+        "LABEL": "PROVO 630.25"
+      },
+      "geometry": { "x": -110.86935426896288, "y": 39.731886601319182 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2311,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "626.5",
+        "LAT": 39.68568209,
+        "LON": -110.85352777,
+        "LABEL": "PROVO 626.5"
+      },
+      "geometry": { "x": -110.85352776645693, "y": 39.68568209246979 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2312,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "626.75",
+        "LAT": 39.68936546,
+        "LON": -110.85416931,
+        "LABEL": "PROVO 626.75"
+      },
+      "geometry": { "x": -110.8541693099952, "y": 39.689365459788036 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2313,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "627",
+        "LAT": 39.69237469,
+        "LON": -110.85693502,
+        "LABEL": "PROVO 627"
+      },
+      "geometry": { "x": -110.85693502063405, "y": 39.692374691043206 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2314,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "627.25",
+        "LAT": 39.6942571,
+        "LON": -110.86080554,
+        "LABEL": "PROVO 627.25"
+      },
+      "geometry": { "x": -110.86080554498635, "y": 39.694257103356108 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2315,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "711.5",
+        "LAT": 40.34496345,
+        "LON": -111.77665622,
+        "LABEL": "PROVO 711.5"
+      },
+      "geometry": { "x": -111.77665622013299, "y": 40.3449634449458 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2316,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "711.75",
+        "LAT": 40.34782636,
+        "LON": -111.77950627,
+        "LABEL": "PROVO 711.75"
+      },
+      "geometry": { "x": -111.77950626730568, "y": 40.347826357562376 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2317,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "712",
+        "LAT": 40.35069134,
+        "LON": -111.78235285,
+        "LABEL": "PROVO 712"
+      },
+      "geometry": { "x": -111.78235285506622, "y": 40.350691344181513 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2318,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "712.25",
+        "LAT": 40.35403071,
+        "LON": -111.78567494,
+        "LABEL": "PROVO 712.25"
+      },
+      "geometry": { "x": -111.78567493637797, "y": 40.3540307125066 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2319,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "714.75",
+        "LAT": 40.37496757,
+        "LON": -111.82080303,
+        "LABEL": "PROVO 714.75"
+      },
+      "geometry": { "x": -111.82080302645576, "y": 40.3749675664258 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2320,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "715",
+        "LAT": 40.37589605,
+        "LON": -111.82524887,
+        "LABEL": "PROVO 715"
+      },
+      "geometry": { "x": -111.8252488669503, "y": 40.3758960495019 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2321,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "715.25",
+        "LAT": 40.37701445,
+        "LON": -111.83062636,
+        "LABEL": "PROVO 715.25"
+      },
+      "geometry": { "x": -111.83062636280241, "y": 40.377014454497733 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2322,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "715.5",
+        "LAT": 40.37813565,
+        "LON": -111.83600293,
+        "LABEL": "PROVO 715.5"
+      },
+      "geometry": { "x": -111.83600293518641, "y": 40.378135654183794 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2323,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "722.75",
+        "LAT": 40.45017834,
+        "LON": -111.9228284,
+        "LABEL": "PROVO 722.75"
+      },
+      "geometry": { "x": -111.92282840511197, "y": 40.450178335265704 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2324,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "723",
+        "LAT": 40.45298002,
+        "LON": -111.92575098,
+        "LABEL": "PROVO 723"
+      },
+      "geometry": { "x": -111.9257509768708, "y": 40.452980023166759 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2325,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "723.25",
+        "LAT": 40.45551452,
+        "LON": -111.92904665,
+        "LABEL": "PROVO 723.25"
+      },
+      "geometry": { "x": -111.9290466522048, "y": 40.455514522504259 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2326,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "723.5",
+        "LAT": 40.45832907,
+        "LON": -111.93188564,
+        "LABEL": "PROVO 723.5"
+      },
+      "geometry": { "x": -111.93188563662477, "y": 40.458329069590576 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2327,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "723.75",
+        "LAT": 40.46174988,
+        "LON": -111.9331159,
+        "LABEL": "PROVO 723.75"
+      },
+      "geometry": { "x": -111.93311590366089, "y": 40.461749875892508 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2328,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "724",
+        "LAT": 40.46530537,
+        "LON": -111.93276467,
+        "LABEL": "PROVO 724"
+      },
+      "geometry": { "x": -111.93276466777466, "y": 40.465305374952337 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2329,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "724.25",
+        "LAT": 40.46944034,
+        "LON": -111.93205295,
+        "LABEL": "PROVO 724.25"
+      },
+      "geometry": { "x": -111.93205294784643, "y": 40.469440341536064 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2330,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "724.5",
+        "LAT": 40.4733461,
+        "LON": -111.93022207,
+        "LABEL": "PROVO 724.5"
+      },
+      "geometry": { "x": -111.93022207080462, "y": 40.473346105193833 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2331,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "725.5",
+        "LAT": 40.48602106,
+        "LON": -111.92182981,
+        "LABEL": "PROVO 725.5"
+      },
+      "geometry": { "x": -111.9218298055028, "y": 40.48602105853076 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2332,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "725.75",
+        "LAT": 40.48859775,
+        "LON": -111.91999418,
+        "LABEL": "PROVO 725.75"
+      },
+      "geometry": { "x": -111.91999418176302, "y": 40.488597753172691 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2333,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "726",
+        "LAT": 40.49118286,
+        "LON": -111.91817872,
+        "LABEL": "PROVO 726"
+      },
+      "geometry": { "x": -111.91817872070979, "y": 40.49118285713898 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2334,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "726.25",
+        "LAT": 40.49500874,
+        "LON": -111.9154518,
+        "LABEL": "PROVO 726.25"
+      },
+      "geometry": { "x": -111.91545179752826, "y": 40.49500874490824 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2335,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "729.5",
+        "LAT": 40.54049972,
+        "LON": -111.90333172,
+        "LABEL": "PROVO 729.5"
+      },
+      "geometry": { "x": -111.90333171873179, "y": 40.540499718582069 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2336,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "729.75",
+        "LAT": 40.5437037,
+        "LON": -111.90294269,
+        "LABEL": "PROVO 729.75"
+      },
+      "geometry": { "x": -111.90294268622999, "y": 40.543703695576404 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2337,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "730",
+        "LAT": 40.54690723,
+        "LON": -111.90254813,
+        "LABEL": "PROVO 730"
+      },
+      "geometry": { "x": -111.90254813268248, "y": 40.546907231941809 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2338,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "730.25",
+        "LAT": 40.55048762,
+        "LON": -111.90211471,
+        "LABEL": "PROVO 730.25"
+      },
+      "geometry": { "x": -111.90211470633767, "y": 40.550487617954616 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2339,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "730.5",
+        "LAT": 40.55406845,
+        "LON": -111.90168869,
+        "LABEL": "PROVO 730.5"
+      },
+      "geometry": { "x": -111.90168868750071, "y": 40.554068450716066 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2340,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "730.75",
+        "LAT": 40.55764809,
+        "LON": -111.90124515,
+        "LABEL": "PROVO 730.75"
+      },
+      "geometry": { "x": -111.90124515421066, "y": 40.5576480941749 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2341,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "731",
+        "LAT": 40.56122785,
+        "LON": -111.90080338,
+        "LABEL": "PROVO 731"
+      },
+      "geometry": { "x": -111.90080337712695, "y": 40.5612278478921 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2342,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "731.25",
+        "LAT": 40.56484158,
+        "LON": -111.90040573,
+        "LABEL": "PROVO 731.25"
+      },
+      "geometry": { "x": -111.90040572888329, "y": 40.564841584602931 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2343,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "731.5",
+        "LAT": 40.56835539,
+        "LON": -111.90142448,
+        "LABEL": "PROVO 731.5"
+      },
+      "geometry": { "x": -111.9014244777043, "y": 40.568355390533924 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2344,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "731.75",
+        "LAT": 40.57170325,
+        "LON": -111.90325431,
+        "LABEL": "PROVO 731.75"
+      },
+      "geometry": { "x": -111.90325431359868, "y": 40.571703254836741 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2345,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "732",
+        "LAT": 40.57517267,
+        "LON": -111.90454895,
+        "LABEL": "PROVO 732"
+      },
+      "geometry": { "x": -111.90454895121312, "y": 40.575172669151982 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2346,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "732.25",
+        "LAT": 40.5787825,
+        "LON": -111.90417357,
+        "LABEL": "PROVO 732.25"
+      },
+      "geometry": { "x": -111.90417356771376, "y": 40.578782497366525 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2347,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "732.5",
+        "LAT": 40.58238525,
+        "LON": -111.90365537,
+        "LABEL": "PROVO 732.5"
+      },
+      "geometry": { "x": -111.90365536555898, "y": 40.582385253096639 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2348,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "732.75",
+        "LAT": 40.58598897,
+        "LON": -111.90314882,
+        "LABEL": "PROVO 732.75"
+      },
+      "geometry": { "x": -111.90314882353655, "y": 40.585988973860154 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2349,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "733",
+        "LAT": 40.58959668,
+        "LON": -111.90273295,
+        "LABEL": "PROVO 733"
+      },
+      "geometry": { "x": -111.90273295206903, "y": 40.589596683530644 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2350,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "733.25",
+        "LAT": 40.59379483,
+        "LON": -111.90332188,
+        "LABEL": "PROVO 733.25"
+      },
+      "geometry": { "x": -111.90332188487436, "y": 40.593794830187306 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2351,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "733.5",
+        "LAT": 40.59797844,
+        "LON": -111.90411426,
+        "LABEL": "PROVO 733.5"
+      },
+      "geometry": { "x": -111.90411425914209, "y": 40.597978441992943 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2352,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "735.5",
+        "LAT": 40.62668672,
+        "LON": -111.9040493,
+        "LABEL": "PROVO 735.5"
+      },
+      "geometry": { "x": -111.90404930286221, "y": 40.626686721310556 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2353,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "735.75",
+        "LAT": 40.62966641,
+        "LON": -111.90330874,
+        "LABEL": "PROVO 735.75"
+      },
+      "geometry": { "x": -111.9033087398268, "y": 40.629666413276979 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2354,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "736",
+        "LAT": 40.63264602,
+        "LON": -111.90255738,
+        "LABEL": "PROVO 736"
+      },
+      "geometry": { "x": -111.90255738173664, "y": 40.632646015242216 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2355,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "736.25",
+        "LAT": 40.63619471,
+        "LON": -111.90169581,
+        "LABEL": "PROVO 736.25"
+      },
+      "geometry": { "x": -111.9016958102426, "y": 40.636194705897466 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2356,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "736.5",
+        "LAT": 40.6397456,
+        "LON": -111.90085169,
+        "LABEL": "PROVO 736.5"
+      },
+      "geometry": { "x": -111.90085169121787, "y": 40.639745598515795 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2357,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "736.75",
+        "LAT": 40.64334645,
+        "LON": -111.90057039,
+        "LABEL": "PROVO 736.75"
+      },
+      "geometry": { "x": -111.90057038648159, "y": 40.643346451294924 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2358,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "737",
+        "LAT": 40.64695347,
+        "LON": -111.90041766,
+        "LABEL": "PROVO 737"
+      },
+      "geometry": { "x": -111.90041765761195, "y": 40.646953474470912 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2359,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "737.25",
+        "LAT": 40.65056002,
+        "LON": -111.89990091,
+        "LABEL": "PROVO 737.25"
+      },
+      "geometry": { "x": -111.89990090803296, "y": 40.650560015772911 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2360,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "737.5",
+        "LAT": 40.65407939,
+        "LON": -111.89871222,
+        "LABEL": "PROVO 737.5"
+      },
+      "geometry": { "x": -111.89871221772314, "y": 40.654079392306926 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2361,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "737.75",
+        "LAT": 40.65758913,
+        "LON": -111.89747452,
+        "LABEL": "PROVO 737.75"
+      },
+      "geometry": { "x": -111.89747451712806, "y": 40.657589132487146 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2362,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "738",
+        "LAT": 40.66110254,
+        "LON": -111.89625419,
+        "LABEL": "PROVO 738"
+      },
+      "geometry": { "x": -111.89625418635731, "y": 40.661102542260849 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2363,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "738.25",
+        "LAT": 40.66473065,
+        "LON": -111.89576698,
+        "LABEL": "PROVO 738.25"
+      },
+      "geometry": { "x": -111.89576697518149, "y": 40.664730654547391 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2364,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "738.5",
+        "LAT": 40.66838552,
+        "LON": -111.89612338,
+        "LABEL": "PROVO 738.5"
+      },
+      "geometry": { "x": -111.89612337638057, "y": 40.668385518225065 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2365,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "738.75",
+        "LAT": 40.67204037,
+        "LON": -111.89648176,
+        "LABEL": "PROVO 738.75"
+      },
+      "geometry": { "x": -111.89648175836487, "y": 40.672040373057648 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2366,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "739",
+        "LAT": 40.67569514,
+        "LON": -111.89684136,
+        "LABEL": "PROVO 739"
+      },
+      "geometry": { "x": -111.89684135576972, "y": 40.675695144067582 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2367,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "739.25",
+        "LAT": 40.67928633,
+        "LON": -111.8972864,
+        "LABEL": "PROVO 739.25"
+      },
+      "geometry": { "x": -111.89728640272105, "y": 40.67928632667811 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2368,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "739.5",
+        "LAT": 40.68278955,
+        "LON": -111.89841667,
+        "LABEL": "PROVO 739.5"
+      },
+      "geometry": { "x": -111.89841666929972, "y": 40.682789553009918 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2369,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "739.75",
+        "LAT": 40.68628292,
+        "LON": -111.89960361,
+        "LABEL": "PROVO 739.75"
+      },
+      "geometry": { "x": -111.8996036123863, "y": 40.686282922414236 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2370,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "740",
+        "LAT": 40.68977538,
+        "LON": -111.90079573,
+        "LABEL": "PROVO 740"
+      },
+      "geometry": { "x": -111.900795727074, "y": 40.68977537852264 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2371,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "740.25",
+        "LAT": 40.69327203,
+        "LON": -111.90199212,
+        "LABEL": "PROVO 740.25"
+      },
+      "geometry": { "x": -111.9019921159458, "y": 40.693272028427891 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2372,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "742.5",
+        "LAT": 40.72531068,
+        "LON": -111.90843369,
+        "LABEL": "PROVO 742.5"
+      },
+      "geometry": { "x": -111.90843369409973, "y": 40.7253106828695 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2373,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "742.75",
+        "LAT": 40.72888243,
+        "LON": -111.90843273,
+        "LABEL": "PROVO 742.75"
+      },
+      "geometry": { "x": -111.90843272930911, "y": 40.728882425332877 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2374,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "743",
+        "LAT": 40.73245466,
+        "LON": -111.90843333,
+        "LABEL": "PROVO 743"
+      },
+      "geometry": { "x": -111.90843332668878, "y": 40.732454659529928 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2375,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "743.25",
+        "LAT": 40.73581961,
+        "LON": -111.90842401,
+        "LABEL": "PROVO 743.25"
+      },
+      "geometry": { "x": -111.90842401205758, "y": 40.735819611645312 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2376,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "743.5",
+        "LAT": 40.73918456,
+        "LON": -111.90842,
+        "LABEL": "PROVO 743.5"
+      },
+      "geometry": { "x": -111.90842000287648, "y": 40.739184556926773 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2377,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "743.75",
+        "LAT": 40.74254621,
+        "LON": -111.90856095,
+        "LABEL": "PROVO 743.75"
+      },
+      "geometry": { "x": -111.90856095393445, "y": 40.742546209369024 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2378,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "744",
+        "LAT": 40.74590499,
+        "LON": -111.90882883,
+        "LABEL": "PROVO 744"
+      },
+      "geometry": { "x": -111.90882883155217, "y": 40.745904987995416 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2379,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "744.25",
+        "LAT": 40.74954143,
+        "LON": -111.90895625,
+        "LABEL": "PROVO 744.25"
+      },
+      "geometry": { "x": -111.90895624589713, "y": 40.7495414308492 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2380,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "744.5",
+        "LAT": 40.75317993,
+        "LON": -111.90894412,
+        "LABEL": "PROVO 744.5"
+      },
+      "geometry": { "x": -111.9089441195391, "y": 40.753179930705727 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2381,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "744.75",
+        "LAT": 40.75681807,
+        "LON": -111.90897681,
+        "LABEL": "PROVO 744.75"
+      },
+      "geometry": { "x": -111.90897681192726, "y": 40.756818073590722 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2382,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "745",
+        "LAT": 40.76045146,
+        "LON": -111.90923249,
+        "LABEL": "PROVO 745"
+      },
+      "geometry": { "x": -111.90923249311835, "y": 40.760451457855652 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2383,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "745.25",
+        "LAT": 40.76332971,
+        "LON": -111.90986068,
+        "LABEL": "PROVO 745.25"
+      },
+      "geometry": { "x": -111.90986068409822, "y": 40.763329709928421 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2384,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "696.5",
+        "LAT": 40.17417973,
+        "LON": -111.61802068,
+        "LABEL": "PROVO 696.5"
+      },
+      "geometry": { "x": -111.61802068044304, "y": 40.174179726860466 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2385,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "696.75",
+        "LAT": 40.17775671,
+        "LON": -111.61803846,
+        "LABEL": "PROVO 696.75"
+      },
+      "geometry": { "x": -111.6180384616958, "y": 40.177756707831641 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2386,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "697",
+        "LAT": 40.18133163,
+        "LON": -111.618129,
+        "LABEL": "PROVO 697"
+      },
+      "geometry": { "x": -111.61812899570675, "y": 40.181331631403346 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2387,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "697.25",
+        "LAT": 40.18535023,
+        "LON": -111.61990405,
+        "LABEL": "PROVO 697.25"
+      },
+      "geometry": { "x": -111.6199040451486, "y": 40.18535023406762 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2388,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "697.5",
+        "LAT": 40.18929164,
+        "LON": -111.62199335,
+        "LABEL": "PROVO 697.5"
+      },
+      "geometry": { "x": -111.62199334683642, "y": 40.189291638506923 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2389,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "626",
+        "LAT": 39.67870974,
+        "LON": -110.85617589,
+        "LABEL": "PROVO 626"
+      },
+      "geometry": { "x": -110.85617589121838, "y": 39.678709741141176 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2390,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "626.25",
+        "LAT": 39.68199433,
+        "LON": -110.8538814,
+        "LABEL": "PROVO 626.25"
+      },
+      "geometry": { "x": -110.85388139545506, "y": 39.681994332887705 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2391,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "627.5",
+        "LAT": 39.69636118,
+        "LON": -110.86440732,
+        "LABEL": "PROVO 627.5"
+      },
+      "geometry": { "x": -110.86440731586352, "y": 39.696361180167351 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2392,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "627.75",
+        "LAT": 39.69983142,
+        "LON": -110.86509601,
+        "LABEL": "PROVO 627.75"
+      },
+      "geometry": { "x": -110.86509600568282, "y": 39.699831420603104 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2393,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "628",
+        "LAT": 39.70323907,
+        "LON": -110.8654329,
+        "LABEL": "PROVO 628"
+      },
+      "geometry": { "x": -110.86543289727055, "y": 39.703239071927143 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2394,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "628.25",
+        "LAT": 39.70617528,
+        "LON": -110.8681239,
+        "LABEL": "PROVO 628.25"
+      },
+      "geometry": { "x": -110.8681239022138, "y": 39.70617527648804 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2395,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "628.5",
+        "LAT": 39.70942878,
+        "LON": -110.86724766,
+        "LABEL": "PROVO 628.5"
+      },
+      "geometry": { "x": -110.86724766302777, "y": 39.709428782076088 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2396,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "628.75",
+        "LAT": 39.71274877,
+        "LON": -110.86700191,
+        "LABEL": "PROVO 628.75"
+      },
+      "geometry": { "x": -110.8670019118138, "y": 39.712748768078086 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2397,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "629",
+        "LAT": 39.71616261,
+        "LON": -110.86829688,
+        "LABEL": "PROVO 629"
+      },
+      "geometry": { "x": -110.86829687641499, "y": 39.716162606500248 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2398,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "629.25",
+        "LAT": 39.7193538,
+        "LON": -110.86594403,
+        "LABEL": "PROVO 629.25"
+      },
+      "geometry": { "x": -110.86594402878578, "y": 39.719353801413021 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2399,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "649.5",
+        "LAT": 39.90629903,
+        "LON": -111.06055516,
+        "LABEL": "PROVO 649.5"
+      },
+      "geometry": { "x": -111.06055515883693, "y": 39.906299029480117 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2400,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "649.75",
+        "LAT": 39.90983851,
+        "LON": -111.06228435,
+        "LABEL": "PROVO 649.75"
+      },
+      "geometry": { "x": -111.06228434838523, "y": 39.909838512967362 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2401,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "650",
+        "LAT": 39.91338986,
+        "LON": -111.06397338,
+        "LABEL": "PROVO 650"
+      },
+      "geometry": { "x": -111.063973382342, "y": 39.913389862497226 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2402,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "650.25",
+        "LAT": 39.91682108,
+        "LON": -111.0656368,
+        "LABEL": "PROVO 650.25"
+      },
+      "geometry": { "x": -111.06563680083842, "y": 39.916821080881796 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2403,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "658.5",
+        "LAT": 39.91461042,
+        "LON": -111.19119153,
+        "LABEL": "PROVO 658.5"
+      },
+      "geometry": { "x": -111.19119152805109, "y": 39.914610422203928 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2404,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "658.75",
+        "LAT": 39.91745797,
+        "LON": -111.19128428,
+        "LABEL": "PROVO 658.75"
+      },
+      "geometry": { "x": -111.19128428539238, "y": 39.917457971285451 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2405,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "659",
+        "LAT": 39.91962503,
+        "LON": -111.18833999,
+        "LABEL": "PROVO 659"
+      },
+      "geometry": { "x": -111.18833998608176, "y": 39.919625033070382 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2406,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "659.25",
+        "LAT": 39.92281682,
+        "LON": -111.18688415,
+        "LABEL": "PROVO 659.25"
+      },
+      "geometry": { "x": -111.18688414848454, "y": 39.922816819239429 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2407,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "657.25",
+        "LAT": 39.9231675,
+        "LON": -111.17415912,
+        "LABEL": "PROVO 657.25"
+      },
+      "geometry": { "x": -111.17415912441278, "y": 39.923167502677963 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2408,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "657.5",
+        "LAT": 39.92249478,
+        "LON": -111.17906245,
+        "LABEL": "PROVO 657.5"
+      },
+      "geometry": { "x": -111.17906244723711, "y": 39.922494777649113 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2409,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "659.75",
+        "LAT": 39.92565457,
+        "LON": -111.17798894,
+        "LABEL": "PROVO 659.75"
+      },
+      "geometry": { "x": -111.1779889371164, "y": 39.925654569896317 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2410,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "660",
+        "LAT": 39.92680423,
+        "LON": -111.17337619,
+        "LABEL": "PROVO 660"
+      },
+      "geometry": { "x": -111.17337618694712, "y": 39.926804227155451 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2411,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "660.25",
+        "LAT": 39.9281575,
+        "LON": -111.1682496,
+        "LABEL": "PROVO 660.25"
+      },
+      "geometry": { "x": -111.16824959684207, "y": 39.928157496934816 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2412,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "660.5",
+        "LAT": 39.93088484,
+        "LON": -111.16522374,
+        "LABEL": "PROVO 660.5"
+      },
+      "geometry": { "x": -111.1652237376902, "y": 39.930884841348437 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2413,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "678.75",
+        "LAT": 39.99401085,
+        "LON": -111.4613972,
+        "LABEL": "PROVO 678.75"
+      },
+      "geometry": { "x": -111.46139720349618, "y": 39.994010845098352 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2414,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "679",
+        "LAT": 39.99394641,
+        "LON": -111.46604201,
+        "LABEL": "PROVO 679"
+      },
+      "geometry": { "x": -111.46604200735142, "y": 39.993946407297443 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2415,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "679.25",
+        "LAT": 39.99389502,
+        "LON": -111.47149579,
+        "LABEL": "PROVO 679.25"
+      },
+      "geometry": { "x": -111.47149579442565, "y": 39.993895016540193 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2416,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "679.5",
+        "LAT": 39.99580694,
+        "LON": -111.47622253,
+        "LABEL": "PROVO 679.5"
+      },
+      "geometry": { "x": -111.47622253182134, "y": 39.995806935468522 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2417,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "685.5",
+        "LAT": 40.04195089,
+        "LON": -111.54441235,
+        "LABEL": "PROVO 685.5"
+      },
+      "geometry": { "x": -111.54441235146484, "y": 40.041950888008664 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2418,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "685.75",
+        "LAT": 40.04455318,
+        "LON": -111.54745894,
+        "LABEL": "PROVO 685.75"
+      },
+      "geometry": { "x": -111.5474589401402, "y": 40.044553179477745 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2419,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "686",
+        "LAT": 40.0478846,
+        "LON": -111.5484308,
+        "LABEL": "PROVO 686"
+      },
+      "geometry": { "x": -111.54843079870001, "y": 40.047884597136004 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2420,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "686.25",
+        "LAT": 40.05145626,
+        "LON": -111.54777059,
+        "LABEL": "PROVO 686.25"
+      },
+      "geometry": { "x": -111.54777059356006, "y": 40.051456261817272 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2421,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "686.5",
+        "LAT": 40.05418739,
+        "LON": -111.55067754,
+        "LABEL": "PROVO 686.5"
+      },
+      "geometry": { "x": -111.55067753822618, "y": 40.054187390488529 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2422,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "741.5",
+        "LAT": 40.71086668,
+        "LON": -111.90793962,
+        "LABEL": "PROVO 741.5"
+      },
+      "geometry": { "x": -111.9079396171002, "y": 40.710866676420572 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2423,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "741.75",
+        "LAT": 40.71450205,
+        "LON": -111.90844249,
+        "LABEL": "PROVO 741.75"
+      },
+      "geometry": { "x": -111.90844248680973, "y": 40.714502050860169 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2424,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "742",
+        "LAT": 40.71816656,
+        "LON": -111.90844353,
+        "LABEL": "PROVO 742"
+      },
+      "geometry": { "x": -111.90844352885544, "y": 40.71816655817306 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2425,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "742.25",
+        "LAT": 40.72173863,
+        "LON": -111.90844304,
+        "LABEL": "PROVO 742.25"
+      },
+      "geometry": { "x": -111.90844304017195, "y": 40.721738633650055 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2426,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "740.5",
+        "LAT": 40.6967684,
+        "LON": -111.90319004,
+        "LABEL": "PROVO 740.5"
+      },
+      "geometry": { "x": -111.90319004093675, "y": 40.696768404936712 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2427,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "740.75",
+        "LAT": 40.70027613,
+        "LON": -111.90432407,
+        "LABEL": "PROVO 740.75"
+      },
+      "geometry": { "x": -111.90432406876151, "y": 40.700276134108961 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2428,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "741",
+        "LAT": 40.70377302,
+        "LON": -111.90551942,
+        "LABEL": "PROVO 741"
+      },
+      "geometry": { "x": -111.90551941648592, "y": 40.703773015399783 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2429,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "741.25",
+        "LAT": 40.70731943,
+        "LON": -111.90673168,
+        "LABEL": "PROVO 741.25"
+      },
+      "geometry": { "x": -111.90673168308035, "y": 40.707319433380079 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2430,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "721.5",
+        "LAT": 40.4391533,
+        "LON": -111.91120421,
+        "LABEL": "PROVO 721.5"
+      },
+      "geometry": { "x": -111.91120420803041, "y": 40.439153298335135 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2431,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "721.75",
+        "LAT": 40.44087676,
+        "LON": -111.91441349,
+        "LABEL": "PROVO 721.75"
+      },
+      "geometry": { "x": -111.91441349328186, "y": 40.440876756664153 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2432,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "722",
+        "LAT": 40.44138117,
+        "LON": -111.91833733,
+        "LABEL": "PROVO 722"
+      },
+      "geometry": { "x": -111.91833732725635, "y": 40.441381168013585 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2433,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "722.25",
+        "LAT": 40.4431189,
+        "LON": -111.92222883,
+        "LABEL": "PROVO 722.25"
+      },
+      "geometry": { "x": -111.92222883445707, "y": 40.443118904278059 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2434,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "722.5",
+        "LAT": 40.44664361,
+        "LON": -111.92235684,
+        "LABEL": "PROVO 722.5"
+      },
+      "geometry": { "x": -111.92235683809685, "y": 40.446643614305913 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2435,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "719.5",
+        "LAT": 40.41597329,
+        "LON": -111.88596587,
+        "LABEL": "PROVO 719.5"
+      },
+      "geometry": { "x": -111.88596587393475, "y": 40.415973291323709 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2436,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "719.75",
+        "LAT": 40.41866446,
+        "LON": -111.88915167,
+        "LABEL": "PROVO 719.75"
+      },
+      "geometry": { "x": -111.8891516736314, "y": 40.41866446491705 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2437,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "720",
+        "LAT": 40.42149341,
+        "LON": -111.89212411,
+        "LABEL": "PROVO 720"
+      },
+      "geometry": { "x": -111.89212410638008, "y": 40.421493410035339 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2438,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "720.25",
+        "LAT": 40.42474492,
+        "LON": -111.89561098,
+        "LABEL": "PROVO 720.25"
+      },
+      "geometry": { "x": -111.89561098452901, "y": 40.42474491972925 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2439,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "718.5",
+        "LAT": 40.40523078,
+        "LON": -111.87321844,
+        "LABEL": "PROVO 718.5"
+      },
+      "geometry": { "x": -111.8732184386933, "y": 40.405230777497415 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2440,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "718.75",
+        "LAT": 40.40791448,
+        "LON": -111.87640099,
+        "LABEL": "PROVO 718.75"
+      },
+      "geometry": { "x": -111.8764009918785, "y": 40.407914474809061 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2441,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "719",
+        "LAT": 40.41059518,
+        "LON": -111.87958799,
+        "LABEL": "PROVO 719"
+      },
+      "geometry": { "x": -111.87958798902942, "y": 40.410595175239848 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2442,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "719.25",
+        "LAT": 40.41328271,
+        "LON": -111.88277907,
+        "LABEL": "PROVO 719.25"
+      },
+      "geometry": { "x": -111.88277907171826, "y": 40.413282709100883 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2443,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "717.75",
+        "LAT": 40.3971757,
+        "LON": -111.86365989,
+        "LABEL": "PROVO 717.75"
+      },
+      "geometry": { "x": -111.86365988975979, "y": 40.39717570361298 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2444,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "718",
+        "LAT": 40.39986407,
+        "LON": -111.86685269,
+        "LABEL": "PROVO 718"
+      },
+      "geometry": { "x": -111.86685269272239, "y": 40.399864068858982 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2445,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "718.25",
+        "LAT": 40.40254762,
+        "LON": -111.87003522,
+        "LABEL": "PROVO 718.25"
+      },
+      "geometry": { "x": -111.8700352171615, "y": 40.402547623052151 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2446,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "713.5",
+        "LAT": 40.3689231,
+        "LON": -111.80065365,
+        "LABEL": "PROVO 713.5"
+      },
+      "geometry": { "x": -111.8006536511396, "y": 40.368923103199265 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2447,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "713.75",
+        "LAT": 40.37086772,
+        "LON": -111.8038006,
+        "LABEL": "PROVO 713.75"
+      },
+      "geometry": { "x": -111.80380060319177, "y": 40.370867718606206 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2448,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "714",
+        "LAT": 40.37217542,
+        "LON": -111.80746834,
+        "LABEL": "PROVO 714"
+      },
+      "geometry": { "x": -111.80746833736025, "y": 40.372175416279148 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2449,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "714.25",
+        "LAT": 40.37311189,
+        "LON": -111.81191106,
+        "LABEL": "PROVO 714.25"
+      },
+      "geometry": { "x": -111.81191106159906, "y": 40.373111893684417 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2450,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "714.5",
+        "LAT": 40.37404223,
+        "LON": -111.81635612,
+        "LABEL": "PROVO 714.5"
+      },
+      "geometry": { "x": -111.81635612505089, "y": 40.374042229585434 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2451,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "704.75",
+        "LAT": 40.2625517,
+        "LON": -111.70916034,
+        "LABEL": "PROVO 704.75"
+      },
+      "geometry": { "x": -111.70916034365659, "y": 40.262551695441907 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2452,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "705",
+        "LAT": 40.26550276,
+        "LON": -111.7120908,
+        "LABEL": "PROVO 705"
+      },
+      "geometry": { "x": -111.71209079992865, "y": 40.26550275881079 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2453,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "705.25",
+        "LAT": 40.26829904,
+        "LON": -111.71487421,
+        "LABEL": "PROVO 705.25"
+      },
+      "geometry": { "x": -111.71487420558199, "y": 40.26829903618821 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2454,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "696",
+        "LAT": 40.16702623,
+        "LON": -111.61791466,
+        "LABEL": "PROVO 696"
+      },
+      "geometry": { "x": -111.6179146594766, "y": 40.167026229652976 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2455,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "696.25",
+        "LAT": 40.1706029,
+        "LON": -111.61798049,
+        "LABEL": "PROVO 696.25"
+      },
+      "geometry": { "x": -111.61798048532567, "y": 40.170602895747678 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2456,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "684.5",
+        "LAT": 40.03664478,
+        "LON": -111.53023708,
+        "LABEL": "PROVO 684.5"
+      },
+      "geometry": { "x": -111.53023707731693, "y": 40.036644776958347 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2457,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "684.75",
+        "LAT": 40.03760495,
+        "LON": -111.53329234,
+        "LABEL": "PROVO 684.75"
+      },
+      "geometry": { "x": -111.53329234012469, "y": 40.037604950949387 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2458,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "685",
+        "LAT": 40.03860364,
+        "LON": -111.53632698,
+        "LABEL": "PROVO 685"
+      },
+      "geometry": { "x": -111.53632698480006, "y": 40.03860363700872 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2459,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "685.25",
+        "LAT": 40.04024028,
+        "LON": -111.54039526,
+        "LABEL": "PROVO 685.25"
+      },
+      "geometry": { "x": -111.54039525619415, "y": 40.0402402748812 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2460,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "683.75",
+        "LAT": 40.03369803,
+        "LON": -111.51960137,
+        "LABEL": "PROVO 683.75"
+      },
+      "geometry": { "x": -111.51960137379761, "y": 40.033698031368047 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2461,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "684",
+        "LAT": 40.03477362,
+        "LON": -111.5241,
+        "LABEL": "PROVO 684"
+      },
+      "geometry": { "x": -111.52410000019654, "y": 40.034773621077726 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2462,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "684.25",
+        "LAT": 40.03570958,
+        "LON": -111.52716832,
+        "LABEL": "PROVO 684.25"
+      },
+      "geometry": { "x": -111.5271683218136, "y": 40.035709579593025 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2463,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "682.5",
+        "LAT": 40.02367724,
+        "LON": -111.50134065,
+        "LABEL": "PROVO 682.5"
+      },
+      "geometry": { "x": -111.50134064528082, "y": 40.023677242958478 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2464,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "682.75",
+        "LAT": 40.02684561,
+        "LON": -111.50357768,
+        "LABEL": "PROVO 682.75"
+      },
+      "geometry": { "x": -111.50357768300195, "y": 40.026845606520581 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2465,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "683",
+        "LAT": 40.02850304,
+        "LON": -111.50759092,
+        "LABEL": "PROVO 683"
+      },
+      "geometry": { "x": -111.50759092180512, "y": 40.028503036560387 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2466,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "683.25",
+        "LAT": 40.02961738,
+        "LON": -111.51204527,
+        "LABEL": "PROVO 683.25"
+      },
+      "geometry": { "x": -111.51204527383696, "y": 40.029617382621574 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2467,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "683.5",
+        "LAT": 40.03211863,
+        "LON": -111.51546609,
+        "LABEL": "PROVO 683.5"
+      },
+      "geometry": { "x": -111.51546608898163, "y": 40.032118628671348 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2468,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "681.75",
+        "LAT": 40.01460216,
+        "LON": -111.49521814,
+        "LABEL": "PROVO 681.75"
+      },
+      "geometry": { "x": -111.49521813703772, "y": 40.0146021590144 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2469,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "682",
+        "LAT": 40.01727521,
+        "LON": -111.4970133,
+        "LABEL": "PROVO 682"
+      },
+      "geometry": { "x": -111.49701329616552, "y": 40.017275212809629 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2470,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "682.25",
+        "LAT": 40.02047394,
+        "LON": -111.4991826,
+        "LABEL": "PROVO 682.25"
+      },
+      "geometry": { "x": -111.49918259821929, "y": 40.0204739429802 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2471,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "672.5",
+        "LAT": 39.9794771,
+        "LON": -111.35305469,
+        "LABEL": "PROVO 672.5"
+      },
+      "geometry": { "x": -111.35305469479394, "y": 39.979477104574862 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2472,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "672.75",
+        "LAT": 39.98091616,
+        "LON": -111.35651966,
+        "LABEL": "PROVO 672.75"
+      },
+      "geometry": { "x": -111.35651965854152, "y": 39.980916160733088 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2473,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "673",
+        "LAT": 39.98298204,
+        "LON": -111.35930336,
+        "LABEL": "PROVO 673"
+      },
+      "geometry": { "x": -111.35930335884227, "y": 39.982982040557495 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2474,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "673.25",
+        "LAT": 39.98522501,
+        "LON": -111.36283365,
+        "LABEL": "PROVO 673.25"
+      },
+      "geometry": { "x": -111.36283364538239, "y": 39.985225007549239 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2475,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "670.75",
+        "LAT": 39.96676895,
+        "LON": -111.32281412,
+        "LABEL": "PROVO 670.75"
+      },
+      "geometry": { "x": -111.32281411539482, "y": 39.966768950646781 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2476,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "671",
+        "LAT": 39.96865108,
+        "LON": -111.32699597,
+        "LABEL": "PROVO 671"
+      },
+      "geometry": { "x": -111.3269959670785, "y": 39.968651076729351 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2477,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "671.25",
+        "LAT": 39.97063623,
+        "LON": -111.33177932,
+        "LABEL": "PROVO 671.25"
+      },
+      "geometry": { "x": -111.33177932079498, "y": 39.970636228537984 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2478,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "669.75",
+        "LAT": 39.96224373,
+        "LON": -111.30656648,
+        "LABEL": "PROVO 669.75"
+      },
+      "geometry": { "x": -111.30656647639549, "y": 39.9622437342347 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2479,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "670",
+        "LAT": 39.96497007,
+        "LON": -111.30941791,
+        "LABEL": "PROVO 670"
+      },
+      "geometry": { "x": -111.30941791326192, "y": 39.964970068496839 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2480,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "670.25",
+        "LAT": 39.96565804,
+        "LON": -111.313966,
+        "LABEL": "PROVO 670.25"
+      },
+      "geometry": { "x": -111.31396600179873, "y": 39.965658043419026 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2481,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "670.5",
+        "LAT": 39.96492722,
+        "LON": -111.31870746,
+        "LABEL": "PROVO 670.5"
+      },
+      "geometry": { "x": -111.31870745898864, "y": 39.964927220917652 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2482,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "662.75",
+        "LAT": 39.93642352,
+        "LON": -111.19640156,
+        "LABEL": "PROVO 662.75"
+      },
+      "geometry": { "x": -111.19640155637467, "y": 39.936423516226768 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2483,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "663",
+        "LAT": 39.93982304,
+        "LON": -111.19737192,
+        "LABEL": "PROVO 663"
+      },
+      "geometry": { "x": -111.19737192013781, "y": 39.939823036846718 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2484,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "663.25",
+        "LAT": 39.94337426,
+        "LON": -111.19732926,
+        "LABEL": "PROVO 663.25"
+      },
+      "geometry": { "x": -111.19732926273825, "y": 39.943374264549931 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2485,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "663.5",
+        "LAT": 39.94505924,
+        "LON": -111.20094392,
+        "LABEL": "PROVO 663.5"
+      },
+      "geometry": { "x": -111.20094392533804, "y": 39.945059240104676 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2486,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "652.75",
+        "LAT": 39.93231766,
+        "LON": -111.10394699,
+        "LABEL": "PROVO 652.75"
+      },
+      "geometry": { "x": -111.10394698775725, "y": 39.932317662131688 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2487,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "653",
+        "LAT": 39.93179645,
+        "LON": -111.10889401,
+        "LABEL": "PROVO 653"
+      },
+      "geometry": { "x": -111.10889401002693, "y": 39.931796447865111 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2488,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "653.25",
+        "LAT": 39.93196298,
+        "LON": -111.11315215,
+        "LABEL": "PROVO 653.25"
+      },
+      "geometry": { "x": -111.11315214664452, "y": 39.931962976592985 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2489,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "651.5",
+        "LAT": 39.92682974,
+        "LON": -111.08282001,
+        "LABEL": "PROVO 651.5"
+      },
+      "geometry": { "x": -111.08282001184999, "y": 39.926829737307969 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2490,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "651.75",
+        "LAT": 39.92827301,
+        "LON": -111.08640596,
+        "LABEL": "PROVO 651.75"
+      },
+      "geometry": { "x": -111.08640596429331, "y": 39.928273013248088 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2491,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "652",
+        "LAT": 39.92981972,
+        "LON": -111.08991842,
+        "LABEL": "PROVO 652"
+      },
+      "geometry": { "x": -111.08991842286831, "y": 39.929819723660323 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2492,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "652.25",
+        "LAT": 39.93173437,
+        "LON": -111.09425446,
+        "LABEL": "PROVO 652.25"
+      },
+      "geometry": { "x": -111.09425445689575, "y": 39.931734371976312 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2493,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "652.5",
+        "LAT": 39.93281048,
+        "LON": -111.09900225,
+        "LABEL": "PROVO 652.5"
+      },
+      "geometry": { "x": -111.09900224810677, "y": 39.932810483845373 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2494,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "646.5",
+        "LAT": 39.86906099,
+        "LON": -111.03284094,
+        "LABEL": "PROVO 646.5"
+      },
+      "geometry": { "x": -111.03284094385074, "y": 39.86906098902088 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2495,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "646.75",
+        "LAT": 39.87217772,
+        "LON": -111.03521051,
+        "LABEL": "PROVO 646.75"
+      },
+      "geometry": { "x": -111.0352105091274, "y": 39.872177718970384 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2496,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "647",
+        "LAT": 39.87528086,
+        "LON": -111.0376086,
+        "LABEL": "PROVO 647"
+      },
+      "geometry": { "x": -111.03760859950759, "y": 39.875280863916814 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2497,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "647.25",
+        "LAT": 39.87774065,
+        "LON": -111.04041487,
+        "LABEL": "PROVO 647.25"
+      },
+      "geometry": { "x": -111.04041487267482, "y": 39.877740648239985 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2498,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "644.75",
+        "LAT": 39.84888811,
+        "LON": -111.01348704,
+        "LABEL": "PROVO 644.75"
+      },
+      "geometry": { "x": -111.01348703839672, "y": 39.848888107470536 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2499,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "645",
+        "LAT": 39.85163097,
+        "LON": -111.01654048,
+        "LABEL": "PROVO 645"
+      },
+      "geometry": { "x": -111.01654048121775, "y": 39.85163097347327 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2500,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "645.25",
+        "LAT": 39.85435002,
+        "LON": -111.01957212,
+        "LABEL": "PROVO 645.25"
+      },
+      "geometry": { "x": -111.01957211743522, "y": 39.854350019538259 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2501,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "640.75",
+        "LAT": 39.83434622,
+        "LON": -110.95589787,
+        "LABEL": "PROVO 640.75"
+      },
+      "geometry": { "x": -110.95589786821353, "y": 39.834346216311417 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2502,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "641",
+        "LAT": 39.83619049,
+        "LON": -110.95971102,
+        "LABEL": "PROVO 641"
+      },
+      "geometry": { "x": -110.95971101896527, "y": 39.836190493979508 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2503,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "641.25",
+        "LAT": 39.83687276,
+        "LON": -110.96395852,
+        "LABEL": "PROVO 641.25"
+      },
+      "geometry": { "x": -110.96395852042822, "y": 39.836872763076293 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2504,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "641.5",
+        "LAT": 39.83493854,
+        "LON": -110.96780403,
+        "LABEL": "PROVO 641.5"
+      },
+      "geometry": { "x": -110.96780402669985, "y": 39.834938543588486 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2505,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "638.75",
+        "LAT": 39.8133535,
+        "LON": -110.93772732,
+        "LABEL": "PROVO 638.75"
+      },
+      "geometry": { "x": -110.93772731797489, "y": 39.8133534968262 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2506,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "639",
+        "LAT": 39.81694008,
+        "LON": -110.93714097,
+        "LABEL": "PROVO 639"
+      },
+      "geometry": { "x": -110.93714096513106, "y": 39.816940079047725 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2507,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "639.25",
+        "LAT": 39.81948214,
+        "LON": -110.94043024,
+        "LABEL": "PROVO 639.25"
+      },
+      "geometry": { "x": -110.94043023637541, "y": 39.819482137505055 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2508,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "635.75",
+        "LAT": 39.79057579,
+        "LON": -110.92973974,
+        "LABEL": "PROVO 635.75"
+      },
+      "geometry": { "x": -110.92973973742038, "y": 39.790575792062327 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2509,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "636",
+        "LAT": 39.7939502,
+        "LON": -110.93102249,
+        "LABEL": "PROVO 636"
+      },
+      "geometry": { "x": -110.93102248673033, "y": 39.793950200923028 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2510,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "636.25",
+        "LAT": 39.79660899,
+        "LON": -110.92867193,
+        "LABEL": "PROVO 636.25"
+      },
+      "geometry": { "x": -110.92867192980508, "y": 39.796608989214093 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2511,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "634.75",
+        "LAT": 39.77984309,
+        "LON": -110.9178301,
+        "LABEL": "PROVO 634.75"
+      },
+      "geometry": { "x": -110.91783010245391, "y": 39.779843084829047 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2512,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "635",
+        "LAT": 39.78261306,
+        "LON": -110.92078212,
+        "LABEL": "PROVO 635"
+      },
+      "geometry": { "x": -110.92078211649618, "y": 39.782613059866492 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2513,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "635.25",
+        "LAT": 39.78475491,
+        "LON": -110.92453508,
+        "LABEL": "PROVO 635.25"
+      },
+      "geometry": { "x": -110.92453507922555, "y": 39.784754910522388 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2514,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "635.5",
+        "LAT": 39.7873186,
+        "LON": -110.92765145,
+        "LABEL": "PROVO 635.5"
+      },
+      "geometry": { "x": -110.92765144993052, "y": 39.787318597117057 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2515,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "632.5",
+        "LAT": 39.75851873,
+        "LON": -110.88936277,
+        "LABEL": "PROVO 632.5"
+      },
+      "geometry": { "x": -110.88936277137452, "y": 39.758518734312034 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2516,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "632.75",
+        "LAT": 39.76131653,
+        "LON": -110.89242977,
+        "LABEL": "PROVO 632.75"
+      },
+      "geometry": { "x": -110.89242977156981, "y": 39.761316527231457 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2517,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "633",
+        "LAT": 39.76374008,
+        "LON": -110.89606806,
+        "LABEL": "PROVO 633"
+      },
+      "geometry": { "x": -110.89606805986158, "y": 39.763740079893793 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2518,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "633.25",
+        "LAT": 39.76438027,
+        "LON": -110.90062827,
+        "LABEL": "PROVO 633.25"
+      },
+      "geometry": { "x": -110.90062826936651, "y": 39.764380265725237 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2519,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "633.5",
+        "LAT": 39.76631641,
+        "LON": -110.90414686,
+        "LABEL": "PROVO 633.5"
+      },
+      "geometry": { "x": -110.90414686343489, "y": 39.7663164107336 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3592,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "694.75",
+        "LAT": 40.15216118,
+        "LON": -111.60682126,
+        "LABEL": "PROVO 694.75"
+      },
+      "geometry": { "x": -111.60682125803181, "y": 40.152161180577274 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3593,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "695",
+        "LAT": 40.1547424,
+        "LON": -111.61000761,
+        "LABEL": "PROVO 695"
+      },
+      "geometry": { "x": -111.61000761288729, "y": 40.154742398782844 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3594,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "695.25",
+        "LAT": 40.15724841,
+        "LON": -111.61352199,
+        "LABEL": "PROVO 695.25"
+      },
+      "geometry": { "x": -111.61352198756877, "y": 40.1572484145212 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3595,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "689.75",
+        "LAT": 40.08721027,
+        "LON": -111.59031492,
+        "LABEL": "PROVO 689.75"
+      },
+      "geometry": { "x": -111.59031492309524, "y": 40.087210266984521 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3596,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "690",
+        "LAT": 40.09023007,
+        "LON": -111.59058594,
+        "LABEL": "PROVO 690"
+      },
+      "geometry": { "x": -111.59058594481648, "y": 40.090230066633765 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3597,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "690.25",
+        "LAT": 40.09379309,
+        "LON": -111.59168014,
+        "LABEL": "PROVO 690.25"
+      },
+      "geometry": { "x": -111.59168014044323, "y": 40.093793086171857 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3598,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "690.5",
+        "LAT": 40.09710164,
+        "LON": -111.59372999,
+        "LABEL": "PROVO 690.5"
+      },
+      "geometry": { "x": -111.59372998722546, "y": 40.097101639322133 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3599,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "692.5",
+        "LAT": 40.1227074,
+        "LON": -111.61164237,
+        "LABEL": "PROVO 692.5"
+      },
+      "geometry": { "x": -111.61164237153289, "y": 40.122707400338093 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3600,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "692.75",
+        "LAT": 40.12587983,
+        "LON": -111.61386721,
+        "LABEL": "PROVO 692.75"
+      },
+      "geometry": { "x": -111.61386720564089, "y": 40.125879831240944 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3601,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "693",
+        "LAT": 40.12923836,
+        "LON": -111.6154323,
+        "LABEL": "PROVO 693"
+      },
+      "geometry": { "x": -111.61543229544465, "y": 40.129238358617535 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3602,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "693.25",
+        "LAT": 40.13272862,
+        "LON": -111.61436128,
+        "LABEL": "PROVO 693.25"
+      },
+      "geometry": { "x": -111.61436127814883, "y": 40.132728622717934 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3603,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "693.5",
+        "LAT": 40.13585086,
+        "LON": -111.6119151,
+        "LABEL": "PROVO 693.5"
+      },
+      "geometry": { "x": -111.61191510364644, "y": 40.135850859079781 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3656,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "699.75",
+        "LAT": 40.21713203,
+        "LON": -111.64291305,
+        "LABEL": "PROVO 699.75"
+      },
+      "geometry": { "x": -111.64291304816999, "y": 40.217132027984817 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3657,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "700",
+        "LAT": 40.21963704,
+        "LON": -111.6455029,
+        "LABEL": "PROVO 700"
+      },
+      "geometry": { "x": -111.64550289562567, "y": 40.219637040370976 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3659,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "700.25",
+        "LAT": 40.2219678,
+        "LON": -111.64873404,
+        "LABEL": "PROVO 700.25"
+      },
+      "geometry": { "x": -111.64873403868459, "y": 40.22196780096295 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3660,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "700.5",
+        "LAT": 40.2239491,
+        "LON": -111.65235887,
+        "LABEL": "PROVO 700.5"
+      },
+      "geometry": { "x": -111.65235887201005, "y": 40.223949096120847 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3712,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "695.5",
+        "LAT": 40.15982229,
+        "LON": -111.61694154,
+        "LABEL": "PROVO 695.5"
+      },
+      "geometry": { "x": -111.61694154417371, "y": 40.159822289091181 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3713,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "695.75",
+        "LAT": 40.16334514,
+        "LON": -111.6179622,
+        "LABEL": "PROVO 695.75"
+      },
+      "geometry": { "x": -111.61796220460964, "y": 40.163345138314085 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3761,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "745.5",
+        "LAT": 40.76614257,
+        "LON": -111.9109605,
+        "LABEL": "PROVO 745.5"
+      },
+      "geometry": { "x": -111.91096049599213, "y": 40.766142566389107 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3762,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "745.75",
+        "LAT": 40.7692478,
+        "LON": -111.90873364,
+        "LABEL": "PROVO 745.75"
+      },
+      "geometry": { "x": -111.90873363708151, "y": 40.769247803666161 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3782,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "644.25",
+        "LAT": 39.84292,
+        "LON": -111.00833409,
+        "LABEL": "PROVO 644.25"
+      },
+      "geometry": { "x": -111.00833409082293, "y": 39.84292000373911 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3783,
+        "DIVISION": "PROVO",
+        "RR_Milepos": "644.5",
+        "LAT": 39.84608686,
+        "LON": -111.01052887,
+        "LABEL": "PROVO 644.5"
+      },
+      "geometry": { "x": -111.01052886909814, "y": 39.84608686275525 }
+    }
+  ]
+}
