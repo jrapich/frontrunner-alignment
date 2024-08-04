@@ -1,0 +1,1690 @@
+{
+  "objectIdFieldName": "OBJECTID",
+  "uniqueIdField": { "name": "OBJECTID", "isSystemMaintained": true },
+  "globalIdFieldName": "",
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": { "wkid": 4326, "latestWkid": 4326 },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DIVISION",
+      "type": "esriFieldTypeString",
+      "alias": "DIVISION",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "RR_Milepos",
+      "type": "esriFieldTypeString",
+      "alias": "RR_Milepos",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LAT",
+      "type": "esriFieldTypeDouble",
+      "alias": "LAT",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LON",
+      "type": "esriFieldTypeDouble",
+      "alias": "LON",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LABEL",
+      "type": "esriFieldTypeString",
+      "alias": "LABEL",
+      "sqlType": "sqlTypeOther",
+      "length": 30,
+      "domain": null,
+      "defaultValue": null
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 1933,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "785.25",
+        "LAT": 40.80385848,
+        "LON": -111.92007053,
+        "LABEL": "SALT LAKE 785.25"
+      },
+      "geometry": { "x": -111.92007052688407, "y": 40.803858476509383 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1934,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "785.5",
+        "LAT": 40.80739382,
+        "LON": -111.91993598,
+        "LABEL": "SALT LAKE 785.5"
+      },
+      "geometry": { "x": -111.91993598081407, "y": 40.807393815506394 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1935,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "783.25",
+        "LAT": 40.77945513,
+        "LON": -111.90528444,
+        "LABEL": "SALT LAKE 783.25"
+      },
+      "geometry": { "x": -111.9052844423604, "y": 40.779455133901671 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1936,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "783.5",
+        "LAT": 40.78281679,
+        "LON": -111.9056246,
+        "LABEL": "SALT LAKE 783.5"
+      },
+      "geometry": { "x": -111.90562460201915, "y": 40.782816785491754 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1937,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "784.25",
+        "LAT": 40.79159316,
+        "LON": -111.91237176,
+        "LABEL": "SALT LAKE 784.25"
+      },
+      "geometry": { "x": -111.91237175828664, "y": 40.791593164605544 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1938,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "784.5",
+        "LAT": 40.79451676,
+        "LON": -111.91464993,
+        "LABEL": "SALT LAKE 784.5"
+      },
+      "geometry": { "x": -111.91464993525452, "y": 40.794516758402544 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1939,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "786.25",
+        "LAT": 40.81813226,
+        "LON": -111.9193339,
+        "LABEL": "SALT LAKE 786.25"
+      },
+      "geometry": { "x": -111.91933390206287, "y": 40.81813226084607 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1940,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "786.5",
+        "LAT": 40.82179989,
+        "LON": -111.91907798,
+        "LABEL": "SALT LAKE 786.5"
+      },
+      "geometry": { "x": -111.91907797563171, "y": 40.8217998934196 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1941,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "787.25",
+        "LAT": 40.83272853,
+        "LON": -111.91826758,
+        "LABEL": "SALT LAKE 787.25"
+      },
+      "geometry": { "x": -111.91826757846445, "y": 40.832728532061175 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1942,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "787.5",
+        "LAT": 40.83632172,
+        "LON": -111.91798611,
+        "LABEL": "SALT LAKE 787.5"
+      },
+      "geometry": { "x": -111.91798610664151, "y": 40.836321719009462 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1943,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "788.25",
+        "LAT": 40.84693174,
+        "LON": -111.91526848,
+        "LABEL": "SALT LAKE 788.25"
+      },
+      "geometry": { "x": -111.91526847653162, "y": 40.846931743506438 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1944,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "788.5",
+        "LAT": 40.85045746,
+        "LON": -111.914056,
+        "LABEL": "SALT LAKE 788.5"
+      },
+      "geometry": { "x": -111.91405599523979, "y": 40.850457464666569 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1945,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "789.25",
+        "LAT": 40.86104834,
+        "LON": -111.91043183,
+        "LABEL": "SALT LAKE 789.25"
+      },
+      "geometry": { "x": -111.9104318302609, "y": 40.861048337137682 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1946,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "789.5",
+        "LAT": 40.86458376,
+        "LON": -111.90921207,
+        "LABEL": "SALT LAKE 789.5"
+      },
+      "geometry": { "x": -111.90921207351363, "y": 40.864583756313571 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1947,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "790.5",
+        "LAT": 40.87847014,
+        "LON": -111.90425824,
+        "LABEL": "SALT LAKE 790.5"
+      },
+      "geometry": { "x": -111.90425823931919, "y": 40.878470139013572 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3683,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "807.75",
+        "LAT": 41.09298286,
+        "LON": -112.01265345,
+        "LABEL": "SALT LAKE 807.75"
+      },
+      "geometry": { "x": -112.01265344768757, "y": 41.09298286377286 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3684,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "806.5",
+        "LAT": 41.07865235,
+        "LON": -111.99858958,
+        "LABEL": "SALT LAKE 806.5"
+      },
+      "geometry": { "x": -111.99858957721132, "y": 41.078652354227792 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3685,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "806.75",
+        "LAT": 41.08100241,
+        "LON": -112.00222638,
+        "LABEL": "SALT LAKE 806.75"
+      },
+      "geometry": { "x": -112.00222637879129, "y": 41.081002415045255 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3686,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "807",
+        "LAT": 41.08367816,
+        "LON": -112.00542853,
+        "LABEL": "SALT LAKE 807"
+      },
+      "geometry": { "x": -112.00542852602949, "y": 41.083678159710118 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3687,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "807.25",
+        "LAT": 41.08674901,
+        "LON": -112.00790186,
+        "LABEL": "SALT LAKE 807.25"
+      },
+      "geometry": { "x": -112.00790185750125, "y": 41.086749007464242 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3688,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "807.5",
+        "LAT": 41.08986507,
+        "LON": -112.01027932,
+        "LABEL": "SALT LAKE 807.5"
+      },
+      "geometry": { "x": -112.01027932256252, "y": 41.08986506677082 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3689,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "804.75",
+        "LAT": 41.06222663,
+        "LON": -111.97315885,
+        "LABEL": "SALT LAKE 804.75"
+      },
+      "geometry": { "x": -111.97315884643967, "y": 41.062226634336731 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3690,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "805",
+        "LAT": 41.06449608,
+        "LON": -111.97666408,
+        "LABEL": "SALT LAKE 805"
+      },
+      "geometry": { "x": -111.97666407716989, "y": 41.064496075769974 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3691,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "805.25",
+        "LAT": 41.06685404,
+        "LON": -111.9803338,
+        "LABEL": "SALT LAKE 805.25"
+      },
+      "geometry": { "x": -111.98033380200503, "y": 41.066854043975304 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3692,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "805.5",
+        "LAT": 41.06922718,
+        "LON": -111.98398644,
+        "LABEL": "SALT LAKE 805.5"
+      },
+      "geometry": { "x": -111.98398644447674, "y": 41.069227184821592 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3693,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "803.5",
+        "LAT": 41.0482883,
+        "LON": -111.95885241,
+        "LABEL": "SALT LAKE 803.5"
+      },
+      "geometry": { "x": -111.9588524137687, "y": 41.048288296191267 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3694,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "803.75",
+        "LAT": 41.05166647,
+        "LON": -111.9609588,
+        "LABEL": "SALT LAKE 803.75"
+      },
+      "geometry": { "x": -111.96095879602332, "y": 41.051666466177188 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3695,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "804",
+        "LAT": 41.05496446,
+        "LON": -111.96326762,
+        "LABEL": "SALT LAKE 804"
+      },
+      "geometry": { "x": -111.96326761901712, "y": 41.05496446097154 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3696,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "804.25",
+        "LAT": 41.0576617,
+        "LON": -111.96618049,
+        "LABEL": "SALT LAKE 804.25"
+      },
+      "geometry": { "x": -111.96618048717426, "y": 41.057661697077563 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3697,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "804.5",
+        "LAT": 41.05996136,
+        "LON": -111.96964911,
+        "LABEL": "SALT LAKE 804.5"
+      },
+      "geometry": { "x": -111.96964910706505, "y": 41.059961359541049 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3698,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "802.75",
+        "LAT": 41.03824098,
+        "LON": -111.952588,
+        "LABEL": "SALT LAKE 802.75"
+      },
+      "geometry": { "x": -111.95258800225344, "y": 41.038240979945051 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3699,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "803",
+        "LAT": 41.04153138,
+        "LON": -111.95464141,
+        "LABEL": "SALT LAKE 803"
+      },
+      "geometry": { "x": -111.95464141444901, "y": 41.041531377615186 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3700,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "803.25",
+        "LAT": 41.04491051,
+        "LON": -111.95674505,
+        "LABEL": "SALT LAKE 803.25"
+      },
+      "geometry": { "x": -111.95674504965548, "y": 41.044910508990746 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3701,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "801.75",
+        "LAT": 41.02483903,
+        "LON": -111.94554988,
+        "LABEL": "SALT LAKE 801.75"
+      },
+      "geometry": { "x": -111.94554987807216, "y": 41.024839032418491 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3702,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "802",
+        "LAT": 41.02815578,
+        "LON": -111.94710408,
+        "LABEL": "SALT LAKE 802"
+      },
+      "geometry": { "x": -111.94710407849803, "y": 41.028155775141059 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3703,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "802.25",
+        "LAT": 41.03158662,
+        "LON": -111.94870724,
+        "LABEL": "SALT LAKE 802.25"
+      },
+      "geometry": { "x": -111.94870724159847, "y": 41.03158661898707 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3704,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "802.5",
+        "LAT": 41.03494968,
+        "LON": -111.95053651,
+        "LABEL": "SALT LAKE 802.5"
+      },
+      "geometry": { "x": -111.95053651245257, "y": 41.034949677158124 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3705,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "799.75",
+        "LAT": 41.00115784,
+        "LON": -111.9260852,
+        "LABEL": "SALT LAKE 799.75"
+      },
+      "geometry": { "x": -111.92608519507226, "y": 41.001157842825371 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3706,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "800",
+        "LAT": 41.00348704,
+        "LON": -111.92981692,
+        "LABEL": "SALT LAKE 800"
+      },
+      "geometry": { "x": -111.92981691983169, "y": 41.0034870396081 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3707,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "800.25",
+        "LAT": 41.00579158,
+        "LON": -111.93349578,
+        "LABEL": "SALT LAKE 800.25"
+      },
+      "geometry": { "x": -111.93349577963497, "y": 41.005791575861174 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3708,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "798.75",
+        "LAT": 40.99183574,
+        "LON": -111.91114551,
+        "LABEL": "SALT LAKE 798.75"
+      },
+      "geometry": { "x": -111.91114551210974, "y": 40.991835738418011 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3709,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "799",
+        "LAT": 40.99417505,
+        "LON": -111.91488596,
+        "LABEL": "SALT LAKE 799"
+      },
+      "geometry": { "x": -111.91488596040891, "y": 40.994175045838283 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3710,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "799.25",
+        "LAT": 40.99649829,
+        "LON": -111.91862367,
+        "LABEL": "SALT LAKE 799.25"
+      },
+      "geometry": { "x": -111.91862367423633, "y": 40.996498289041611 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3711,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "799.5",
+        "LAT": 40.99882619,
+        "LON": -111.9223564,
+        "LABEL": "SALT LAKE 799.5"
+      },
+      "geometry": { "x": -111.92235640061729, "y": 40.998826192832993 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3714,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "805.75",
+        "LAT": 41.07159088,
+        "LON": -111.98764998,
+        "LABEL": "SALT LAKE 805.75"
+      },
+      "geometry": { "x": -111.98764997991958, "y": 41.071590875278105 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3715,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "806",
+        "LAT": 41.07395416,
+        "LON": -111.99131414,
+        "LABEL": "SALT LAKE 806"
+      },
+      "geometry": { "x": -111.99131413879321, "y": 41.073954163825171 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3716,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "806.25",
+        "LAT": 41.07630321,
+        "LON": -111.99495185,
+        "LABEL": "SALT LAKE 806.25"
+      },
+      "geometry": { "x": -111.99495184946828, "y": 41.076303211612419 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3717,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "797.5",
+        "LAT": 40.97790059,
+        "LON": -111.89675094,
+        "LABEL": "SALT LAKE 797.5"
+      },
+      "geometry": { "x": -111.89675093764141, "y": 40.977900592844492 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3718,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "797.75",
+        "LAT": 40.98137559,
+        "LON": -111.89811344,
+        "LABEL": "SALT LAKE 797.75"
+      },
+      "geometry": { "x": -111.8981134393823, "y": 40.981375591875349 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3719,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "798",
+        "LAT": 40.98462506,
+        "LON": -111.90016691,
+        "LABEL": "SALT LAKE 798"
+      },
+      "geometry": { "x": -111.90016690637512, "y": 40.984625059722887 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3720,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "798.25",
+        "LAT": 40.98713552,
+        "LON": -111.90368925,
+        "LABEL": "SALT LAKE 798.25"
+      },
+      "geometry": { "x": -111.90368924641822, "y": 40.987135521892384 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3721,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "798.5",
+        "LAT": 40.98946642,
+        "LON": -111.90743842,
+        "LABEL": "SALT LAKE 798.5"
+      },
+      "geometry": { "x": -111.907438423647, "y": 40.989466419781522 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3722,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "784.75",
+        "LAT": 40.79747494,
+        "LON": -111.91684936,
+        "LABEL": "SALT LAKE 784.75"
+      },
+      "geometry": { "x": -111.91684935602311, "y": 40.797474942543673 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3723,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "785",
+        "LAT": 40.80044046,
+        "LON": -111.91903171,
+        "LABEL": "SALT LAKE 785"
+      },
+      "geometry": { "x": -111.9190317088013, "y": 40.800440458041251 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3724,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "783.75",
+        "LAT": 40.78575517,
+        "LON": -111.90782799,
+        "LABEL": "SALT LAKE 783.75"
+      },
+      "geometry": { "x": -111.90782799064637, "y": 40.78575516550363 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3725,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "784",
+        "LAT": 40.78867033,
+        "LON": -111.910092,
+        "LABEL": "SALT LAKE 784"
+      },
+      "geometry": { "x": -111.91009199848726, "y": 40.788670326929442 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3726,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "785.75",
+        "LAT": 40.81093084,
+        "LON": -111.91981385,
+        "LABEL": "SALT LAKE 785.75"
+      },
+      "geometry": { "x": -111.91981385125794, "y": 40.810930837956562 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3727,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "786",
+        "LAT": 40.81446526,
+        "LON": -111.91960489,
+        "LABEL": "SALT LAKE 786"
+      },
+      "geometry": { "x": -111.91960488964814, "y": 40.8144652562842 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3728,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "786.75",
+        "LAT": 40.8254672,
+        "LON": -111.91880426,
+        "LABEL": "SALT LAKE 786.75"
+      },
+      "geometry": { "x": -111.9188042634562, "y": 40.825467199481189 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3729,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "787",
+        "LAT": 40.82913475,
+        "LON": -111.91853808,
+        "LABEL": "SALT LAKE 787"
+      },
+      "geometry": { "x": -111.91853808455268, "y": 40.829134752732678 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3730,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "787.75",
+        "LAT": 40.83990602,
+        "LON": -111.9175772,
+        "LABEL": "SALT LAKE 787.75"
+      },
+      "geometry": { "x": -111.91757719711744, "y": 40.839906015586024 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3731,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "788",
+        "LAT": 40.84340598,
+        "LON": -111.9164807,
+        "LABEL": "SALT LAKE 788"
+      },
+      "geometry": { "x": -111.91648070180356, "y": 40.843405982901288 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3732,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "788.75",
+        "LAT": 40.85398578,
+        "LON": -111.91285703,
+        "LABEL": "SALT LAKE 788.75"
+      },
+      "geometry": { "x": -111.91285702820313, "y": 40.85398578132726 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3733,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "789",
+        "LAT": 40.85751176,
+        "LON": -111.91164579,
+        "LABEL": "SALT LAKE 789"
+      },
+      "geometry": { "x": -111.91164578658642, "y": 40.857511757656042 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3734,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "789.75",
+        "LAT": 40.86811858,
+        "LON": -111.90798918,
+        "LABEL": "SALT LAKE 789.75"
+      },
+      "geometry": { "x": -111.90798917715443, "y": 40.868118583928421 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3735,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "790",
+        "LAT": 40.87165541,
+        "LON": -111.90677616,
+        "LABEL": "SALT LAKE 790"
+      },
+      "geometry": { "x": -111.90677616136503, "y": 40.87165540948007 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3736,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "790.25",
+        "LAT": 40.87508138,
+        "LON": -111.90560042,
+        "LABEL": "SALT LAKE 790.25"
+      },
+      "geometry": { "x": -111.90560042206666, "y": 40.875081384756641 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3737,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "790.75",
+        "LAT": 40.88181482,
+        "LON": -111.90272979,
+        "LABEL": "SALT LAKE 790.75"
+      },
+      "geometry": { "x": -111.9027297891009, "y": 40.881814817526283 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3738,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "791",
+        "LAT": 40.88515901,
+        "LON": -111.90119896,
+        "LABEL": "SALT LAKE 791"
+      },
+      "geometry": { "x": -111.90119896373704, "y": 40.885159006469664 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3739,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "791.25",
+        "LAT": 40.88863442,
+        "LON": -111.89961582,
+        "LABEL": "SALT LAKE 791.25"
+      },
+      "geometry": { "x": -111.8996158195927, "y": 40.8886344230687 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3740,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "791.5",
+        "LAT": 40.89207569,
+        "LON": -111.89791058,
+        "LABEL": "SALT LAKE 791.5"
+      },
+      "geometry": { "x": -111.89791058092652, "y": 40.892075687727967 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3741,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "791.75",
+        "LAT": 40.89548639,
+        "LON": -111.89609963,
+        "LABEL": "SALT LAKE 791.75"
+      },
+      "geometry": { "x": -111.8960996267211, "y": 40.895486392439693 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3742,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "792",
+        "LAT": 40.89889907,
+        "LON": -111.89429497,
+        "LABEL": "SALT LAKE 792"
+      },
+      "geometry": { "x": -111.8942949652142, "y": 40.898899073086255 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3743,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "792.25",
+        "LAT": 40.9022376,
+        "LON": -111.89258789,
+        "LABEL": "SALT LAKE 792.25"
+      },
+      "geometry": { "x": -111.89258788859495, "y": 40.902237603741476 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3744,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "792.5",
+        "LAT": 40.90578564,
+        "LON": -111.89211989,
+        "LABEL": "SALT LAKE 792.5"
+      },
+      "geometry": { "x": -111.89211988609487, "y": 40.905785640456173 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3745,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "792.75",
+        "LAT": 40.90936733,
+        "LON": -111.89208794,
+        "LABEL": "SALT LAKE 792.75"
+      },
+      "geometry": { "x": -111.89208794469832, "y": 40.909367333996883 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3746,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "793",
+        "LAT": 40.91294908,
+        "LON": -111.89206697,
+        "LABEL": "SALT LAKE 793"
+      },
+      "geometry": { "x": -111.89206696634146, "y": 40.912949078604811 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3747,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "793.25",
+        "LAT": 40.91661318,
+        "LON": -111.89204817,
+        "LABEL": "SALT LAKE 793.25"
+      },
+      "geometry": { "x": -111.8920481708908, "y": 40.916613175607189 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3748,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "793.5",
+        "LAT": 40.92027726,
+        "LON": -111.8920253,
+        "LABEL": "SALT LAKE 793.5"
+      },
+      "geometry": { "x": -111.8920252961904, "y": 40.920277257550488 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3749,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "793.75",
+        "LAT": 40.92394135,
+        "LON": -111.89200366,
+        "LABEL": "SALT LAKE 793.75"
+      },
+      "geometry": { "x": -111.89200366296171, "y": 40.9239413467984 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3750,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "794",
+        "LAT": 40.92760541,
+        "LON": -111.89197639,
+        "LABEL": "SALT LAKE 794"
+      },
+      "geometry": { "x": -111.89197638651643, "y": 40.927605413449 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3751,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "794.25",
+        "LAT": 40.93123419,
+        "LON": -111.89195557,
+        "LABEL": "SALT LAKE 794.25"
+      },
+      "geometry": { "x": -111.89195557434795, "y": 40.93123418611178 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3752,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "794.5",
+        "LAT": 40.93486294,
+        "LON": -111.89193144,
+        "LABEL": "SALT LAKE 794.5"
+      },
+      "geometry": { "x": -111.89193144470109, "y": 40.934862944074844 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3753,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "794.75",
+        "LAT": 40.93849171,
+        "LON": -111.89191012,
+        "LABEL": "SALT LAKE 794.75"
+      },
+      "geometry": { "x": -111.89191011779793, "y": 40.938491709019274 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3754,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "795",
+        "LAT": 40.94212046,
+        "LON": -111.89188583,
+        "LABEL": "SALT LAKE 795"
+      },
+      "geometry": { "x": -111.89188582555602, "y": 40.942120462586374 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3755,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "795.25",
+        "LAT": 40.94575462,
+        "LON": -111.89185958,
+        "LABEL": "SALT LAKE 795.25"
+      },
+      "geometry": { "x": -111.8918595767834, "y": 40.945754615977151 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3756,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "795.5",
+        "LAT": 40.94938873,
+        "LON": -111.89183994,
+        "LABEL": "SALT LAKE 795.5"
+      },
+      "geometry": { "x": -111.89183994500119, "y": 40.949388732900665 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3757,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "796.5",
+        "LAT": 40.96391966,
+        "LON": -111.89175061,
+        "LABEL": "SALT LAKE 796.5"
+      },
+      "geometry": { "x": -111.89175061203777, "y": 40.963919664338647 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3758,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "796.75",
+        "LAT": 40.96747064,
+        "LON": -111.89265731,
+        "LABEL": "SALT LAKE 796.75"
+      },
+      "geometry": { "x": -111.8926573095018, "y": 40.967470643869618 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3759,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "797",
+        "LAT": 40.9709506,
+        "LON": -111.89402617,
+        "LABEL": "SALT LAKE 797"
+      },
+      "geometry": { "x": -111.89402617131489, "y": 40.97095060037573 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3760,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "797.25",
+        "LAT": 40.97442545,
+        "LON": -111.89538913,
+        "LABEL": "SALT LAKE 797.25"
+      },
+      "geometry": { "x": -111.89538913209488, "y": 40.9744254500738 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3763,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "782",
+        "LAT": 40.76926499,
+        "LON": -111.91579003,
+        "LABEL": "SALT LAKE 782"
+      },
+      "geometry": { "x": -111.91579003479231, "y": 40.769264988250178 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3764,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "782.25",
+        "LAT": 40.76877274,
+        "LON": -111.9114139,
+        "LABEL": "SALT LAKE 782.25"
+      },
+      "geometry": { "x": -111.91141389637728, "y": 40.768772735479324 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3765,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "782.5",
+        "LAT": 40.76980345,
+        "LON": -111.90724756,
+        "LABEL": "SALT LAKE 782.5"
+      },
+      "geometry": { "x": -111.90724756219183, "y": 40.769803446049792 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3766,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "782.75",
+        "LAT": 40.77268479,
+        "LON": -111.90528542,
+        "LABEL": "SALT LAKE 782.75"
+      },
+      "geometry": { "x": -111.90528541882912, "y": 40.772684787140989 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3767,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "783",
+        "LAT": 40.77606995,
+        "LON": -111.90528593,
+        "LABEL": "SALT LAKE 783"
+      },
+      "geometry": { "x": -111.9052859281739, "y": 40.776069947789381 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3768,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "795.75",
+        "LAT": 40.95302288,
+        "LON": -111.89181216,
+        "LABEL": "SALT LAKE 795.75"
+      },
+      "geometry": { "x": -111.89181215741452, "y": 40.953022879135979 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3769,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "796",
+        "LAT": 40.95665703,
+        "LON": -111.89179189,
+        "LABEL": "SALT LAKE 796"
+      },
+      "geometry": { "x": -111.89179188872676, "y": 40.956657032254014 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3770,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "796.25",
+        "LAT": 40.96028834,
+        "LON": -111.89176804,
+        "LABEL": "SALT LAKE 796.25"
+      },
+      "geometry": { "x": -111.89176803665934, "y": 40.960288343040084 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3771,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "800.5",
+        "LAT": 41.00839425,
+        "LON": -111.93679502,
+        "LABEL": "SALT LAKE 800.5"
+      },
+      "geometry": { "x": -111.93679502038232, "y": 41.008394245520591 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3772,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "800.75",
+        "LAT": 41.01150164,
+        "LON": -111.93921712,
+        "LABEL": "SALT LAKE 800.75"
+      },
+      "geometry": { "x": -111.93921711913681, "y": 41.011501640875863 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3773,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "801",
+        "LAT": 41.01488904,
+        "LON": -111.94088698,
+        "LABEL": "SALT LAKE 801"
+      },
+      "geometry": { "x": -111.9408869767572, "y": 41.014889038926867 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3774,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "801.25",
+        "LAT": 41.01820818,
+        "LON": -111.94243198,
+        "LABEL": "SALT LAKE 801.25"
+      },
+      "geometry": { "x": -111.94243198112952, "y": 41.018208175790733 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3775,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "801.5",
+        "LAT": 41.02152271,
+        "LON": -111.94399422,
+        "LABEL": "SALT LAKE 801.5"
+      },
+      "geometry": { "x": -111.94399421698562, "y": 41.021522709566149 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4155,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "818.5",
+        "LAT": 41.21696367,
+        "LON": -111.98645039,
+        "LABEL": "SALT LAKE 818.5"
+      },
+      "geometry": { "x": -111.98645038496052, "y": 41.216963669126208 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4156,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "818.75",
+        "LAT": 41.22079928,
+        "LON": -111.9858165,
+        "LABEL": "SALT LAKE 818.75"
+      },
+      "geometry": { "x": -111.98581649866175, "y": 41.220799282587393 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4279,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "808",
+        "LAT": 41.09610093,
+        "LON": -112.01502709,
+        "LABEL": "SALT LAKE 808"
+      },
+      "geometry": { "x": -112.01502708592574, "y": 41.096100933896942 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4280,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "808.25",
+        "LAT": 41.09927525,
+        "LON": -112.01744015,
+        "LABEL": "SALT LAKE 808.25"
+      },
+      "geometry": { "x": -112.01744015122172, "y": 41.099275247592956 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4468,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "817.5",
+        "LAT": 41.21057899,
+        "LON": -111.99962316,
+        "LABEL": "SALT LAKE 817.5"
+      },
+      "geometry": { "x": -111.99962315542102, "y": 41.210578988001274 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4469,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "817.75",
+        "LAT": 41.21067764,
+        "LON": -111.99470124,
+        "LABEL": "SALT LAKE 817.75"
+      },
+      "geometry": { "x": -111.99470123567367, "y": 41.210677638003894 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4470,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "818",
+        "LAT": 41.21085043,
+        "LON": -111.98980683,
+        "LABEL": "SALT LAKE 818"
+      },
+      "geometry": { "x": -111.98980682593358, "y": 41.210850430583129 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4471,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "818.25",
+        "LAT": 41.21356503,
+        "LON": -111.98734436,
+        "LABEL": "SALT LAKE 818.25"
+      },
+      "geometry": { "x": -111.9873443604835, "y": 41.213565032329107 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4472,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "808.5",
+        "LAT": 41.1024452,
+        "LON": -112.01986339,
+        "LABEL": "SALT LAKE 808.5"
+      },
+      "geometry": { "x": -112.01986338724336, "y": 41.102445200197472 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4473,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "808.75",
+        "LAT": 41.10562463,
+        "LON": -112.02226492,
+        "LABEL": "SALT LAKE 808.75"
+      },
+      "geometry": { "x": -112.02226491817109, "y": 41.10562463450551 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4474,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "809",
+        "LAT": 41.10879177,
+        "LON": -112.02469457,
+        "LABEL": "SALT LAKE 809"
+      },
+      "geometry": { "x": -112.02469457355375, "y": 41.108791774277641 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4475,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "809.25",
+        "LAT": 41.1118529,
+        "LON": -112.02700364,
+        "LABEL": "SALT LAKE 809.25"
+      },
+      "geometry": { "x": -112.02700363639772, "y": 41.111852902039068 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4476,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "810.75",
+        "LAT": 41.13173116,
+        "LON": -112.03546824,
+        "LABEL": "SALT LAKE 810.75"
+      },
+      "geometry": { "x": -112.03546823763946, "y": 41.131731157308934 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4477,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "811",
+        "LAT": 41.13534628,
+        "LON": -112.03558359,
+        "LABEL": "SALT LAKE 811"
+      },
+      "geometry": { "x": -112.03558358671185, "y": 41.135346284315112 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4478,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "811.25",
+        "LAT": 41.13903496,
+        "LON": -112.03570664,
+        "LABEL": "SALT LAKE 811.25"
+      },
+      "geometry": { "x": -112.03570664332933, "y": 41.139034957843307 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4479,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "812.75",
+        "LAT": 41.16048161,
+        "LON": -112.04036584,
+        "LABEL": "SALT LAKE 812.75"
+      },
+      "geometry": { "x": -112.04036584358533, "y": 41.160481608446005 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4480,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "813",
+        "LAT": 41.16394385,
+        "LON": -112.04171226,
+        "LABEL": "SALT LAKE 813"
+      },
+      "geometry": { "x": -112.0417122573978, "y": 41.163943852585241 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4481,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "813.25",
+        "LAT": 41.167382,
+        "LON": -112.04304609,
+        "LABEL": "SALT LAKE 813.25"
+      },
+      "geometry": { "x": -112.04304608671143, "y": 41.167382002556458 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4482,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "813.5",
+        "LAT": 41.17083942,
+        "LON": -112.04428247,
+        "LABEL": "SALT LAKE 813.5"
+      },
+      "geometry": { "x": -112.04428247037632, "y": 41.170839420519755 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4483,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "813.75",
+        "LAT": 41.17438986,
+        "LON": -112.04488673,
+        "LABEL": "SALT LAKE 813.75"
+      },
+      "geometry": { "x": -112.04488672754205, "y": 41.174389856026352 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4484,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "814",
+        "LAT": 41.17796831,
+        "LON": -112.04476586,
+        "LABEL": "SALT LAKE 814"
+      },
+      "geometry": { "x": -112.04476586461048, "y": 41.17796831348582 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4485,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "814.25",
+        "LAT": 41.18150137,
+        "LON": -112.04391904,
+        "LABEL": "SALT LAKE 814.25"
+      },
+      "geometry": { "x": -112.04391903806349, "y": 41.181501368929972 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4486,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "814.5",
+        "LAT": 41.18489735,
+        "LON": -112.04237594,
+        "LABEL": "SALT LAKE 814.5"
+      },
+      "geometry": { "x": -112.04237594261116, "y": 41.184897349000771 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4487,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "814.75",
+        "LAT": 41.18807928,
+        "LON": -112.04017491,
+        "LABEL": "SALT LAKE 814.75"
+      },
+      "geometry": { "x": -112.04017490667169, "y": 41.188079281428408 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4488,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "815",
+        "LAT": 41.19096643,
+        "LON": -112.03734969,
+        "LABEL": "SALT LAKE 815"
+      },
+      "geometry": { "x": -112.03734968983179, "y": 41.190966430419934 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4489,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "815.25",
+        "LAT": 41.1936882,
+        "LON": -112.03406643,
+        "LABEL": "SALT LAKE 815.25"
+      },
+      "geometry": { "x": -112.03406642562175, "y": 41.193688202407621 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4490,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "815.5",
+        "LAT": 41.1963956,
+        "LON": -112.03076182,
+        "LABEL": "SALT LAKE 815.5"
+      },
+      "geometry": { "x": -112.03076182283046, "y": 41.196395600191657 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4491,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "815.75",
+        "LAT": 41.19910856,
+        "LON": -112.02746511,
+        "LABEL": "SALT LAKE 815.75"
+      },
+      "geometry": { "x": -112.02746510545074, "y": 41.199108561656544 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4492,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "816",
+        "LAT": 41.20181185,
+        "LON": -112.02415434,
+        "LABEL": "SALT LAKE 816"
+      },
+      "geometry": { "x": -112.02415434470818, "y": 41.201811852277572 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4493,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "816.25",
+        "LAT": 41.20444616,
+        "LON": -112.02094143,
+        "LABEL": "SALT LAKE 816.25"
+      },
+      "geometry": { "x": -112.02094142936468, "y": 41.204446157096982 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4775,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "809.5",
+        "LAT": 41.11492296,
+        "LON": -112.02929225,
+        "LABEL": "SALT LAKE 809.5"
+      },
+      "geometry": { "x": -112.02929224819593, "y": 41.114922964100522 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4776,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "809.75",
+        "LAT": 41.11795644,
+        "LON": -112.03166502,
+        "LABEL": "SALT LAKE 809.75"
+      },
+      "geometry": { "x": -112.03166502135646, "y": 41.117956436774769 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4777,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "810",
+        "LAT": 41.12103119,
+        "LON": -112.03394064,
+        "LABEL": "SALT LAKE 810"
+      },
+      "geometry": { "x": -112.03394063543082, "y": 41.121031193380283 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4778,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "810.25",
+        "LAT": 41.12450233,
+        "LON": -112.03518259,
+        "LABEL": "SALT LAKE 810.25"
+      },
+      "geometry": { "x": -112.03518259224373, "y": 41.124502331642105 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4779,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "810.5",
+        "LAT": 41.12811639,
+        "LON": -112.03533436,
+        "LABEL": "SALT LAKE 810.5"
+      },
+      "geometry": { "x": -112.03533436350931, "y": 41.128116392026136 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4780,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "811.5",
+        "LAT": 41.14272387,
+        "LON": -112.03583518,
+        "LABEL": "SALT LAKE 811.5"
+      },
+      "geometry": { "x": -112.03583518326336, "y": 41.142723873129469 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4781,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "811.75",
+        "LAT": 41.14641312,
+        "LON": -112.03594721,
+        "LABEL": "SALT LAKE 811.75"
+      },
+      "geometry": { "x": -112.03594720677256, "y": 41.146413116680939 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4782,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "812",
+        "LAT": 41.15008203,
+        "LON": -112.03639069,
+        "LABEL": "SALT LAKE 812"
+      },
+      "geometry": { "x": -112.03639068706201, "y": 41.150082026448793 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4783,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "812.25",
+        "LAT": 41.1535539,
+        "LON": -112.0376892,
+        "LABEL": "SALT LAKE 812.25"
+      },
+      "geometry": { "x": -112.03768919731363, "y": 41.153553896340526 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4784,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "812.5",
+        "LAT": 41.15701968,
+        "LON": -112.03901808,
+        "LABEL": "SALT LAKE 812.5"
+      },
+      "geometry": { "x": -112.03901808319826, "y": 41.15701967580943 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4785,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "816.5",
+        "LAT": 41.20707031,
+        "LON": -112.01771421,
+        "LABEL": "SALT LAKE 816.5"
+      },
+      "geometry": { "x": -112.0177142092486, "y": 41.20707030624024 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4786,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "816.75",
+        "LAT": 41.20917765,
+        "LON": -112.01389864,
+        "LABEL": "SALT LAKE 816.75"
+      },
+      "geometry": { "x": -112.01389864292709, "y": 41.2091776520831 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4787,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "817",
+        "LAT": 41.21039683,
+        "LON": -112.00945628,
+        "LABEL": "SALT LAKE 817"
+      },
+      "geometry": { "x": -112.0094562843026, "y": 41.210396829491167 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4788,
+        "DIVISION": "SALT LAKE",
+        "RR_Milepos": "817.25",
+        "LAT": 41.21064518,
+        "LON": -112.00455135,
+        "LABEL": "SALT LAKE 817.25"
+      },
+      "geometry": { "x": -112.00455135169726, "y": 41.210645177509157 }
+    }
+  ]
+}

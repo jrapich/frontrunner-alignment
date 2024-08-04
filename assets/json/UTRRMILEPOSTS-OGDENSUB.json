@@ -1,0 +1,2779 @@
+{
+  "objectIdFieldName": "OBJECTID",
+  "uniqueIdField": { "name": "OBJECTID", "isSystemMaintained": true },
+  "globalIdFieldName": "",
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": { "wkid": 4326, "latestWkid": 4326 },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DIVISION",
+      "type": "esriFieldTypeString",
+      "alias": "DIVISION",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "RR_Milepos",
+      "type": "esriFieldTypeString",
+      "alias": "RR_Milepos",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LAT",
+      "type": "esriFieldTypeDouble",
+      "alias": "LAT",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LON",
+      "type": "esriFieldTypeDouble",
+      "alias": "LON",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LABEL",
+      "type": "esriFieldTypeString",
+      "alias": "LABEL",
+      "sqlType": "sqlTypeOther",
+      "length": 30,
+      "domain": null,
+      "defaultValue": null
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 1218,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "1.75",
+        "LAT": 41.24240089,
+        "LON": -111.98971821,
+        "LABEL": "OGDEN 1.75"
+      },
+      "geometry": { "x": -111.98971820802913, "y": 41.2424008906127 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1219,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "2",
+        "LAT": 41.24601043,
+        "LON": -111.98965401,
+        "LABEL": "OGDEN 2"
+      },
+      "geometry": { "x": -111.98965401352061, "y": 41.246010429062729 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1220,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "2.25",
+        "LAT": 41.24966865,
+        "LON": -111.98960552,
+        "LABEL": "OGDEN 2.25"
+      },
+      "geometry": { "x": -111.98960552246157, "y": 41.249668653743015 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1221,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "2.5",
+        "LAT": 41.25332678,
+        "LON": -111.98955023,
+        "LABEL": "OGDEN 2.5"
+      },
+      "geometry": { "x": -111.9895502293592, "y": 41.253326778956584 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1222,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "2.75",
+        "LAT": 41.25698512,
+        "LON": -111.98949792,
+        "LABEL": "OGDEN 2.75"
+      },
+      "geometry": { "x": -111.98949791866357, "y": 41.256985121406039 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1223,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "3",
+        "LAT": 41.26064305,
+        "LON": -111.9895243,
+        "LABEL": "OGDEN 3"
+      },
+      "geometry": { "x": -111.9895242976919, "y": 41.260643054357885 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1224,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "3.25",
+        "LAT": 41.26424043,
+        "LON": -111.98982958,
+        "LABEL": "OGDEN 3.25"
+      },
+      "geometry": { "x": -111.98982957576817, "y": 41.264240434069656 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1225,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "3.5",
+        "LAT": 41.26783691,
+        "LON": -111.99015291,
+        "LABEL": "OGDEN 3.5"
+      },
+      "geometry": { "x": -111.99015291087996, "y": 41.267836914751733 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1226,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "3.75",
+        "LAT": 41.27143382,
+        "LON": -111.99046795,
+        "LABEL": "OGDEN 3.75"
+      },
+      "geometry": { "x": -111.99046794735516, "y": 41.271433816469241 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1227,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "4",
+        "LAT": 41.27502803,
+        "LON": -111.99082889,
+        "LABEL": "OGDEN 4"
+      },
+      "geometry": { "x": -111.99082889313125, "y": 41.2750280274407 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1228,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "4.25",
+        "LAT": 41.27852479,
+        "LON": -111.99195966,
+        "LABEL": "OGDEN 4.25"
+      },
+      "geometry": { "x": -111.99195966096985, "y": 41.278524790567211 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1229,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "4.5",
+        "LAT": 41.28179797,
+        "LON": -111.99396598,
+        "LABEL": "OGDEN 4.5"
+      },
+      "geometry": { "x": -111.99396597988499, "y": 41.281797966990716 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1230,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "4.75",
+        "LAT": 41.28503473,
+        "LON": -111.99607924,
+        "LABEL": "OGDEN 4.75"
+      },
+      "geometry": { "x": -111.99607923964142, "y": 41.2850347296448 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1231,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "5",
+        "LAT": 41.28826906,
+        "LON": -111.99819891,
+        "LABEL": "OGDEN 5"
+      },
+      "geometry": { "x": -111.99819890708078, "y": 41.288269059724449 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1232,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "5.25",
+        "LAT": 41.29156599,
+        "LON": -112.00034506,
+        "LABEL": "OGDEN 5.25"
+      },
+      "geometry": { "x": -112.0003450631429, "y": 41.291565987903184 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1233,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "5.5",
+        "LAT": 41.29485951,
+        "LON": -112.00250049,
+        "LABEL": "OGDEN 5.5"
+      },
+      "geometry": { "x": -112.00250049161541, "y": 41.294859511856892 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1234,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "5.75",
+        "LAT": 41.29815455,
+        "LON": -112.00465194,
+        "LABEL": "OGDEN 5.75"
+      },
+      "geometry": { "x": -112.00465193605963, "y": 41.298154553379817 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1235,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "6",
+        "LAT": 41.30144906,
+        "LON": -112.00680491,
+        "LABEL": "OGDEN 6"
+      },
+      "geometry": { "x": -112.00680490853814, "y": 41.301449056599814 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1236,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "6.25",
+        "LAT": 41.30464729,
+        "LON": -112.00889596,
+        "LABEL": "OGDEN 6.25"
+      },
+      "geometry": { "x": -112.00889595655084, "y": 41.304647291113717 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1237,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "6.5",
+        "LAT": 41.30784743,
+        "LON": -112.01098193,
+        "LABEL": "OGDEN 6.5"
+      },
+      "geometry": { "x": -112.0109819344721, "y": 41.307847434981625 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1238,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "6.75",
+        "LAT": 41.31104339,
+        "LON": -112.01307928,
+        "LABEL": "OGDEN 6.75"
+      },
+      "geometry": { "x": -112.01307927967497, "y": 41.311043390111379 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1239,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "7",
+        "LAT": 41.31424302,
+        "LON": -112.01516687,
+        "LABEL": "OGDEN 7"
+      },
+      "geometry": { "x": -112.01516686647889, "y": 41.314243018985621 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1240,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "7.25",
+        "LAT": 41.317519,
+        "LON": -112.01731343,
+        "LABEL": "OGDEN 7.25"
+      },
+      "geometry": { "x": -112.01731343217278, "y": 41.317518999439621 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1241,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "7.5",
+        "LAT": 41.3207966,
+        "LON": -112.01945578,
+        "LABEL": "OGDEN 7.5"
+      },
+      "geometry": { "x": -112.0194557838697, "y": 41.320796602410773 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1242,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "7.75",
+        "LAT": 41.32407409,
+        "LON": -112.02159859,
+        "LABEL": "OGDEN 7.75"
+      },
+      "geometry": { "x": -112.02159859191077, "y": 41.324074093171689 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1243,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "8",
+        "LAT": 41.32735105,
+        "LON": -112.02374295,
+        "LABEL": "OGDEN 8"
+      },
+      "geometry": { "x": -112.02374294954572, "y": 41.327351048070113 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1244,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "8.25",
+        "LAT": 41.33059266,
+        "LON": -112.02586628,
+        "LABEL": "OGDEN 8.25"
+      },
+      "geometry": { "x": -112.02586628300975, "y": 41.330592660110874 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1245,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "8.5",
+        "LAT": 41.33383536,
+        "LON": -112.02798662,
+        "LABEL": "OGDEN 8.5"
+      },
+      "geometry": { "x": -112.02798661699904, "y": 41.333835364801217 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1246,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "8.75",
+        "LAT": 41.33707958,
+        "LON": -112.0301029,
+        "LABEL": "OGDEN 8.75"
+      },
+      "geometry": { "x": -112.03010290138305, "y": 41.33707957945979 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1247,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "9",
+        "LAT": 41.34032105,
+        "LON": -112.03222688,
+        "LABEL": "OGDEN 9"
+      },
+      "geometry": { "x": -112.03222687893913, "y": 41.340321050723567 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1248,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "9.25",
+        "LAT": 41.34357206,
+        "LON": -112.03435917,
+        "LABEL": "OGDEN 9.25"
+      },
+      "geometry": { "x": -112.03435917040316, "y": 41.343572060857419 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1249,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "9.5",
+        "LAT": 41.34682645,
+        "LON": -112.03648246,
+        "LABEL": "OGDEN 9.5"
+      },
+      "geometry": { "x": -112.03648246074806, "y": 41.346826451250649 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1250,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "9.75",
+        "LAT": 41.35013276,
+        "LON": -112.03844893,
+        "LABEL": "OGDEN 9.75"
+      },
+      "geometry": { "x": -112.03844892590563, "y": 41.350132761318683 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1251,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "10",
+        "LAT": 41.35358046,
+        "LON": -112.03994085,
+        "LABEL": "OGDEN 10"
+      },
+      "geometry": { "x": -112.03994085511599, "y": 41.353580456327272 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1252,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "10.25",
+        "LAT": 41.35698761,
+        "LON": -112.0414062,
+        "LABEL": "OGDEN 10.25"
+      },
+      "geometry": { "x": -112.04140619958386, "y": 41.356987611628291 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1253,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "10.5",
+        "LAT": 41.36046227,
+        "LON": -112.04247979,
+        "LABEL": "OGDEN 10.5"
+      },
+      "geometry": { "x": -112.04247979055296, "y": 41.360462274154479 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1254,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "10.75",
+        "LAT": 41.36404081,
+        "LON": -112.04232672,
+        "LABEL": "OGDEN 10.75"
+      },
+      "geometry": { "x": -112.04232671762854, "y": 41.36404080529632 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1255,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "11",
+        "LAT": 41.36761906,
+        "LON": -112.04212196,
+        "LABEL": "OGDEN 11"
+      },
+      "geometry": { "x": -112.04212195564268, "y": 41.367619063470741 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1256,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "11.25",
+        "LAT": 41.37127257,
+        "LON": -112.04191613,
+        "LABEL": "OGDEN 11.25"
+      },
+      "geometry": { "x": -112.04191613094983, "y": 41.371272573312531 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1257,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "11.5",
+        "LAT": 41.37492608,
+        "LON": -112.04171013,
+        "LABEL": "OGDEN 11.5"
+      },
+      "geometry": { "x": -112.04171013288214, "y": 41.374926076842065 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1258,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "11.75",
+        "LAT": 41.37857931,
+        "LON": -112.04149699,
+        "LABEL": "OGDEN 11.75"
+      },
+      "geometry": { "x": -112.041496990513, "y": 41.378579307095315 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1259,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "12",
+        "LAT": 41.38223304,
+        "LON": -112.04129792,
+        "LABEL": "OGDEN 12"
+      },
+      "geometry": { "x": -112.04129792025277, "y": 41.38223303987801 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1260,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "12.25",
+        "LAT": 41.38586088,
+        "LON": -112.04109304,
+        "LABEL": "OGDEN 12.25"
+      },
+      "geometry": { "x": -112.04109304238425, "y": 41.385860879209815 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1261,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "12.5",
+        "LAT": 41.3894852,
+        "LON": -112.04110789,
+        "LABEL": "OGDEN 12.5"
+      },
+      "geometry": { "x": -112.04110788973927, "y": 41.3894851969597 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1262,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "12.75",
+        "LAT": 41.39297045,
+        "LON": -112.04243773,
+        "LABEL": "OGDEN 12.75"
+      },
+      "geometry": { "x": -112.04243773143135, "y": 41.392970449131987 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1263,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "13",
+        "LAT": 41.39642701,
+        "LON": -112.04391495,
+        "LABEL": "OGDEN 13"
+      },
+      "geometry": { "x": -112.04391494983064, "y": 41.39642700961948 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1264,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "13.25",
+        "LAT": 41.39997738,
+        "LON": -112.04542221,
+        "LABEL": "OGDEN 13.25"
+      },
+      "geometry": { "x": -112.04542220968966, "y": 41.399977382510116 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1265,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "13.5",
+        "LAT": 41.40352597,
+        "LON": -112.04693688,
+        "LABEL": "OGDEN 13.5"
+      },
+      "geometry": { "x": -112.04693688424307, "y": 41.403525973308426 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1266,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "13.75",
+        "LAT": 41.40707605,
+        "LON": -112.04844546,
+        "LABEL": "OGDEN 13.75"
+      },
+      "geometry": { "x": -112.04844546013398, "y": 41.407076048674 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1267,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "14",
+        "LAT": 41.41074804,
+        "LON": -112.04920192,
+        "LABEL": "OGDEN 14"
+      },
+      "geometry": { "x": -112.04920191975664, "y": 41.4107480394408 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1268,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "14.25",
+        "LAT": 41.414233,
+        "LON": -112.04961234,
+        "LABEL": "OGDEN 14.25"
+      },
+      "geometry": { "x": -112.04961233755208, "y": 41.4142330003177 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1269,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "14.5",
+        "LAT": 41.4177178,
+        "LON": -112.05002587,
+        "LABEL": "OGDEN 14.5"
+      },
+      "geometry": { "x": -112.05002586980659, "y": 41.417717795791766 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1270,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "14.75",
+        "LAT": 41.42120287,
+        "LON": -112.05043516,
+        "LABEL": "OGDEN 14.75"
+      },
+      "geometry": { "x": -112.05043515662308, "y": 41.421202869769807 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1271,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "15",
+        "LAT": 41.42469006,
+        "LON": -112.0508039,
+        "LABEL": "OGDEN 15"
+      },
+      "geometry": { "x": -112.05080390157248, "y": 41.424690060374381 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1272,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "15.25",
+        "LAT": 41.42828143,
+        "LON": -112.05098713,
+        "LABEL": "OGDEN 15.25"
+      },
+      "geometry": { "x": -112.05098713004266, "y": 41.428281434659176 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1273,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "15.5",
+        "LAT": 41.43187306,
+        "LON": -112.05116205,
+        "LABEL": "OGDEN 15.5"
+      },
+      "geometry": { "x": -112.05116205089308, "y": 41.431873056155169 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1274,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "15.75",
+        "LAT": 41.43546453,
+        "LON": -112.05134192,
+        "LABEL": "OGDEN 15.75"
+      },
+      "geometry": { "x": -112.05134191607087, "y": 41.435464533500081 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1275,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "16",
+        "LAT": 41.43905603,
+        "LON": -112.05152088,
+        "LABEL": "OGDEN 16"
+      },
+      "geometry": { "x": -112.05152087754345, "y": 41.439056030325574 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1276,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "16.25",
+        "LAT": 41.44272416,
+        "LON": -112.05170242,
+        "LABEL": "OGDEN 16.25"
+      },
+      "geometry": { "x": -112.05170242167249, "y": 41.442724157893686 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1277,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "16.5",
+        "LAT": 41.44639222,
+        "LON": -112.05188213,
+        "LABEL": "OGDEN 16.5"
+      },
+      "geometry": { "x": -112.05188213323834, "y": 41.446392216163254 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1278,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "16.75",
+        "LAT": 41.45006004,
+        "LON": -112.05207385,
+        "LABEL": "OGDEN 16.75"
+      },
+      "geometry": { "x": -112.05207384629637, "y": 41.450060035431811 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1279,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "17",
+        "LAT": 41.453728,
+        "LON": -112.0522609,
+        "LABEL": "OGDEN 17"
+      },
+      "geometry": { "x": -112.05226090158966, "y": 41.453727998797085 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1280,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "17.25",
+        "LAT": 41.4573785,
+        "LON": -112.05243887,
+        "LABEL": "OGDEN 17.25"
+      },
+      "geometry": { "x": -112.05243887222051, "y": 41.457378496234277 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1281,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "17.5",
+        "LAT": 41.46102502,
+        "LON": -112.05235101,
+        "LABEL": "OGDEN 17.5"
+      },
+      "geometry": { "x": -112.05235101159583, "y": 41.461025018953379 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1282,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "17.75",
+        "LAT": 41.46458849,
+        "LON": -112.05130839,
+        "LABEL": "OGDEN 17.75"
+      },
+      "geometry": { "x": -112.05130839274109, "y": 41.464588493502511 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1283,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "18",
+        "LAT": 41.46812108,
+        "LON": -112.05007198,
+        "LABEL": "OGDEN 18"
+      },
+      "geometry": { "x": -112.05007197673687, "y": 41.468121084261981 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1284,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "18.25",
+        "LAT": 41.47158703,
+        "LON": -112.04884563,
+        "LABEL": "OGDEN 18.25"
+      },
+      "geometry": { "x": -112.04884563174528, "y": 41.471587031433373 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1285,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "18.5",
+        "LAT": 41.4750556,
+        "LON": -112.04763229,
+        "LABEL": "OGDEN 18.5"
+      },
+      "geometry": { "x": -112.04763229435902, "y": 41.475055600628693 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1286,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "18.75",
+        "LAT": 41.47852301,
+        "LON": -112.04641297,
+        "LABEL": "OGDEN 18.75"
+      },
+      "geometry": { "x": -112.046412971498, "y": 41.478523005649045 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1287,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "19",
+        "LAT": 41.48199104,
+        "LON": -112.04519692,
+        "LABEL": "OGDEN 19"
+      },
+      "geometry": { "x": -112.04519691940293, "y": 41.481991040154817 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1288,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "19.25",
+        "LAT": 41.48546762,
+        "LON": -112.0439372,
+        "LABEL": "OGDEN 19.25"
+      },
+      "geometry": { "x": -112.04393720199853, "y": 41.485467619242918 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1289,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "19.5",
+        "LAT": 41.48875952,
+        "LON": -112.0419917,
+        "LABEL": "OGDEN 19.5"
+      },
+      "geometry": { "x": -112.04199170441805, "y": 41.488759516231234 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1290,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "19.75",
+        "LAT": 41.49202544,
+        "LON": -112.03996535,
+        "LABEL": "OGDEN 19.75"
+      },
+      "geometry": { "x": -112.0399653467839, "y": 41.4920254355901 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1291,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "20",
+        "LAT": 41.49530008,
+        "LON": -112.03796392,
+        "LABEL": "OGDEN 20"
+      },
+      "geometry": { "x": -112.03796392368707, "y": 41.495300084669978 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1292,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "20.25",
+        "LAT": 41.49862121,
+        "LON": -112.03593555,
+        "LABEL": "OGDEN 20.25"
+      },
+      "geometry": { "x": -112.03593555113173, "y": 41.498621206922721 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1293,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "20.5",
+        "LAT": 41.5019359,
+        "LON": -112.03388851,
+        "LABEL": "OGDEN 20.5"
+      },
+      "geometry": { "x": -112.03388851158478, "y": 41.50193589800228 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1294,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "20.75",
+        "LAT": 41.50525321,
+        "LON": -112.03184889,
+        "LABEL": "OGDEN 20.75"
+      },
+      "geometry": { "x": -112.03184889032546, "y": 41.505253210635978 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1295,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "21",
+        "LAT": 41.50857504,
+        "LON": -112.02982292,
+        "LABEL": "OGDEN 21"
+      },
+      "geometry": { "x": -112.02982291986517, "y": 41.508575040087159 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1296,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "21.25",
+        "LAT": 41.51213742,
+        "LON": -112.02954813,
+        "LABEL": "OGDEN 21.25"
+      },
+      "geometry": { "x": -112.02954812881302, "y": 41.512137415323409 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1297,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "22",
+        "LAT": 41.522896,
+        "LON": -112.02953566,
+        "LABEL": "OGDEN 22"
+      },
+      "geometry": { "x": -112.02953565929857, "y": 41.522895998036013 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1298,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "22.25",
+        "LAT": 41.52654375,
+        "LON": -112.02962084,
+        "LABEL": "OGDEN 22.25"
+      },
+      "geometry": { "x": -112.02962084114708, "y": 41.5265437507917 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1299,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "22.5",
+        "LAT": 41.5301913,
+        "LON": -112.02971963,
+        "LABEL": "OGDEN 22.5"
+      },
+      "geometry": { "x": -112.02971963247212, "y": 41.530191303955021 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1300,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "22.75",
+        "LAT": 41.53383911,
+        "LON": -112.02980042,
+        "LABEL": "OGDEN 22.75"
+      },
+      "geometry": { "x": -112.0298004224572, "y": 41.533839114113086 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1301,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "23",
+        "LAT": 41.53748707,
+        "LON": -112.02986894,
+        "LABEL": "OGDEN 23"
+      },
+      "geometry": { "x": -112.0298689414555, "y": 41.53748706620263 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1302,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "23.25",
+        "LAT": 41.54110658,
+        "LON": -112.03006053,
+        "LABEL": "OGDEN 23.25"
+      },
+      "geometry": { "x": -112.03006052964771, "y": 41.541106576998111 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1303,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "23.5",
+        "LAT": 41.54452099,
+        "LON": -112.031617,
+        "LABEL": "OGDEN 23.5"
+      },
+      "geometry": { "x": -112.03161700191295, "y": 41.544520993944026 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1304,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "23.75",
+        "LAT": 41.54783168,
+        "LON": -112.03357987,
+        "LABEL": "OGDEN 23.75"
+      },
+      "geometry": { "x": -112.03357987291105, "y": 41.547831679486144 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1305,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "24",
+        "LAT": 41.55114404,
+        "LON": -112.03553792,
+        "LABEL": "OGDEN 24"
+      },
+      "geometry": { "x": -112.03553791905773, "y": 41.551144040204825 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1306,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "24.25",
+        "LAT": 41.55445816,
+        "LON": -112.03749047,
+        "LABEL": "OGDEN 24.25"
+      },
+      "geometry": { "x": -112.03749047290479, "y": 41.554458155809748 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1307,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "24.5",
+        "LAT": 41.55777214,
+        "LON": -112.0394435,
+        "LABEL": "OGDEN 24.5"
+      },
+      "geometry": { "x": -112.03944350375725, "y": 41.55777214115983 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1308,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "24.75",
+        "LAT": 41.5610857,
+        "LON": -112.04139792,
+        "LABEL": "OGDEN 24.75"
+      },
+      "geometry": { "x": -112.04139791891357, "y": 41.561085697806028 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1309,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "25",
+        "LAT": 41.56440008,
+        "LON": -112.04334992,
+        "LABEL": "OGDEN 25"
+      },
+      "geometry": { "x": -112.04334992299167, "y": 41.564400084683236 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1310,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "25.25",
+        "LAT": 41.56771132,
+        "LON": -112.04530404,
+        "LABEL": "OGDEN 25.25"
+      },
+      "geometry": { "x": -112.04530403541574, "y": 41.567711322836132 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1311,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "25.5",
+        "LAT": 41.57102256,
+        "LON": -112.04725825,
+        "LABEL": "OGDEN 25.5"
+      },
+      "geometry": { "x": -112.04725825204437, "y": 41.571022561321584 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1312,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "25.75",
+        "LAT": 41.57433491,
+        "LON": -112.04920919,
+        "LABEL": "OGDEN 25.75"
+      },
+      "geometry": { "x": -112.04920918982222, "y": 41.574334912313304 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1313,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "26",
+        "LAT": 41.57764405,
+        "LON": -112.05116989,
+        "LABEL": "OGDEN 26"
+      },
+      "geometry": { "x": -112.05116988689733, "y": 41.5776440493331 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1314,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "26.25",
+        "LAT": 41.58095377,
+        "LON": -112.05313142,
+        "LABEL": "OGDEN 26.25"
+      },
+      "geometry": { "x": -112.0531314229989, "y": 41.580953770745666 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1315,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "26.5",
+        "LAT": 41.58426503,
+        "LON": -112.05508843,
+        "LABEL": "OGDEN 26.5"
+      },
+      "geometry": { "x": -112.05508842889651, "y": 41.584265033250063 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1316,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "26.75",
+        "LAT": 41.5875781,
+        "LON": -112.05703995,
+        "LABEL": "OGDEN 26.75"
+      },
+      "geometry": { "x": -112.05703994698602, "y": 41.587578096601305 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1317,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "27",
+        "LAT": 41.59088908,
+        "LON": -112.05899792,
+        "LABEL": "OGDEN 27"
+      },
+      "geometry": { "x": -112.05899791767425, "y": 41.5908890812129 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1318,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "27.25",
+        "LAT": 41.59420572,
+        "LON": -112.06095457,
+        "LABEL": "OGDEN 27.25"
+      },
+      "geometry": { "x": -112.06095457143223, "y": 41.59420571866702 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1319,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "27.5",
+        "LAT": 41.5975218,
+        "LON": -112.06291298,
+        "LABEL": "OGDEN 27.5"
+      },
+      "geometry": { "x": -112.06291298049833, "y": 41.597521803464716 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1320,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "27.75",
+        "LAT": 41.600836,
+        "LON": -112.06487715,
+        "LABEL": "OGDEN 27.75"
+      },
+      "geometry": { "x": -112.06487714686703, "y": 41.600835998208851 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1321,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "28",
+        "LAT": 41.60415302,
+        "LON": -112.06683288,
+        "LABEL": "OGDEN 28"
+      },
+      "geometry": { "x": -112.06683287625863, "y": 41.604153023305024 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1322,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "28.25",
+        "LAT": 41.60745406,
+        "LON": -112.06879786,
+        "LABEL": "OGDEN 28.25"
+      },
+      "geometry": { "x": -112.06879785470437, "y": 41.607454058464995 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1323,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "28.5",
+        "LAT": 41.61075879,
+        "LON": -112.07075191,
+        "LABEL": "OGDEN 28.5"
+      },
+      "geometry": { "x": -112.07075191322951, "y": 41.610758789388477 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1324,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "28.75",
+        "LAT": 41.6140647,
+        "LON": -112.07270248,
+        "LABEL": "OGDEN 28.75"
+      },
+      "geometry": { "x": -112.07270248449473, "y": 41.614064704321855 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1325,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "29",
+        "LAT": 41.61742004,
+        "LON": -112.07449292,
+        "LABEL": "OGDEN 29"
+      },
+      "geometry": { "x": -112.07449291938246, "y": 41.617420040440479 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1326,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "29.25",
+        "LAT": 41.62082322,
+        "LON": -112.076181,
+        "LABEL": "OGDEN 29.25"
+      },
+      "geometry": { "x": -112.07618099663345, "y": 41.620823217923316 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1327,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "29.5",
+        "LAT": 41.62422735,
+        "LON": -112.0778659,
+        "LABEL": "OGDEN 29.5"
+      },
+      "geometry": { "x": -112.0778659037298, "y": 41.6242273486492 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1328,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "29.75",
+        "LAT": 41.62763179,
+        "LON": -112.07954981,
+        "LABEL": "OGDEN 29.75"
+      },
+      "geometry": { "x": -112.07954980561136, "y": 41.627631788495826 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1329,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "30",
+        "LAT": 41.63103508,
+        "LON": -112.08123791,
+        "LABEL": "OGDEN 30"
+      },
+      "geometry": { "x": -112.08123790981179, "y": 41.631035077011489 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1330,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "30.25",
+        "LAT": 41.63442793,
+        "LON": -112.0829141,
+        "LABEL": "OGDEN 30.25"
+      },
+      "geometry": { "x": -112.08291409606336, "y": 41.634427927543882 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1331,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "30.5",
+        "LAT": 41.6378197,
+        "LON": -112.08459427,
+        "LABEL": "OGDEN 30.5"
+      },
+      "geometry": { "x": -112.08459427083483, "y": 41.637819699862689 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1332,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "30.75",
+        "LAT": 41.64121088,
+        "LON": -112.08627666,
+        "LABEL": "OGDEN 30.75"
+      },
+      "geometry": { "x": -112.08627665725849, "y": 41.64121087746453 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1333,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "31",
+        "LAT": 41.64460407,
+        "LON": -112.08795189,
+        "LABEL": "OGDEN 31"
+      },
+      "geometry": { "x": -112.08795189129584, "y": 41.644604067047048 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1334,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "31.25",
+        "LAT": 41.64813217,
+        "LON": -112.08923813,
+        "LABEL": "OGDEN 31.25"
+      },
+      "geometry": { "x": -112.08923812786576, "y": 41.648132169267328 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1335,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "31.5",
+        "LAT": 41.65177881,
+        "LON": -112.08971746,
+        "LABEL": "OGDEN 31.5"
+      },
+      "geometry": { "x": -112.08971746351146, "y": 41.651778814387868 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1336,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "31.75",
+        "LAT": 41.65542963,
+        "LON": -112.09014763,
+        "LABEL": "OGDEN 31.75"
+      },
+      "geometry": { "x": -112.0901476298701, "y": 41.655429627840711 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1337,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "32",
+        "LAT": 41.65908102,
+        "LON": -112.09056895,
+        "LABEL": "OGDEN 32"
+      },
+      "geometry": { "x": -112.09056894782319, "y": 41.659081022961345 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1338,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "32.25",
+        "LAT": 41.66265333,
+        "LON": -112.09098395,
+        "LABEL": "OGDEN 32.25"
+      },
+      "geometry": { "x": -112.09098395241645, "y": 41.662653331341986 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1339,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "32.5",
+        "LAT": 41.66622552,
+        "LON": -112.09140076,
+        "LABEL": "OGDEN 32.5"
+      },
+      "geometry": { "x": -112.09140076262346, "y": 41.66622552006536 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1340,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "32.75",
+        "LAT": 41.66979779,
+        "LON": -112.09181634,
+        "LABEL": "OGDEN 32.75"
+      },
+      "geometry": { "x": -112.09181634393515, "y": 41.669797788411735 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1341,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "33",
+        "LAT": 41.67337006,
+        "LON": -112.0922319,
+        "LABEL": "OGDEN 33"
+      },
+      "geometry": { "x": -112.09223189739905, "y": 41.673370059167716 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1342,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "33.25",
+        "LAT": 41.67699705,
+        "LON": -112.09265737,
+        "LABEL": "OGDEN 33.25"
+      },
+      "geometry": { "x": -112.09265737006034, "y": 41.676997051494823 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1343,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "33.5",
+        "LAT": 41.68062404,
+        "LON": -112.0930829,
+        "LABEL": "OGDEN 33.5"
+      },
+      "geometry": { "x": -112.09308289482389, "y": 41.68062404003777 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1344,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "33.75",
+        "LAT": 41.68425105,
+        "LON": -112.09350801,
+        "LABEL": "OGDEN 33.75"
+      },
+      "geometry": { "x": -112.093508010854, "y": 41.6842510542785 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1345,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "34",
+        "LAT": 41.68787808,
+        "LON": -112.09393289,
+        "LABEL": "OGDEN 34"
+      },
+      "geometry": { "x": -112.09393288613562, "y": 41.687878082770645 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1346,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "34.25",
+        "LAT": 41.69146269,
+        "LON": -112.09435254,
+        "LABEL": "OGDEN 34.25"
+      },
+      "geometry": { "x": -112.09435254400206, "y": 41.691462689659872 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1347,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "34.5",
+        "LAT": 41.6950473,
+        "LON": -112.09477213,
+        "LABEL": "OGDEN 34.5"
+      },
+      "geometry": { "x": -112.09477212641004, "y": 41.6950473007214 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1348,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "34.75",
+        "LAT": 41.69863206,
+        "LON": -112.09518937,
+        "LABEL": "OGDEN 34.75"
+      },
+      "geometry": { "x": -112.09518937229994, "y": 41.6986320634789 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1349,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "35",
+        "LAT": 41.702217,
+        "LON": -112.09560396,
+        "LABEL": "OGDEN 35"
+      },
+      "geometry": { "x": -112.09560395648165, "y": 41.702216999332954 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1350,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "35.25",
+        "LAT": 41.70607002,
+        "LON": -112.09604907,
+        "LABEL": "OGDEN 35.25"
+      },
+      "geometry": { "x": -112.09604906631505, "y": 41.706070015942643 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1351,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "35.5",
+        "LAT": 41.70992244,
+        "LON": -112.0965033,
+        "LABEL": "OGDEN 35.5"
+      },
+      "geometry": { "x": -112.09650330213341, "y": 41.709922439530018 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1352,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "35.75",
+        "LAT": 41.71377406,
+        "LON": -112.09696842,
+        "LABEL": "OGDEN 35.75"
+      },
+      "geometry": { "x": -112.0969684246347, "y": 41.713774054902728 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1353,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "36",
+        "LAT": 41.71754805,
+        "LON": -112.09806798,
+        "LABEL": "OGDEN 36"
+      },
+      "geometry": { "x": -112.09806797871214, "y": 41.717548047237521 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1354,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "36.25",
+        "LAT": 41.72089754,
+        "LON": -112.09925231,
+        "LABEL": "OGDEN 36.25"
+      },
+      "geometry": { "x": -112.09925230859957, "y": 41.720897544014726 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1355,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "36.5",
+        "LAT": 41.72424722,
+        "LON": -112.10043591,
+        "LABEL": "OGDEN 36.5"
+      },
+      "geometry": { "x": -112.10043590995329, "y": 41.724247216864264 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1356,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "36.75",
+        "LAT": 41.7275962,
+        "LON": -112.10162303,
+        "LABEL": "OGDEN 36.75"
+      },
+      "geometry": { "x": -112.10162302551642, "y": 41.727596200876143 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1357,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "37",
+        "LAT": 41.73094602,
+        "LON": -112.10280597,
+        "LABEL": "OGDEN 37"
+      },
+      "geometry": { "x": -112.10280596660843, "y": 41.730946023285135 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1358,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "37.25",
+        "LAT": 41.73441183,
+        "LON": -112.10404974,
+        "LABEL": "OGDEN 37.25"
+      },
+      "geometry": { "x": -112.10404973532327, "y": 41.734411829993746 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1359,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "37.5",
+        "LAT": 41.73787762,
+        "LON": -112.10529364,
+        "LABEL": "OGDEN 37.5"
+      },
+      "geometry": { "x": -112.105293640582, "y": 41.7378776199605 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1360,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "37.75",
+        "LAT": 41.74135261,
+        "LON": -112.10649007,
+        "LABEL": "OGDEN 37.75"
+      },
+      "geometry": { "x": -112.10649007257295, "y": 41.741352608234337 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1361,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "38",
+        "LAT": 41.74486907,
+        "LON": -112.10676595,
+        "LABEL": "OGDEN 38"
+      },
+      "geometry": { "x": -112.10676594699333, "y": 41.744869071115076 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1362,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "38.25",
+        "LAT": 41.74850371,
+        "LON": -112.10548311,
+        "LABEL": "OGDEN 38.25"
+      },
+      "geometry": { "x": -112.10548311234342, "y": 41.748503710057747 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1363,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "38.5",
+        "LAT": 41.75213913,
+        "LON": -112.10420408,
+        "LABEL": "OGDEN 38.5"
+      },
+      "geometry": { "x": -112.10420408385538, "y": 41.752139129726373 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1364,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "38.75",
+        "LAT": 41.75577292,
+        "LON": -112.10291671,
+        "LABEL": "OGDEN 38.75"
+      },
+      "geometry": { "x": -112.10291671091665, "y": 41.755772922157405 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1365,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "39",
+        "LAT": 41.75940705,
+        "LON": -112.10163096,
+        "LABEL": "OGDEN 39"
+      },
+      "geometry": { "x": -112.10163095584375, "y": 41.7594070496319 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1366,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "39.25",
+        "LAT": 41.76287338,
+        "LON": -112.10040628,
+        "LABEL": "OGDEN 39.25"
+      },
+      "geometry": { "x": -112.10040627632871, "y": 41.762873384758372 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1367,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "39.5",
+        "LAT": 41.76633975,
+        "LON": -112.09918171,
+        "LABEL": "OGDEN 39.5"
+      },
+      "geometry": { "x": -112.0991817108997, "y": 41.76633975374515 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1368,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "39.75",
+        "LAT": 41.76980636,
+        "LON": -112.0979583,
+        "LABEL": "OGDEN 39.75"
+      },
+      "geometry": { "x": -112.09795830250077, "y": 41.769806364250222 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1369,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "40",
+        "LAT": 41.77327319,
+        "LON": -112.09673591,
+        "LABEL": "OGDEN 40"
+      },
+      "geometry": { "x": -112.09673590919813, "y": 41.773273186723529 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1370,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "40.25",
+        "LAT": 41.77673844,
+        "LON": -112.0955056,
+        "LABEL": "OGDEN 40.25"
+      },
+      "geometry": { "x": -112.09550560083952, "y": 41.7767384371128 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1371,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "40.5",
+        "LAT": 41.78020514,
+        "LON": -112.09428246,
+        "LABEL": "OGDEN 40.5"
+      },
+      "geometry": { "x": -112.0942824628335, "y": 41.780205135455873 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1372,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "40.75",
+        "LAT": 41.78367115,
+        "LON": -112.09305579,
+        "LABEL": "OGDEN 40.75"
+      },
+      "geometry": { "x": -112.09305578636356, "y": 41.78367114535542 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1373,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "41",
+        "LAT": 41.78713478,
+        "LON": -112.09181899,
+        "LABEL": "OGDEN 41"
+      },
+      "geometry": { "x": -112.0918189912703, "y": 41.787134779646514 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1374,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "41.25",
+        "LAT": 41.79007928,
+        "LON": -112.08905718,
+        "LABEL": "OGDEN 41.25"
+      },
+      "geometry": { "x": -112.08905718291301, "y": 41.790079276986056 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1375,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "41.5",
+        "LAT": 41.79229675,
+        "LON": -112.08518762,
+        "LABEL": "OGDEN 41.5"
+      },
+      "geometry": { "x": -112.08518762424966, "y": 41.792296745560577 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1376,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "41.75",
+        "LAT": 41.79450134,
+        "LON": -112.08130456,
+        "LABEL": "OGDEN 41.75"
+      },
+      "geometry": { "x": -112.08130456121263, "y": 41.794501337548475 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1377,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "42",
+        "LAT": 41.79672205,
+        "LON": -112.07743795,
+        "LABEL": "OGDEN 42"
+      },
+      "geometry": { "x": -112.07743795261666, "y": 41.796722047890341 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1378,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "42.25",
+        "LAT": 41.79963382,
+        "LON": -112.07472909,
+        "LABEL": "OGDEN 42.25"
+      },
+      "geometry": { "x": -112.07472909365717, "y": 41.799633823111073 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1379,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "42.5",
+        "LAT": 41.80267435,
+        "LON": -112.07224043,
+        "LABEL": "OGDEN 42.5"
+      },
+      "geometry": { "x": -112.0722404270452, "y": 41.802674354655565 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1380,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "42.75",
+        "LAT": 41.80571622,
+        "LON": -112.06975431,
+        "LABEL": "OGDEN 42.75"
+      },
+      "geometry": { "x": -112.06975431524188, "y": 41.805716217753876 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1381,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "43",
+        "LAT": 41.80875803,
+        "LON": -112.06726797,
+        "LABEL": "OGDEN 43"
+      },
+      "geometry": { "x": -112.06726796897829, "y": 41.808758027500652 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1382,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "43.25",
+        "LAT": 41.81185869,
+        "LON": -112.06473457,
+        "LABEL": "OGDEN 43.25"
+      },
+      "geometry": { "x": -112.06473456806179, "y": 41.811858690789109 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1383,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "43.5",
+        "LAT": 41.81496405,
+        "LON": -112.06221162,
+        "LABEL": "OGDEN 43.5"
+      },
+      "geometry": { "x": -112.06221161904361, "y": 41.814964051959876 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1384,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "43.75",
+        "LAT": 41.81851642,
+        "LON": -112.06151699,
+        "LABEL": "OGDEN 43.75"
+      },
+      "geometry": { "x": -112.06151698507206, "y": 41.818516417159358 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1385,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "44",
+        "LAT": 41.82210652,
+        "LON": -112.06103781,
+        "LABEL": "OGDEN 44"
+      },
+      "geometry": { "x": -112.06103780842817, "y": 41.822106519225947 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1386,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "44.25",
+        "LAT": 41.8250674,
+        "LON": -112.05855917,
+        "LABEL": "OGDEN 44.25"
+      },
+      "geometry": { "x": -112.0585591652181, "y": 41.825067399519334 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1387,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "44.5",
+        "LAT": 41.8284553,
+        "LON": -112.05733069,
+        "LABEL": "OGDEN 44.5"
+      },
+      "geometry": { "x": -112.05733068852437, "y": 41.828455299302746 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1388,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "44.75",
+        "LAT": 41.83180203,
+        "LON": -112.05594729,
+        "LABEL": "OGDEN 44.75"
+      },
+      "geometry": { "x": -112.05594728927504, "y": 41.831802029432986 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1389,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "45",
+        "LAT": 41.83331702,
+        "LON": -112.05216195,
+        "LABEL": "OGDEN 45"
+      },
+      "geometry": { "x": -112.05216195126282, "y": 41.833317023866456 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1390,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "45.25",
+        "LAT": 41.83546903,
+        "LON": -112.04861675,
+        "LABEL": "OGDEN 45.25"
+      },
+      "geometry": { "x": -112.04861675268897, "y": 41.835469034997558 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1391,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "45.5",
+        "LAT": 41.83679379,
+        "LON": -112.04396418,
+        "LABEL": "OGDEN 45.5"
+      },
+      "geometry": { "x": -112.0439641819998, "y": 41.836793789542057 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1392,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "45.75",
+        "LAT": 41.83910175,
+        "LON": -112.04007875,
+        "LABEL": "OGDEN 45.75"
+      },
+      "geometry": { "x": -112.04007875010535, "y": 41.839101750904653 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1393,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "46",
+        "LAT": 41.84221971,
+        "LON": -112.03749367,
+        "LABEL": "OGDEN 46"
+      },
+      "geometry": { "x": -112.03749366821225, "y": 41.842219712970788 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1394,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "46.25",
+        "LAT": 41.84523967,
+        "LON": -112.03513193,
+        "LABEL": "OGDEN 46.25"
+      },
+      "geometry": { "x": -112.03513193175328, "y": 41.845239666811651 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1395,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "46.5",
+        "LAT": 41.84862047,
+        "LON": -112.03384937,
+        "LABEL": "OGDEN 46.5"
+      },
+      "geometry": { "x": -112.03384936929291, "y": 41.848620473782809 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1396,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "46.75",
+        "LAT": 41.85156401,
+        "LON": -112.03139085,
+        "LABEL": "OGDEN 46.75"
+      },
+      "geometry": { "x": -112.03139084924354, "y": 41.851564012967131 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1397,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "47",
+        "LAT": 41.85270578,
+        "LON": -112.02700631,
+        "LABEL": "OGDEN 47"
+      },
+      "geometry": { "x": -112.02700631068232, "y": 41.852705776470764 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1398,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "47.25",
+        "LAT": 41.85189953,
+        "LON": -112.0224127,
+        "LABEL": "OGDEN 47.25"
+      },
+      "geometry": { "x": -112.0224126955269, "y": 41.851899530941694 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1399,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "47.5",
+        "LAT": 41.85056177,
+        "LON": -112.01804011,
+        "LABEL": "OGDEN 47.5"
+      },
+      "geometry": { "x": -112.01804011354211, "y": 41.8505617671385 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1400,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "47.75",
+        "LAT": 41.84888333,
+        "LON": -112.01386832,
+        "LABEL": "OGDEN 47.75"
+      },
+      "geometry": { "x": -112.01386832388791, "y": 41.848883329618623 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1401,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "48",
+        "LAT": 41.84678604,
+        "LON": -112.01006287,
+        "LABEL": "OGDEN 48"
+      },
+      "geometry": { "x": -112.01006287259651, "y": 41.846786035687636 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1402,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "48.25",
+        "LAT": 41.84404279,
+        "LON": -112.00693768,
+        "LABEL": "OGDEN 48.25"
+      },
+      "geometry": { "x": -112.0069376777405, "y": 41.844042792964153 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1403,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "48.5",
+        "LAT": 41.84084369,
+        "LON": -112.00471939,
+        "LABEL": "OGDEN 48.5"
+      },
+      "geometry": { "x": -112.00471938606272, "y": 41.840843686766583 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1404,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "48.75",
+        "LAT": 41.83736761,
+        "LON": -112.0034229,
+        "LABEL": "OGDEN 48.75"
+      },
+      "geometry": { "x": -112.00342290510535, "y": 41.837367612278278 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1405,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "49",
+        "LAT": 41.83385721,
+        "LON": -112.00228725,
+        "LABEL": "OGDEN 49"
+      },
+      "geometry": { "x": -112.0022872513299, "y": 41.833857214407182 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1406,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "49.5",
+        "LAT": 41.83252489,
+        "LON": -111.99411809,
+        "LABEL": "OGDEN 49.5"
+      },
+      "geometry": { "x": -111.99411809251036, "y": 41.832524887830658 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1407,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "49.75",
+        "LAT": 41.83375633,
+        "LON": -111.98935999,
+        "LABEL": "OGDEN 49.75"
+      },
+      "geometry": { "x": -111.98935999223316, "y": 41.833756328611891 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1408,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "50",
+        "LAT": 41.83499666,
+        "LON": -111.98460584,
+        "LABEL": "OGDEN 50"
+      },
+      "geometry": { "x": -111.98460584184828, "y": 41.834996664882112 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1409,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "50.25",
+        "LAT": 41.83615444,
+        "LON": -111.98015421,
+        "LABEL": "OGDEN 50.25"
+      },
+      "geometry": { "x": -111.98015420811848, "y": 41.836154441775882 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1410,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "50.5",
+        "LAT": 41.83731205,
+        "LON": -111.97570241,
+        "LABEL": "OGDEN 50.5"
+      },
+      "geometry": { "x": -111.97570241179362, "y": 41.837312047137161 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1411,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "50.75",
+        "LAT": 41.83846948,
+        "LON": -111.97125045,
+        "LABEL": "OGDEN 50.75"
+      },
+      "geometry": { "x": -111.97125045197535, "y": 41.838469481643358 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1412,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "51",
+        "LAT": 41.83962674,
+        "LON": -111.96679833,
+        "LABEL": "OGDEN 51"
+      },
+      "geometry": { "x": -111.96679832866373, "y": 41.839626744633136 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1413,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "51.25",
+        "LAT": 41.84108365,
+        "LON": -111.96244939,
+        "LABEL": "OGDEN 51.25"
+      },
+      "geometry": { "x": -111.96244938674394, "y": 41.841083647632175 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1414,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "51.5",
+        "LAT": 41.84418427,
+        "LON": -111.96011112,
+        "LABEL": "OGDEN 51.5"
+      },
+      "geometry": { "x": -111.96011112326333, "y": 41.844184273599353 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1415,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "51.75",
+        "LAT": 41.84746769,
+        "LON": -111.95817126,
+        "LABEL": "OGDEN 51.75"
+      },
+      "geometry": { "x": -111.95817125811968, "y": 41.847467692983209 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1416,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "52",
+        "LAT": 41.85074822,
+        "LON": -111.95622254,
+        "LABEL": "OGDEN 52"
+      },
+      "geometry": { "x": -111.95622254277383, "y": 41.850748217775433 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1417,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "52.25",
+        "LAT": 41.85418135,
+        "LON": -111.95418653,
+        "LABEL": "OGDEN 52.25"
+      },
+      "geometry": { "x": -111.95418652555543, "y": 41.854181348811082 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1418,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "52.5",
+        "LAT": 41.85761444,
+        "LON": -111.95215029,
+        "LABEL": "OGDEN 52.5"
+      },
+      "geometry": { "x": -111.95215029274135, "y": 41.857614443443623 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1419,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "52.75",
+        "LAT": 41.8610475,
+        "LON": -111.95011385,
+        "LABEL": "OGDEN 52.75"
+      },
+      "geometry": { "x": -111.95011384522992, "y": 41.861047502984924 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1420,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "53",
+        "LAT": 41.86448053,
+        "LON": -111.94807718,
+        "LABEL": "OGDEN 53"
+      },
+      "geometry": { "x": -111.94807718212282, "y": 41.86448052607048 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1421,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "53.25",
+        "LAT": 41.86775574,
+        "LON": -111.94613276,
+        "LABEL": "OGDEN 53.25"
+      },
+      "geometry": { "x": -111.9461327589274, "y": 41.867755740396895 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1422,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "53.5",
+        "LAT": 41.87102991,
+        "LON": -111.94418509,
+        "LABEL": "OGDEN 53.5"
+      },
+      "geometry": { "x": -111.94418508832224, "y": 41.871029908632643 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1423,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "53.75",
+        "LAT": 41.87445247,
+        "LON": -111.94287596,
+        "LABEL": "OGDEN 53.75"
+      },
+      "geometry": { "x": -111.9428759554924, "y": 41.874452469333875 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1424,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "54",
+        "LAT": 41.87802904,
+        "LON": -111.94310792,
+        "LABEL": "OGDEN 54"
+      },
+      "geometry": { "x": -111.94310791846505, "y": 41.878029041775314 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1425,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "54.25",
+        "LAT": 41.88154715,
+        "LON": -111.94343725,
+        "LABEL": "OGDEN 54.25"
+      },
+      "geometry": { "x": -111.94343724713642, "y": 41.881547152543362 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1426,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "54.5",
+        "LAT": 41.88506523,
+        "LON": -111.94376753,
+        "LABEL": "OGDEN 54.5"
+      },
+      "geometry": { "x": -111.9437675289203, "y": 41.885065230130763 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1427,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "54.75",
+        "LAT": 41.88858321,
+        "LON": -111.94409955,
+        "LABEL": "OGDEN 54.75"
+      },
+      "geometry": { "x": -111.94409954804594, "y": 41.8885832136525 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1428,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "55",
+        "LAT": 41.89210102,
+        "LON": -111.94443497,
+        "LABEL": "OGDEN 55"
+      },
+      "geometry": { "x": -111.94443497178651, "y": 41.892101016826032 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1429,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "55.25",
+        "LAT": 41.89562424,
+        "LON": -111.94476286,
+        "LABEL": "OGDEN 55.25"
+      },
+      "geometry": { "x": -111.94476286495005, "y": 41.895624239108265 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1430,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "55.5",
+        "LAT": 41.89914723,
+        "LON": -111.94509516,
+        "LABEL": "OGDEN 55.5"
+      },
+      "geometry": { "x": -111.94509516255343, "y": 41.8991472289305 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1431,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "55.75",
+        "LAT": 41.90267003,
+        "LON": -111.94543108,
+        "LABEL": "OGDEN 55.75"
+      },
+      "geometry": { "x": -111.94543107946907, "y": 41.902670027080987 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1432,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "56",
+        "LAT": 41.90619304,
+        "LON": -111.94576297,
+        "LABEL": "OGDEN 56"
+      },
+      "geometry": { "x": -111.94576297283059, "y": 41.906193036030658 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1433,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "56.25",
+        "LAT": 41.90994187,
+        "LON": -111.94611622,
+        "LABEL": "OGDEN 56.25"
+      },
+      "geometry": { "x": -111.94611622094301, "y": 41.909941874372841 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1434,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "56.5",
+        "LAT": 41.91369057,
+        "LON": -111.9464722,
+        "LABEL": "OGDEN 56.5"
+      },
+      "geometry": { "x": -111.94647220173056, "y": 41.91369056944508 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1435,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "56.75",
+        "LAT": 41.91743933,
+        "LON": -111.94682684,
+        "LABEL": "OGDEN 56.75"
+      },
+      "geometry": { "x": -111.94682683953674, "y": 41.917439333795919 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1436,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "57",
+        "LAT": 41.92118807,
+        "LON": -111.94718191,
+        "LABEL": "OGDEN 57"
+      },
+      "geometry": { "x": -111.94718191033088, "y": 41.921188073126167 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1437,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "57.25",
+        "LAT": 41.92483621,
+        "LON": -111.94752442,
+        "LABEL": "OGDEN 57.25"
+      },
+      "geometry": { "x": -111.94752441549083, "y": 41.924836215055024 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1438,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "57.5",
+        "LAT": 41.92848413,
+        "LON": -111.94787116,
+        "LABEL": "OGDEN 57.5"
+      },
+      "geometry": { "x": -111.94787115980061, "y": 41.928484131020156 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1439,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "57.75",
+        "LAT": 41.9321322,
+        "LON": -111.94821505,
+        "LABEL": "OGDEN 57.75"
+      },
+      "geometry": { "x": -111.94821504926442, "y": 41.932132195932404 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1440,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "58",
+        "LAT": 41.93578004,
+        "LON": -111.94856292,
+        "LABEL": "OGDEN 58"
+      },
+      "geometry": { "x": -111.94856291826493, "y": 41.935780040852556 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1441,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "58.25",
+        "LAT": 41.93935743,
+        "LON": -111.94889802,
+        "LABEL": "OGDEN 58.25"
+      },
+      "geometry": { "x": -111.94889801771367, "y": 41.93935743049397 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1442,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "58.5",
+        "LAT": 41.94293464,
+        "LON": -111.9492363,
+        "LABEL": "OGDEN 58.5"
+      },
+      "geometry": { "x": -111.94923630079178, "y": 41.942934641507847 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1443,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "58.75",
+        "LAT": 41.94651185,
+        "LON": -111.94957458,
+        "LABEL": "OGDEN 58.75"
+      },
+      "geometry": { "x": -111.94957458117497, "y": 41.946511852949051 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1444,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "59",
+        "LAT": 41.95008906,
+        "LON": -111.9499129,
+        "LABEL": "OGDEN 59"
+      },
+      "geometry": { "x": -111.94991290198232, "y": 41.95008906077252 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1445,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "59.25",
+        "LAT": 41.95368334,
+        "LON": -111.9502559,
+        "LABEL": "OGDEN 59.25"
+      },
+      "geometry": { "x": -111.95025589762244, "y": 41.953683342665748 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1446,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "59.5",
+        "LAT": 41.95727778,
+        "LON": -111.95059591,
+        "LABEL": "OGDEN 59.5"
+      },
+      "geometry": { "x": -111.95059591355073, "y": 41.957277779942267 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1447,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "59.75",
+        "LAT": 41.96087214,
+        "LON": -111.95093731,
+        "LABEL": "OGDEN 59.75"
+      },
+      "geometry": { "x": -111.95093731468118, "y": 41.960872143418555 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1448,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "60",
+        "LAT": 41.96446663,
+        "LON": -111.9512764,
+        "LABEL": "OGDEN 60"
+      },
+      "geometry": { "x": -111.95127639815823, "y": 41.964466628111907 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1449,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "60.25",
+        "LAT": 41.9679699,
+        "LON": -111.951615,
+        "LABEL": "OGDEN 60.25"
+      },
+      "geometry": { "x": -111.9516150019349, "y": 41.967969895416722 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1450,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "60.5",
+        "LAT": 41.97147396,
+        "LON": -111.95193841,
+        "LABEL": "OGDEN 60.5"
+      },
+      "geometry": { "x": -111.95193841070855, "y": 41.971473959874885 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1451,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "60.75",
+        "LAT": 41.97497754,
+        "LON": -111.9522712,
+        "LABEL": "OGDEN 60.75"
+      },
+      "geometry": { "x": -111.95227119609714, "y": 41.974977537730496 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1452,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "61",
+        "LAT": 41.97848101,
+        "LON": -111.95260594,
+        "LABEL": "OGDEN 61"
+      },
+      "geometry": { "x": -111.95260594430459, "y": 41.97848100967785 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1453,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "61.25",
+        "LAT": 41.98223276,
+        "LON": -111.95296081,
+        "LABEL": "OGDEN 61.25"
+      },
+      "geometry": { "x": -111.95296080848622, "y": 41.982232759285083 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1454,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "61.5",
+        "LAT": 41.98598461,
+        "LON": -111.95331367,
+        "LABEL": "OGDEN 61.5"
+      },
+      "geometry": { "x": -111.95331367211973, "y": 41.985984611023589 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1455,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "61.75",
+        "LAT": 41.98973638,
+        "LON": -111.95366817,
+        "LABEL": "OGDEN 61.75"
+      },
+      "geometry": { "x": -111.95366817068704, "y": 41.989736376545856 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1456,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "62",
+        "LAT": 41.99348802,
+        "LON": -111.95402496,
+        "LABEL": "OGDEN 62"
+      },
+      "geometry": { "x": -111.9540249644499, "y": 41.993488019772023 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1457,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "62.25",
+        "LAT": 41.99596048,
+        "LON": -111.95426026,
+        "LABEL": "OGDEN 62.25"
+      },
+      "geometry": { "x": -111.95426026466386, "y": 41.995960476332492 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1458,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "62.5",
+        "LAT": 41.99843293,
+        "LON": -111.95449558,
+        "LABEL": "OGDEN 62.5"
+      },
+      "geometry": { "x": -111.95449558464071, "y": 41.998432931642249 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1847,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "1",
+        "LAT": 41.23191147,
+        "LON": -111.98711924,
+        "LABEL": "OGDEN 1"
+      },
+      "geometry": { "x": -111.98711923997837, "y": 41.231911468263057 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1859,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "1.25",
+        "LAT": 41.23532098,
+        "LON": -111.98867335,
+        "LABEL": "OGDEN 1.25"
+      },
+      "geometry": { "x": -111.98867334697945, "y": 41.235320979067687 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1860,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "1.5",
+        "LAT": 41.23879149,
+        "LON": -111.98977787,
+        "LABEL": "OGDEN 1.5"
+      },
+      "geometry": { "x": -111.98977786694378, "y": 41.23879148851104 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1861,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "21.5",
+        "LAT": 41.51572361,
+        "LON": -112.02954094,
+        "LABEL": "OGDEN 21.5"
+      },
+      "geometry": { "x": -112.02954094408739, "y": 41.5157236062563 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1862,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "21.75",
+        "LAT": 41.51930982,
+        "LON": -112.0295389,
+        "LABEL": "OGDEN 21.75"
+      },
+      "geometry": { "x": -112.02953890311507, "y": 41.519309821804988 }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1888,
+        "DIVISION": "OGDEN",
+        "RR_Milepos": "49.25",
+        "LAT": 41.83147408,
+        "LON": -111.99892586,
+        "LABEL": "OGDEN 49.25"
+      },
+      "geometry": { "x": -111.99892585884297, "y": 41.831474075399392 }
+    }
+  ]
+}
