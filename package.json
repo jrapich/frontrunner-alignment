@@ -1,0 +1,22 @@
+{
+  "name": "maps-tools",
+  "version": "1.0.0",
+  "description": "\"various tools for handling data for google maps/earth\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test framework\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrapich/maps-tools.git"
+  },
+  "author": "https://github.com/jrapich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrapich/maps-tools/issues"
+  },
+  "homepage": "https://github.com/jrapich/maps-tools#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
