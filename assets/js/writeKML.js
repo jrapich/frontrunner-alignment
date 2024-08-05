@@ -64,4 +64,33 @@ class KML {
   }
 }
 
-module.exports = KML;
+class PointKML extends KML {
+  constructor() {
+    this.pointsArray = [];
+  }
+  /**
+   * @param {array} points should contain an array of objects,
+   * which contain the following keys as strings:
+   * latitude,
+   * longitude,
+   * name,
+   * a point tag will be added to the content of the .kml file for each object.
+   * @returns {array} returns an array of point tags. pass this to addPlaceMarks
+   * method to add these points to the .kml file content.
+   */
+  addPoints(points) {
+    for (let i = 0; i < points.length; i++) {
+      this.pointsArray.push(
+        `<name>${points[i].name}</name>
+                <Point>
+                    <coordinates>${points[i].longitude},${points[i].latitude},0</coordinates>
+                </Point>`
+      );
+    }
+    return this.pointsArray;
+  }
+}
+
+//TODO: add other classes to be able to add other .kml objects such as pointlines, etc
+
+module.exports = { KML, PointKML };
