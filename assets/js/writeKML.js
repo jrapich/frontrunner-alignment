@@ -71,14 +71,14 @@ class PointKML extends KML {
     this.pointsArray = [];
   }
   /**
+   * method to add these points to the .kml file content.
    * @param {array} points should contain an array of objects,
    * which contain the following keys as strings:
    * latitude,
    * longitude,
    * name,
    * a point tag will be added to the content of the .kml file for each object.
-   * @returns {array} returns an array of point tags. pass this to addPlaceMarks
-   * method to add these points to the .kml file content.
+   * @returns {array} an array of point tags. pass this to addPlaceMarks
    */
   addPoints(points) {
     for (let i = 0; i < points.length; i++) {

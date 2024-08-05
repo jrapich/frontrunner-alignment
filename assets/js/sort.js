@@ -1,3 +1,5 @@
+//TODO: import prebuilt log tools from other projects
+
 //in this class we are going to pull the following coordinates data frm the RR json:
 //"name" property from the "LABEL" key
 //"longitude" property from the "geometry:x" key
