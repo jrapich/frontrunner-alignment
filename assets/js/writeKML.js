@@ -39,8 +39,9 @@ class KML {
   /**
    * Generates a complete .kml file for importing into google maps/earth
    * @param {string} fileName name of the .kml file to be generated
+   * @param {string} location file path of the .kml file to be generated
    */
-  render(fileName) {
+  render(fileName, location) {
     const contentString = () => {
       let finalContentString = "";
       for (let i = 0; i < this.contentArray.length; i++) {
@@ -52,7 +53,7 @@ class KML {
         ${contentString()}
         ${this.end}`;
 
-    fs.writeFile(`../../generated-files/${fileName}.kml`, finalKML, (err) => {
+    fs.writeFile(`${location}${fileName}.kml`, finalKML, (err) => {
       err
         ? () => {
             console.log("ERROR: File was not written");
@@ -66,6 +67,7 @@ class KML {
 
 class PointKML extends KML {
   constructor() {
+    super();
     this.pointsArray = [];
   }
   /**
