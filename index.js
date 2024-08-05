@@ -8,8 +8,8 @@ const provoSub = require("./assets/json/UTRRMILEPOSTS-PROVOSUB.json");
 const ogdenSub = require("./assets/json/UTRRMILEPOSTS-OGDENSUB.json");
 
 //array sorting and .kml building tools
-const {PointKML} = require("./assets/js/writeKML");
-const {RRsort} = require("./assets/js/sort");
+const { PointKML } = require("./assets/js/writeKML");
+const { RRsort } = require("./assets/js/sort");
 
 //TODO: change this instead into a functional inquirer prompt
 //TODO: import prebuilt log tools from other projects
@@ -46,4 +46,23 @@ KMLgen.addPoints(provoRRgps.rangeMPs);
 KMLgen.addPoints(SLCRRgps.rangeMPs);
 KMLgen.addPoints(ogdenRRgps.rangeMPs);
 KMLgen.addPlaceMarks(KMLgen.pointsArray);
-KMLgen.render("test", "./generated-files/tests/");
+//render entire list to example.kml
+KMLgen.render("complete", "./generated-files/examples/");
+
+//generate a .kml list for each sub only
+const KMLgenLyndyll = new PointKML();
+const KMLgenOgden = new PointKML();
+const KMLgenSLC = new PointKML();
+const KMLgenProvo = new PointKML();
+KMLgenLyndyll.addPoints(lyndyllRRgps.rangeMPs);
+KMLgenOgden.addPoints(ogdenRRgps.rangeMPs);
+KMLgenSLC.addPoints(SLCRRgps.rangeMPs);
+KMLgenProvo.addPoints(provoRRgps.rangeMPs);
+KMLgenLyndyll.addPlaceMarks(KMLgenLyndyll.pointsArray);
+KMLgenOgden.addPlaceMarks(KMLgenOgden.pointsArray);
+KMLgenSLC.addPlaceMarks(KMLgenSLC.pointsArray);
+KMLgenProvo.addPlaceMarks(KMLgenProvo.pointsArray);
+KMLgenLyndyll.render("lyndyllMPs", "./generated-files/");
+KMLgenOgden.render("ogdenMPs", "./generated-files/");
+KMLgenSLC.render("slMPs", "./generated-files/");
+KMLgenProvo.render("provoMPs", "./generated-files/");
